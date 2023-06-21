@@ -2084,3 +2084,620 @@ Script Stack (0 frames):
 [2023.06.21-19.11.58:731][373]LogSavePackage: Moving '../../../../NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Saved/AnimBP_Soldier_01C63E39BF47F53779144D2B9DEB1D9CE5.tmp' to '../../../../NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Content/Characters/Marine/Animations/AnimBP_Soldier_01.uasset'
 [2023.06.21-19.11.58:746][373]AssetCheck: New page: Asset Save: AnimBP_Soldier_01
 [2023.06.21-19.11.58:746][373]LogContentValidation: Display: Validating AnimBlueprint /Game/Characters/Marine/Animations/AnimBP_Soldier_01.AnimBP_Soldier_01
+[2023.06.21-19.17.47:895][544]LogSlate: Window 'Pick Skeleton' being destroyed
+[2023.06.21-19.17.47:905][544]LogContentBrowser: Deferred new asset file creation: NewBlendSpace
+[2023.06.21-19.17.47:925][544]LogContentBrowser: Creating deferred item: NewBlendSpace
+[2023.06.21-19.17.49:816][654]LogContentBrowser: Attempting asset rename: NewBlendSpace -> MovementBlendSpace
+[2023.06.21-19.17.49:818][654]LogContentBrowser: End creating deferred item NewBlendSpace
+[2023.06.21-19.18.01:459][828]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace /Game/Characters/Marine/Animations/MovementBlendSpace.MovementBlendSpace
+[2023.06.21-19.18.01:462][828]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_26:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.21-19.18.03:293][828]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2023.06.21-19.22.53:934][779]Cmd: TRANSACTION UNDO
+[2023.06.21-19.22.53:934][779]LogEditorTransaction: Undo Adding Blend Grid Sample
+[2023.06.21-19.22.54:087][779]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.21-19.22.54:088][779]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_26:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.21-19.23.37:700][872]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/Characters/Marine/Marine_Skeleton.Marine_Skeleton
+[2023.06.21-19.23.37:704][872]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.21-19.23.38:748][954]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Characters/Marine/Marine.Marine
+[2023.06.21-19.23.38:751][954]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.21-19.24.45:284][150]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2023.06.21-19.24.45:284][150]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.21-19.24.49:626][657]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2023.06.21-19.24.49:626][657]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.21-19.24.49:638][657]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2023.06.21-19.24.49:638][657]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.21-19.24.49:680][657]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2023.06.21-19.24.49:681][657]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.21-19.24.52:676][989]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace /Game/Characters/Marine/Animations/MovementBlendSpace.MovementBlendSpace
+[2023.06.21-19.24.52:680][989]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_31:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.21-19.24.52:892][989]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2023.06.21-19.25.00:876][898]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Marine/Animations/Run_Bwd.Run_Bwd
+[2023.06.21-19.25.06:393][508]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Marine/Animations/Run_Rt.Run_Rt
+[2023.06.21-19.25.08:816][767]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Marine/Animations/Run_Lt.Run_Lt
+[2023.06.21-19.25.56:436][ 42]LogSavePackage: Moving '../../../../NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Saved/MovementBlendSpace76841209462164109113DAB8B3147905.tmp' to '../../../../NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Content/Characters/Marine/Animations/MovementBlendSpace.uasset'
+[2023.06.21-19.25.56:448][ 42]AssetCheck: New page: Asset Save: MovementBlendSpace
+[2023.06.21-19.25.56:448][ 42]LogContentValidation: Display: Validating BlendSpace /Game/Characters/Marine/Animations/MovementBlendSpace.MovementBlendSpace
+[2023.06.21-19.25.59:235][361]LogSavePackage: Moving '../../../../NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Saved/MovementBlendSpace2881095A41C99CC3908B9885DB84B93C.tmp' to '../../../../NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Content/Characters/Marine/Animations/MovementBlendSpace.uasset'
+[2023.06.21-19.25.59:245][361]AssetCheck: New page: Asset Save: MovementBlendSpace
+[2023.06.21-19.25.59:245][361]LogContentValidation: Display: Validating BlendSpace /Game/Characters/Marine/Animations/MovementBlendSpace.MovementBlendSpace
+[2023.06.21-19.26.01:102][580]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2023.06.21-19.26.01:102][580]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.21-19.26.01:145][580]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2023.06.21-19.26.01:145][580]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.21-19.26.03:343][827]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2023.06.21-19.26.03:343][827]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.21-19.26.11:220][167]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2023.06.21-19.26.11:220][167]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.21-19.26.18:149][655]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2023.06.21-19.26.18:149][655]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.21-19.26.18:157][655]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2023.06.21-19.26.18:157][655]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.21-19.26.18:221][655]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2023.06.21-19.26.18:221][655]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.21-19.26.22:526][962]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Characters/Marine/Animations/AnimBP_Soldier_01.AnimBP_Soldier_01
+[2023.06.21-19.26.22:532][962]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.21-19.26.23:026][962]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2023.06.21-19.27.30:169][692]LogEditorTransaction: Undo Add Node
+[2023.06.21-19.27.30:243][692]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.21-19.28.59:259][874]BlueprintLog: New page: Compile AnimBP_Soldier_01
+[2023.06.21-19.28.59:345][874]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2023.06.21-19.29.42:161][236]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2023.06.21-19.29.42:163][236]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_1' took 0.061
+[2023.06.21-19.29.42:163][236]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Characters/Marine/Animations/AnimBP_Soldier_01] ([4] browsable assets)...
+[2023.06.21-19.29.42:183][236]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Characters/Marine/Animations/AnimBP_Soldier_01.AnimBP_Soldier_01]
+[2023.06.21-19.29.42:202][236]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Characters/Marine/Animations/AnimBP_Soldier_01.AnimBP_Soldier_01]
+[2023.06.21-19.29.42:202][236]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Marine/Animations/AnimBP_Soldier_01]
+[2023.06.21-19.29.42:217][236]LogSavePackage: Moving '../../../../NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Saved/AnimBP_Soldier_01_Auto6C130DF0742FAC6E25419E09A5542D7F0.tmp' to '../../../../NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Saved/Autosaves/Game/Characters/Marine/Animations/AnimBP_Soldier_01_Auto6.uasset'
+[2023.06.21-19.29.42:217][236]LogFileHelpers: Auto-saving content packages took 0.054
+[2023.06.21-19.32.24:815][675]LogEditorTransaction: Undo Move Nodes
+[2023.06.21-19.32.24:888][675]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.21-19.33.00:848][132]LogEditorTransaction: Undo Create Pin Link
+[2023.06.21-19.33.00:919][132]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.21-19.35.50:888][840]LogEditorTransaction: Undo Move Node
+[2023.06.21-19.35.50:961][840]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.21-19.40.20:854][950]LogEditorTransaction: Undo Move Nodes
+[2023.06.21-19.40.20:929][950]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.21-19.40.49:923][204]LogUObjectHash: Compacting FUObjectHashTables data took   4.46ms
+[2023.06.21-19.40.49:931][204]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_1' took 0.039
+[2023.06.21-19.40.49:932][204]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Characters/Marine/Animations/AnimBP_Soldier_01] ([4] browsable assets)...
+[2023.06.21-19.40.49:955][204]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Characters/Marine/Animations/AnimBP_Soldier_01.AnimBP_Soldier_01]
+[2023.06.21-19.40.49:976][204]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Characters/Marine/Animations/AnimBP_Soldier_01.AnimBP_Soldier_01]
+[2023.06.21-19.40.49:976][204]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Marine/Animations/AnimBP_Soldier_01]
+[2023.06.21-19.40.49:998][204]LogSavePackage: Moving '../../../../NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Saved/AnimBP_Soldier_01_Auto720EB3E914D9130E7C8DCD0B983DA38E7.tmp' to '../../../../NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Saved/Autosaves/Game/Characters/Marine/Animations/AnimBP_Soldier_01_Auto7.uasset'
+[2023.06.21-19.40.49:998][204]LogFileHelpers: Auto-saving content packages took 0.066
+[2023.06.21-19.42.46:916][717]BlueprintLog: New page: Collapse to Function
+[2023.06.21-19.43.51:552][228]BlueprintLog: New page: Collapse to Function
+[2023.06.21-19.44.38:204][546]BlueprintLog: New page: Compile AnimBP_Soldier_01
+[2023.06.21-19.44.38:211][546]LogBlueprint: Error: [AssetLog] D:\NAUKA\1ROKstudia\pzp\AmericanSchoolSymulator\ZofiaSajdak_Shooter\ZofiaSajdak_Shooter\Content\Characters\Marine\Animations\AnimBP_Soldier_01.uasset: [Compiler] This blueprint (self) is not a Actor, therefore ' Target ' must have a connection.
+[2023.06.21-19.44.38:244][546]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2023.06.21-19.45.54:716][782]LogEditorTransaction: Undo Create Pin Link
+[2023.06.21-19.45.54:790][782]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.21-19.45.55:167][801]LogEditorTransaction: Undo Break Pin Links
+[2023.06.21-19.45.55:239][801]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.21-19.45.55:675][847]LogEditorTransaction: Undo Create Pin Link
+[2023.06.21-19.45.55:748][847]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.21-19.45.56:121][885]LogEditorTransaction: Undo Move Node
+[2023.06.21-19.45.56:194][885]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.21-19.46.50:040][226]BlueprintLog: New page: Compile AnimBP_Soldier_01
+[2023.06.21-19.46.50:077][226]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2023.06.21-19.46.53:444][605]BlueprintLog: New page: Compile AnimBP_Soldier_01
+[2023.06.21-19.46.53:477][605]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2023.06.21-19.46.54:066][667]LogSavePackage: Moving '../../../../NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Saved/AnimBP_Soldier_01CE4B1D6F43930DF3424609BC6CA07AD4.tmp' to '../../../../NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Content/Characters/Marine/Animations/AnimBP_Soldier_01.uasset'
+[2023.06.21-19.46.54:076][667]AssetCheck: New page: Asset Save: AnimBP_Soldier_01
+[2023.06.21-19.46.54:076][667]LogContentValidation: Display: Validating AnimBlueprint /Game/Characters/Marine/Animations/AnimBP_Soldier_01.AnimBP_Soldier_01
+[2023.06.21-19.50.58:418][597]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2023.06.21-19.50.58:424][597]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_1' took 0.027
+[2023.06.21-19.50.58:425][597]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Characters/Marine/Animations/AnimBP_Soldier_01] ([4] browsable assets)...
+[2023.06.21-19.50.58:433][597]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Characters/Marine/Animations/AnimBP_Soldier_01.AnimBP_Soldier_01]
+[2023.06.21-19.50.58:440][597]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Characters/Marine/Animations/AnimBP_Soldier_01.AnimBP_Soldier_01]
+[2023.06.21-19.50.58:440][597]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Marine/Animations/AnimBP_Soldier_01]
+[2023.06.21-19.50.58:458][597]LogSavePackage: Moving '../../../../NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Saved/AnimBP_Soldier_01_Auto839368D334483B40334D07BB92B012C36.tmp' to '../../../../NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Saved/Autosaves/Game/Characters/Marine/Animations/AnimBP_Soldier_01_Auto8.uasset'
+[2023.06.21-19.50.58:458][597]LogFileHelpers: Auto-saving content packages took 0.034
+[2023.06.21-19.53.12:360][638]LogSavePackage: Moving '../../../../NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Saved/AnimBP_Soldier_01A82AE0C74FF593A0D5E06FBB3FBA06AD.tmp' to '../../../../NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Content/Characters/Marine/Animations/AnimBP_Soldier_01.uasset'
+[2023.06.21-19.53.12:372][638]AssetCheck: New page: Asset Save: AnimBP_Soldier_01
+[2023.06.21-19.53.12:372][638]LogContentValidation: Display: Validating AnimBlueprint /Game/Characters/Marine/Animations/AnimBP_Soldier_01.AnimBP_Soldier_01
+[2023.06.21-19.53.12:995][706]BlueprintLog: New page: Compile AnimBP_Soldier_01
+[2023.06.21-19.53.14:633][706]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2023.06.21-19.53.39:869][568]BlueprintLog: New page: Compile AnimBP_Soldier_01
+[2023.06.21-19.53.39:905][568]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2023.06.21-19.53.40:581][640]LogSavePackage: Moving '../../../../NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Saved/AnimBP_Soldier_01F43207574DDF091D4F4524BC0E33C921.tmp' to '../../../../NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Content/Characters/Marine/Animations/AnimBP_Soldier_01.uasset'
+[2023.06.21-19.53.40:591][640]AssetCheck: New page: Asset Save: AnimBP_Soldier_01
+[2023.06.21-19.53.40:591][640]LogContentValidation: Display: Validating AnimBlueprint /Game/Characters/Marine/Animations/AnimBP_Soldier_01.AnimBP_Soldier_01
+[2023.06.21-19.53.50:361][796]LogSavePackage: Moving '../../../../NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Saved/AnimBP_Soldier_0194889CB346DF0F917A21709A1705ACFE.tmp' to '../../../../NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Content/Characters/Marine/Animations/AnimBP_Soldier_01.uasset'
+[2023.06.21-19.53.50:370][796]AssetCheck: New page: Asset Save: AnimBP_Soldier_01
+[2023.06.21-19.53.50:370][796]LogContentValidation: Display: Validating AnimBlueprint /Game/Characters/Marine/Animations/AnimBP_Soldier_01.AnimBP_Soldier_01
+[2023.06.21-19.54.01:849][213]LogTemp: Repeating last play command: Selected Viewport
+[2023.06.21-19.54.01:854][213]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.21-19.54.01:854][213]PIE: New page: PIE session: Untitled_1 (21 cze 2023, 23:54:01)
+[2023.06.21-19.54.01:880][213]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2023.06.21-19.54.01:882][213]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002726s)
+[2023.06.21-19.54.01:883][213]LogAIModule: Creating AISystem for world Untitled_1
+[2023.06.21-19.54.01:883][213]LogPlayLevel: PIE: World Init took: (0.001033s)
+[2023.06.21-19.54.01:883][213]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.003987s)
+[2023.06.21-19.54.01:902][213]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2023.06.21-19.54.01:904][213]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2023.06.21-19.54.01:904][213]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.21-19.54.01:904][213]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.21-19.54.01:904][213]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.21-19.54.01:904][213]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.21-19.54.01:904][213]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.21-19.54.01:904][213]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.06.21-19.54.01:904][213]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.21-19.54.01:904][213]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.21-19.54.01:905][213]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.21-19.54.01:905][213]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.21-19.54.01:905][213]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.21-19.54.01:905][213]LogAudioMixer: Display: Initializing audio mixer.
+[2023.06.21-19.54.01:907][213]LogAudioMixer: Display: 0: FrontLeft
+[2023.06.21-19.54.01:907][213]LogAudioMixer: Display: 1: FrontRight
+[2023.06.21-19.54.01:907][213]LogAudioMixer: Display: 2: FrontCenter
+[2023.06.21-19.54.01:907][213]LogAudioMixer: Display: 3: LowFrequency
+[2023.06.21-19.54.01:907][213]LogAudioMixer: Display: 4: BackLeft
+[2023.06.21-19.54.01:907][213]LogAudioMixer: Display: 5: BackRight
+[2023.06.21-19.54.01:907][213]LogAudioMixer: Display: 6: SideLeft
+[2023.06.21-19.54.01:907][213]LogAudioMixer: Display: 7: SideRight
+[2023.06.21-19.54.01:939][213]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek(R) Audio)
+[2023.06.21-19.54.01:940][213]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.21-19.54.01:940][213]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.21-19.54.01:940][213]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.21-19.54.01:940][213]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.06.21-19.54.01:940][213]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.06.21-19.54.01:940][213]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2023.06.21-19.54.01:941][213]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.06.21-19.54.01:941][213]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.06.21-19.54.01:941][213]LogInit: FAudioDevice initialized.
+[2023.06.21-19.54.01:941][213]LogAudio: Display: Audio Device (ID: 7) registered with world 'Untitled_1'.
+[2023.06.21-19.54.01:950][213]LogLoad: Game class is 'BP_TopDownShooterGameMode_01_C'
+[2023.06.21-19.54.01:951][213]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2023.06.21-21.54.01
+[2023.06.21-19.54.01:952][213]LogWorld: Bringing up level for play took: 0.000518
+[2023.06.21-19.54.01:952][213]LogOnline: OSS: Creating online subsystem instance for: :Context_42
+[2023.06.21-19.54.01:955][213]PIE: Server logged in
+[2023.06.21-19.54.01:955][213]PIE: Play in editor total start time 0,102 seconds.
+[2023.06.21-19.54.08:080][943]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.21-19.54.08:080][943]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2023.06.21-19.54.08:080][943]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2023.06.21-19.54.08:081][943]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.21-19.54.08:088][943]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.21-19.54.08:091][943]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.21-19.54.08:110][943]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.21-19.54.08:110][943]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.21-19.54.08:111][943]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.21-19.54.08:130][943]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.21-19.54.08:133][943]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2023.06.21-19.54.08:169][945]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2023.06.21-19.59.14:041][585]LogSavePackage: Moving '../../../../NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Saved/AnimBP_Soldier_01CE4247E44D5E806DFB5223A12A05630D.tmp' to '../../../../NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Content/Characters/Marine/Animations/AnimBP_Soldier_01.uasset'
+[2023.06.21-19.59.14:052][585]AssetCheck: New page: Asset Save: AnimBP_Soldier_01
+[2023.06.21-19.59.14:052][585]LogContentValidation: Display: Validating AnimBlueprint /Game/Characters/Marine/Animations/AnimBP_Soldier_01.AnimBP_Soldier_01
+[2023.06.21-19.59.15:087][701]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2023.06.21-19.59.15:087][701]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.21-19.59.15:092][701]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2023.06.21-19.59.15:093][701]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.21-19.59.15:169][701]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2023.06.21-19.59.15:169][701]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.21-19.59.20:903][356]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Pawns/BP_Soldier_01.BP_Soldier_01
+[2023.06.21-20.00.18:091][511]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2023.06.21-20.00.18:091][511]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.21-20.01.52:830][138]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Pawns/BP_Soldier_01.BP_Soldier_01
+[2023.06.21-20.03.01:785][599]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2023.06.21-20.03.01:789][599]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_1' took 0.039
+[2023.06.21-20.03.01:790][599]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Pawns/BP_Soldier_01] ([4] browsable assets)...
+[2023.06.21-20.03.01:809][599]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Pawns/BP_Soldier_01.BP_Soldier_01]
+[2023.06.21-20.03.01:831][599]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Pawns/BP_Soldier_01.BP_Soldier_01]
+[2023.06.21-20.03.01:831][599]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Pawns/BP_Soldier_01]
+[2023.06.21-20.03.01:842][599]LogSavePackage: Moving '../../../../NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Saved/BP_Soldier_01_Auto9000091164B505DDB0C27A68ABD9BA9BD.tmp' to '../../../../NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Saved/Autosaves/Game/Blueprints/Pawns/BP_Soldier_01_Auto9.uasset'
+[2023.06.21-20.03.01:843][599]LogFileHelpers: Auto-saving content packages took 0.054
+[2023.06.21-20.03.28:595][537]BlueprintLog: New page: Compile BP_Soldier_01
+[2023.06.21-20.03.28:607][537]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: World_3, Actor: /Engine/Transient.World_3:PersistentLevel.REINST_BP_Soldier_01_C_5
+[2023.06.21-20.03.28:635][537]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2023.06.21-20.04.58:629][363]LogEditorTransaction: Undo Move Node
+[2023.06.21-20.07.11:665][556]BlueprintLog: New page: Compile BP_Soldier_01
+[2023.06.21-20.07.11:676][556]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: World_3, Actor: /Engine/Transient.World_3:PersistentLevel.REINST_BP_Soldier_01_C_6
+[2023.06.21-20.07.11:706][556]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2023.06.21-20.07.13:688][784]LogSavePackage: Moving '../../../../NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Saved/BP_Soldier_01711E5DE649DDF333DF74ADA2F5B4104E.tmp' to '../../../../NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Content/Blueprints/Pawns/BP_Soldier_01.uasset'
+[2023.06.21-20.07.13:700][784]AssetCheck: New page: Asset Save: BP_Soldier_01
+[2023.06.21-20.07.13:700][784]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Pawns/BP_Soldier_01.BP_Soldier_01
+[2023.06.21-20.10.47:854][514]LogEditorTransaction: Undo Add Node
+[2023.06.21-20.13.54:731][659]LogEditorTransaction: Undo Move Nodes
+[2023.06.21-20.14.29:203][882]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2023.06.21-20.14.29:204][882]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_1' took 0.030
+[2023.06.21-20.14.29:205][882]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Pawns/BP_Soldier_01] ([4] browsable assets)...
+[2023.06.21-20.14.29:226][882]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Pawns/BP_Soldier_01.BP_Soldier_01]
+[2023.06.21-20.14.29:248][882]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Pawns/BP_Soldier_01.BP_Soldier_01]
+[2023.06.21-20.14.29:248][882]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Pawns/BP_Soldier_01]
+[2023.06.21-20.14.29:266][882]LogSavePackage: Moving '../../../../NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Saved/BP_Soldier_01_Auto0FD1B9A064BC0B506ECD8B3A2A1AC3E95.tmp' to '../../../../NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Saved/Autosaves/Game/Blueprints/Pawns/BP_Soldier_01_Auto0.uasset'
+[2023.06.21-20.14.29:266][882]LogFileHelpers: Auto-saving content packages took 0.063
+[2023.06.21-20.19.07:425][480]LogEditorTransaction: Undo Rename Variable
+[2023.06.21-20.19.08:052][522]LogEditorTransaction: Undo Promote To Variable
+[2023.06.21-20.19.45:716][702]LogSlate: Took 1.580104 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2023.06.21-20.20.29:552][791]BlueprintLog: New page: Compile BP_Soldier_01
+[2023.06.21-20.20.29:565][791]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: World_3, Actor: /Engine/Transient.World_3:PersistentLevel.REINST_BP_Soldier_01_C_7
+[2023.06.21-20.20.29:600][791]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2023.06.21-20.20.52:449][405]BlueprintLog: New page: Compile BP_Soldier_01
+[2023.06.21-20.20.52:461][405]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: World_3, Actor: /Engine/Transient.World_3:PersistentLevel.REINST_BP_Soldier_01_C_8
+[2023.06.21-20.20.52:493][405]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2023.06.21-20.20.53:304][491]LogSavePackage: Moving '../../../../NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Saved/BP_Soldier_012D06BAEF4BAA4953916FBE972E3E78B8.tmp' to '../../../../NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Content/Blueprints/Pawns/BP_Soldier_01.uasset'
+[2023.06.21-20.20.53:316][491]AssetCheck: New page: Asset Save: BP_Soldier_01
+[2023.06.21-20.20.53:316][491]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Pawns/BP_Soldier_01.BP_Soldier_01
+[2023.06.21-20.21.05:056][879]LogSavePackage: Moving '../../../../NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Saved/BP_Soldier_01557D882445E2C4DE8218E28C4254CB08.tmp' to '../../../../NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Content/Blueprints/Pawns/BP_Soldier_01.uasset'
+[2023.06.21-20.21.05:070][879]AssetCheck: New page: Asset Save: BP_Soldier_01
+[2023.06.21-20.21.05:070][879]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Pawns/BP_Soldier_01.BP_Soldier_01
+[2023.06.21-20.22.09:048][966]LogEditorTransaction: Undo Create Pin Link
+[2023.06.21-20.22.09:866][ 30]LogEditorTransaction: Undo Function Dropped on Graph
+[2023.06.21-20.22.58:013][768]BlueprintLog: New page: Compile BP_Soldier_01
+[2023.06.21-20.22.58:026][768]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: World_3, Actor: /Engine/Transient.World_3:PersistentLevel.REINST_BP_Soldier_01_C_9
+[2023.06.21-20.22.58:060][768]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2023.06.21-20.24.01:801][189]LogEditorTransaction: Undo Move Node
+[2023.06.21-20.24.23:695][470]LogEditorTransaction: Undo Move Node
+[2023.06.21-20.24.25:332][633]BlueprintLog: New page: Compile BP_Soldier_01
+[2023.06.21-20.24.25:346][633]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: World_3, Actor: /Engine/Transient.World_3:PersistentLevel.REINST_BP_Soldier_01_C_10
+[2023.06.21-20.24.25:379][633]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2023.06.21-20.24.25:960][693]LogSavePackage: Moving '../../../../NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Saved/BP_Soldier_018535E88A4CE290849BD136837FFC3683.tmp' to '../../../../NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Content/Blueprints/Pawns/BP_Soldier_01.uasset'
+[2023.06.21-20.24.25:973][693]AssetCheck: New page: Asset Save: BP_Soldier_01
+[2023.06.21-20.24.25:973][693]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Pawns/BP_Soldier_01.BP_Soldier_01
+[2023.06.21-20.25.28:279][431]BlueprintLog: New page: Compile BP_Soldier_01
+[2023.06.21-20.25.28:292][431]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: World_3, Actor: /Engine/Transient.World_3:PersistentLevel.REINST_BP_Soldier_01_C_11
+[2023.06.21-20.25.28:321][431]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2023.06.21-20.25.28:795][478]LogSavePackage: Moving '../../../../NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Saved/BP_Soldier_0196ADE44146F3C50F17C4F7AD47D720D9.tmp' to '../../../../NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Content/Blueprints/Pawns/BP_Soldier_01.uasset'
+[2023.06.21-20.25.28:806][478]AssetCheck: New page: Asset Save: BP_Soldier_01
+[2023.06.21-20.25.28:806][478]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Pawns/BP_Soldier_01.BP_Soldier_01
+[2023.06.21-20.26.39:237][ 13]LogTemp: Repeating last play command: Selected Viewport
+[2023.06.21-20.26.39:243][ 13]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.21-20.26.39:243][ 13]PIE: New page: PIE session: Untitled_1 (22 cze 2023, 00:26:39)
+[2023.06.21-20.26.39:277][ 13]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2023.06.21-20.26.39:279][ 13]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001775s)
+[2023.06.21-20.26.39:281][ 13]LogAIModule: Creating AISystem for world Untitled_1
+[2023.06.21-20.26.39:281][ 13]LogPlayLevel: PIE: World Init took: (0.002011s)
+[2023.06.21-20.26.39:281][ 13]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.003951s)
+[2023.06.21-20.26.39:302][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2023.06.21-20.26.39:302][ 13]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2023.06.21-20.26.39:303][ 13]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.21-20.26.39:303][ 13]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.21-20.26.39:303][ 13]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.21-20.26.39:303][ 13]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.21-20.26.39:303][ 13]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.21-20.26.39:303][ 13]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.06.21-20.26.39:303][ 13]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.21-20.26.39:303][ 13]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.21-20.26.39:303][ 13]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.21-20.26.39:303][ 13]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.21-20.26.39:303][ 13]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.21-20.26.39:303][ 13]LogAudioMixer: Display: Initializing audio mixer.
+[2023.06.21-20.26.39:307][ 13]LogAudioMixer: Display: 0: FrontLeft
+[2023.06.21-20.26.39:307][ 13]LogAudioMixer: Display: 1: FrontRight
+[2023.06.21-20.26.39:307][ 13]LogAudioMixer: Display: 2: FrontCenter
+[2023.06.21-20.26.39:307][ 13]LogAudioMixer: Display: 3: LowFrequency
+[2023.06.21-20.26.39:307][ 13]LogAudioMixer: Display: 4: BackLeft
+[2023.06.21-20.26.39:307][ 13]LogAudioMixer: Display: 5: BackRight
+[2023.06.21-20.26.39:307][ 13]LogAudioMixer: Display: 6: SideLeft
+[2023.06.21-20.26.39:307][ 13]LogAudioMixer: Display: 7: SideRight
+[2023.06.21-20.26.39:342][ 13]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek(R) Audio)
+[2023.06.21-20.26.39:342][ 13]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.21-20.26.39:342][ 13]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.21-20.26.39:342][ 13]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.21-20.26.39:346][ 13]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.06.21-20.26.39:346][ 13]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.06.21-20.26.39:346][ 13]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2023.06.21-20.26.39:347][ 13]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.06.21-20.26.39:347][ 13]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.06.21-20.26.39:347][ 13]LogInit: FAudioDevice initialized.
+[2023.06.21-20.26.39:347][ 13]LogAudio: Display: Audio Device (ID: 8) registered with world 'Untitled_1'.
+[2023.06.21-20.26.39:355][ 13]LogLoad: Game class is 'BP_TopDownShooterGameMode_01_C'
+[2023.06.21-20.26.39:356][ 13]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2023.06.21-22.26.39
+[2023.06.21-20.26.39:356][ 13]LogWorld: Bringing up level for play took: 0.000393
+[2023.06.21-20.26.39:356][ 13]LogOnline: OSS: Creating online subsystem instance for: :Context_45
+[2023.06.21-20.26.39:358][ 13]PIE: Server logged in
+[2023.06.21-20.26.39:359][ 13]PIE: Play in editor total start time 0,116 seconds.
+[2023.06.21-20.26.39:360][ 13]LogScript: Warning: Infinite script recursion (120 calls) detected - see log for stack trace
+	BP_Soldier_01_C /Temp/UEDPIE_0_Untitled_1.Untitled_1:PersistentLevel.BP_Soldier_01_C_0
+	Function /Game/Blueprints/Pawns/BP_Soldier_01.BP_Soldier_01_C:GetMouseVelocit:0000
+[2023.06.21-20.26.39:360][ 13]PIE: Error: Infinite loop detected. Blueprint:  BP_Soldier_01 Function:  Get Mouse Velocit Call Stack:  Show
+[2023.06.21-20.26.39:408][ 13]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.21-20.26.39:408][ 13]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2023.06.21-20.26.39:408][ 13]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2023.06.21-20.26.39:408][ 13]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.21-20.26.39:419][ 13]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.21-20.26.39:422][ 13]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.21-20.26.39:440][ 13]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.21-20.26.39:440][ 13]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.21-20.26.39:441][ 13]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.21-20.26.39:462][ 13]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.21-20.26.39:464][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2023.06.21-20.26.39:559][ 14]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2023.06.21-20.26.41:070][165]LogSlate: Window 'Message Log' being destroyed
+[2023.06.21-20.26.41:082][165]LogSlate: Window 'Message Log' being destroyed
+[2023.06.21-20.26.46:989][814]LogSlate: Window 'Message Log' being destroyed
+[2023.06.21-20.26.46:997][814]LogSlate: Window 'Message Log' being destroyed
+[2023.06.21-20.26.56:230][912]LogTemp: Repeating last play command: Selected Viewport
+[2023.06.21-20.26.56:235][912]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.21-20.26.56:235][912]PIE: New page: PIE session: Untitled_1 (22 cze 2023, 00:26:56)
+[2023.06.21-20.26.56:256][912]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2023.06.21-20.26.56:258][912]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001711s)
+[2023.06.21-20.26.56:260][912]LogAIModule: Creating AISystem for world Untitled_1
+[2023.06.21-20.26.56:260][912]LogPlayLevel: PIE: World Init took: (0.002158s)
+[2023.06.21-20.26.56:260][912]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.003996s)
+[2023.06.21-20.26.56:279][912]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2023.06.21-20.26.56:280][912]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2023.06.21-20.26.56:280][912]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.21-20.26.56:281][912]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.21-20.26.56:281][912]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.21-20.26.56:281][912]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.21-20.26.56:281][912]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.21-20.26.56:281][912]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.06.21-20.26.56:281][912]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.21-20.26.56:281][912]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.21-20.26.56:281][912]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.21-20.26.56:281][912]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.21-20.26.56:281][912]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.21-20.26.56:281][912]LogAudioMixer: Display: Initializing audio mixer.
+[2023.06.21-20.26.56:283][912]LogAudioMixer: Display: 0: FrontLeft
+[2023.06.21-20.26.56:283][912]LogAudioMixer: Display: 1: FrontRight
+[2023.06.21-20.26.56:283][912]LogAudioMixer: Display: 2: FrontCenter
+[2023.06.21-20.26.56:283][912]LogAudioMixer: Display: 3: LowFrequency
+[2023.06.21-20.26.56:283][912]LogAudioMixer: Display: 4: BackLeft
+[2023.06.21-20.26.56:283][912]LogAudioMixer: Display: 5: BackRight
+[2023.06.21-20.26.56:283][912]LogAudioMixer: Display: 6: SideLeft
+[2023.06.21-20.26.56:283][912]LogAudioMixer: Display: 7: SideRight
+[2023.06.21-20.26.56:314][912]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek(R) Audio)
+[2023.06.21-20.26.56:315][912]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.21-20.26.56:315][912]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.21-20.26.56:315][912]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.21-20.26.56:315][912]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.06.21-20.26.56:315][912]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.06.21-20.26.56:315][912]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2023.06.21-20.26.56:316][912]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.06.21-20.26.56:316][912]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.06.21-20.26.56:316][912]LogInit: FAudioDevice initialized.
+[2023.06.21-20.26.56:316][912]LogAudio: Display: Audio Device (ID: 9) registered with world 'Untitled_1'.
+[2023.06.21-20.26.56:321][912]LogLoad: Game class is 'BP_TopDownShooterGameMode_01_C'
+[2023.06.21-20.26.56:322][912]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2023.06.21-22.26.56
+[2023.06.21-20.26.56:323][912]LogWorld: Bringing up level for play took: 0.000382
+[2023.06.21-20.26.56:323][912]LogOnline: OSS: Creating online subsystem instance for: :Context_46
+[2023.06.21-20.26.56:325][912]PIE: Server logged in
+[2023.06.21-20.26.56:326][912]PIE: Play in editor total start time 0,092 seconds.
+[2023.06.21-20.26.56:326][912]LogScript: Warning: Infinite script recursion (120 calls) detected - see log for stack trace
+	BP_Soldier_01_C /Temp/UEDPIE_0_Untitled_1.Untitled_1:PersistentLevel.BP_Soldier_01_C_0
+	Function /Game/Blueprints/Pawns/BP_Soldier_01.BP_Soldier_01_C:GetMouseVelocit:0000
+[2023.06.21-20.26.56:326][912]PIE: Error: Infinite loop detected. Blueprint:  BP_Soldier_01 Function:  Get Mouse Velocit Call Stack:  Show
+[2023.06.21-20.26.56:367][912]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.21-20.26.56:367][912]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2023.06.21-20.26.56:367][912]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2023.06.21-20.26.56:368][912]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.21-20.26.56:379][912]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.21-20.26.56:383][912]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.21-20.26.56:400][912]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.21-20.26.56:400][912]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.21-20.26.56:401][912]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.21-20.26.56:424][912]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2023.06.21-20.26.56:502][913]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2023.06.21-20.26.57:670][ 19]LogSlate: Window 'Message Log' being destroyed
+[2023.06.21-20.26.57:682][ 19]LogSlate: Window 'Message Log' being destroyed
+[2023.06.21-20.29.32:739][634]LogSavePackage: Moving '../../../../NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Saved/BP_Soldier_01BE4849644D391C2ECD83F9B2D33BE122.tmp' to '../../../../NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Content/Blueprints/Pawns/BP_Soldier_01.uasset'
+[2023.06.21-20.29.32:751][634]AssetCheck: New page: Asset Save: BP_Soldier_01
+[2023.06.21-20.29.32:751][634]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Pawns/BP_Soldier_01.BP_Soldier_01
+[2023.06.21-20.29.33:423][675]BlueprintLog: New page: Compile BP_Soldier_01
+[2023.06.21-20.29.33:435][675]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: World_3, Actor: /Engine/Transient.World_3:PersistentLevel.REINST_BP_Soldier_01_C_11
+[2023.06.21-20.29.33:464][675]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2023.06.21-20.29.33:909][697]LogSavePackage: Moving '../../../../NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Saved/BP_Soldier_01629D90D345DB60DC619E628313D3454A.tmp' to '../../../../NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Content/Blueprints/Pawns/BP_Soldier_01.uasset'
+[2023.06.21-20.29.33:920][697]AssetCheck: New page: Asset Save: BP_Soldier_01
+[2023.06.21-20.29.33:920][697]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Pawns/BP_Soldier_01.BP_Soldier_01
+[2023.06.21-20.29.35:608][799]LogTemp: Repeating last play command: Selected Viewport
+[2023.06.21-20.29.35:612][799]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.21-20.29.35:613][799]PIE: New page: PIE session: Untitled_1 (22 cze 2023, 00:29:35)
+[2023.06.21-20.29.35:613][799]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2023.06.21-20.29.35:615][799]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002072s)
+[2023.06.21-20.29.35:616][799]LogAIModule: Creating AISystem for world Untitled_1
+[2023.06.21-20.29.35:616][799]LogPlayLevel: PIE: World Init took: (0.001518s)
+[2023.06.21-20.29.35:616][799]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.003693s)
+[2023.06.21-20.29.35:635][799]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2023.06.21-20.29.35:635][799]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2023.06.21-20.29.35:635][799]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.21-20.29.35:635][799]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.21-20.29.35:635][799]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.21-20.29.35:635][799]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.21-20.29.35:635][799]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.21-20.29.35:635][799]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.06.21-20.29.35:635][799]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.21-20.29.35:635][799]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.21-20.29.35:636][799]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.21-20.29.35:636][799]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.21-20.29.35:636][799]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.21-20.29.35:636][799]LogAudioMixer: Display: Initializing audio mixer.
+[2023.06.21-20.29.35:638][799]LogAudioMixer: Display: 0: FrontLeft
+[2023.06.21-20.29.35:638][799]LogAudioMixer: Display: 1: FrontRight
+[2023.06.21-20.29.35:638][799]LogAudioMixer: Display: 2: FrontCenter
+[2023.06.21-20.29.35:638][799]LogAudioMixer: Display: 3: LowFrequency
+[2023.06.21-20.29.35:638][799]LogAudioMixer: Display: 4: BackLeft
+[2023.06.21-20.29.35:638][799]LogAudioMixer: Display: 5: BackRight
+[2023.06.21-20.29.35:638][799]LogAudioMixer: Display: 6: SideLeft
+[2023.06.21-20.29.35:638][799]LogAudioMixer: Display: 7: SideRight
+[2023.06.21-20.29.35:670][799]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek(R) Audio)
+[2023.06.21-20.29.35:670][799]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.21-20.29.35:670][799]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.21-20.29.35:670][799]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.21-20.29.35:671][799]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.06.21-20.29.35:671][799]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.06.21-20.29.35:671][799]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2023.06.21-20.29.35:672][799]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.06.21-20.29.35:672][799]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.06.21-20.29.35:672][799]LogInit: FAudioDevice initialized.
+[2023.06.21-20.29.35:672][799]LogAudio: Display: Audio Device (ID: 10) registered with world 'Untitled_1'.
+[2023.06.21-20.29.35:682][799]LogLoad: Game class is 'BP_TopDownShooterGameMode_01_C'
+[2023.06.21-20.29.35:683][799]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 60) at 2023.06.21-22.29.35
+[2023.06.21-20.29.35:683][799]LogWorld: Bringing up level for play took: 0.000395
+[2023.06.21-20.29.35:683][799]LogOnline: OSS: Creating online subsystem instance for: :Context_47
+[2023.06.21-20.29.35:686][799]PIE: Server logged in
+[2023.06.21-20.29.35:686][799]PIE: Play in editor total start time 0,074 seconds.
+[2023.06.21-20.29.41:048][119]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.21-20.29.41:048][119]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2023.06.21-20.29.41:048][119]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2023.06.21-20.29.41:048][119]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.21-20.29.41:056][119]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.21-20.29.41:060][119]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.21-20.29.41:076][119]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.21-20.29.41:076][119]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.21-20.29.41:077][119]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.21-20.29.41:102][119]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.21-20.29.41:105][119]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2023.06.21-20.29.41:118][120]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2023.06.21-20.29.44:823][342]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2023.06.21-20.29.45:515][382]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2023.06.21-20.29.49:748][636]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2023.06.21-20.29.50:717][692]Cmd: SELECT NONE
+[2023.06.21-20.29.52:345][692]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2023.06.21-20.29.52:472][692]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2023.06.21-20.29.52:486][692]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2023.06.21-20.29.52:720][705]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2023.06.21-20.33.12:715][387]BlueprintLog: New page: Compile BP_Soldier_01
+[2023.06.21-20.33.12:729][387]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: World_3, Actor: /Engine/Transient.World_3:PersistentLevel.REINST_BP_Soldier_01_C_12
+[2023.06.21-20.33.12:761][387]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2023.06.21-20.33.13:324][416]LogSavePackage: Moving '../../../../NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Saved/BP_Soldier_01053FE00D4DFB3EF9AF8C25B74373534C.tmp' to '../../../../NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Content/Blueprints/Pawns/BP_Soldier_01.uasset'
+[2023.06.21-20.33.13:335][416]AssetCheck: New page: Asset Save: BP_Soldier_01
+[2023.06.21-20.33.13:335][416]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Pawns/BP_Soldier_01.BP_Soldier_01
+[2023.06.21-20.33.15:041][519]LogTemp: Repeating last play command: Selected Viewport
+[2023.06.21-20.33.15:045][519]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.21-20.33.15:046][519]PIE: New page: PIE session: Untitled_1 (22 cze 2023, 00:33:15)
+[2023.06.21-20.33.15:076][519]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2023.06.21-20.33.15:078][519]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001633s)
+[2023.06.21-20.33.15:079][519]LogAIModule: Creating AISystem for world Untitled_1
+[2023.06.21-20.33.15:079][519]LogPlayLevel: PIE: World Init took: (0.001684s)
+[2023.06.21-20.33.15:079][519]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.003437s)
+[2023.06.21-20.33.15:099][519]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2023.06.21-20.33.15:100][519]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2023.06.21-20.33.15:100][519]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.21-20.33.15:100][519]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.21-20.33.15:100][519]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.21-20.33.15:100][519]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.21-20.33.15:100][519]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.21-20.33.15:100][519]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.06.21-20.33.15:100][519]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.21-20.33.15:100][519]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.21-20.33.15:100][519]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.21-20.33.15:100][519]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.21-20.33.15:100][519]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.21-20.33.15:100][519]LogAudioMixer: Display: Initializing audio mixer.
+[2023.06.21-20.33.15:102][519]LogAudioMixer: Display: 0: FrontLeft
+[2023.06.21-20.33.15:102][519]LogAudioMixer: Display: 1: FrontRight
+[2023.06.21-20.33.15:102][519]LogAudioMixer: Display: 2: FrontCenter
+[2023.06.21-20.33.15:102][519]LogAudioMixer: Display: 3: LowFrequency
+[2023.06.21-20.33.15:102][519]LogAudioMixer: Display: 4: BackLeft
+[2023.06.21-20.33.15:102][519]LogAudioMixer: Display: 5: BackRight
+[2023.06.21-20.33.15:102][519]LogAudioMixer: Display: 6: SideLeft
+[2023.06.21-20.33.15:102][519]LogAudioMixer: Display: 7: SideRight
+[2023.06.21-20.33.15:132][519]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek(R) Audio)
+[2023.06.21-20.33.15:133][519]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.21-20.33.15:133][519]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.21-20.33.15:133][519]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.21-20.33.15:133][519]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.06.21-20.33.15:133][519]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.06.21-20.33.15:133][519]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2023.06.21-20.33.15:134][519]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.06.21-20.33.15:134][519]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.06.21-20.33.15:134][519]LogInit: FAudioDevice initialized.
+[2023.06.21-20.33.15:134][519]LogAudio: Display: Audio Device (ID: 11) registered with world 'Untitled_1'.
+[2023.06.21-20.33.15:142][519]LogLoad: Game class is 'BP_TopDownShooterGameMode_01_C'
+[2023.06.21-20.33.15:143][519]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 60) at 2023.06.21-22.33.15
+[2023.06.21-20.33.15:143][519]LogWorld: Bringing up level for play took: 0.000381
+[2023.06.21-20.33.15:143][519]LogOnline: OSS: Creating online subsystem instance for: :Context_48
+[2023.06.21-20.33.15:145][519]PIE: Server logged in
+[2023.06.21-20.33.15:146][519]PIE: Play in editor total start time 0,101 seconds.
+[2023.06.21-20.33.20:828][762]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.21-20.33.20:828][762]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2023.06.21-20.33.20:828][762]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2023.06.21-20.33.20:828][762]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.21-20.33.20:837][762]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.21-20.33.20:845][762]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.21-20.33.20:863][762]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.21-20.33.20:863][762]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.21-20.33.20:864][762]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.21-20.33.20:888][762]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.21-20.33.20:890][762]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2023.06.21-20.33.20:938][763]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2023.06.21-20.33.20:947][763]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2023.06.21-20.33.25:110][918]LogSlate: Window 'Save Level As' being destroyed
+[2023.06.21-20.33.25:711][954]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2023.06.21-20.37.12:972][537]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2023.06.21-20.37.12:973][537]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_1' took 0.021
+[2023.06.21-20.37.12:973][537]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Pawns/BP_Soldier_01] ([4] browsable assets)...
+[2023.06.21-20.37.12:984][537]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Pawns/BP_Soldier_01.BP_Soldier_01]
+[2023.06.21-20.37.12:995][537]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Pawns/BP_Soldier_01.BP_Soldier_01]
+[2023.06.21-20.37.12:995][537]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Pawns/BP_Soldier_01]
+[2023.06.21-20.37.13:012][537]LogSavePackage: Moving '../../../../NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Saved/BP_Soldier_01_Auto1D475595545B0B57D8D356B980FE59801.tmp' to '../../../../NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Saved/Autosaves/Game/Blueprints/Pawns/BP_Soldier_01_Auto1.uasset'
+[2023.06.21-20.37.13:014][537]LogFileHelpers: Auto-saving content packages took 0.041
+[2023.06.21-20.39.44:965][114]LogEditorTransaction: Undo Move Node
+[2023.06.21-20.41.57:177][ 97]BlueprintLog: New page: Compile BP_Soldier_01
+[2023.06.21-20.41.57:190][ 97]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: World_3, Actor: /Engine/Transient.World_3:PersistentLevel.REINST_BP_Soldier_01_C_13
+[2023.06.21-20.41.57:220][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2023.06.21-20.42.04:232][515]BlueprintLog: New page: Compile BP_Soldier_01
+[2023.06.21-20.42.04:245][515]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: World_3, Actor: /Engine/Transient.World_3:PersistentLevel.REINST_BP_Soldier_01_C_14
+[2023.06.21-20.42.04:275][515]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2023.06.21-20.42.04:859][545]LogSavePackage: Moving '../../../../NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Saved/BP_Soldier_01ECEAAC234FAF2512932947AD68B35A76.tmp' to '../../../../NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Content/Blueprints/Pawns/BP_Soldier_01.uasset'
+[2023.06.21-20.42.04:871][545]AssetCheck: New page: Asset Save: BP_Soldier_01
+[2023.06.21-20.42.04:871][545]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Pawns/BP_Soldier_01.BP_Soldier_01
+[2023.06.21-20.42.18:633][369]LogSavePackage: Moving '../../../../NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Saved/BP_Soldier_0149019DB7475C03ACA643D6BD57EA80DA.tmp' to '../../../../NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Content/Blueprints/Pawns/BP_Soldier_01.uasset'
+[2023.06.21-20.42.18:647][369]AssetCheck: New page: Asset Save: BP_Soldier_01
+[2023.06.21-20.42.18:647][369]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Pawns/BP_Soldier_01.BP_Soldier_01
+[2023.06.21-20.42.32:926][576]LogSavePackage: Moving '../../../../NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Saved/BP_Soldier_01CDDA7A73420307091B7493AB082D65B5.tmp' to '../../../../NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Content/Blueprints/Pawns/BP_Soldier_01.uasset'
+[2023.06.21-20.42.32:937][576]AssetCheck: New page: Asset Save: BP_Soldier_01
+[2023.06.21-20.42.32:937][576]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Pawns/BP_Soldier_01.BP_Soldier_01
+[2023.06.21-20.44.00:063][ 12]LogTemp: Repeating last play command: Selected Viewport
+[2023.06.21-20.44.00:068][ 12]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.21-20.44.00:068][ 12]PIE: New page: PIE session: Untitled_1 (22 cze 2023, 00:44:00)
+[2023.06.21-20.44.00:068][ 12]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2023.06.21-20.44.00:070][ 12]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001745s)
+[2023.06.21-20.44.00:071][ 12]LogAIModule: Creating AISystem for world Untitled_1
+[2023.06.21-20.44.00:071][ 12]LogPlayLevel: PIE: World Init took: (0.001667s)
+[2023.06.21-20.44.00:071][ 12]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.003511s)
+[2023.06.21-20.44.00:091][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2023.06.21-20.44.00:092][ 12]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2023.06.21-20.44.00:092][ 12]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.21-20.44.00:092][ 12]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.21-20.44.00:092][ 12]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.21-20.44.00:092][ 12]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.21-20.44.00:092][ 12]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.21-20.44.00:092][ 12]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.06.21-20.44.00:092][ 12]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.21-20.44.00:092][ 12]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.21-20.44.00:092][ 12]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.21-20.44.00:092][ 12]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.21-20.44.00:092][ 12]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.21-20.44.00:092][ 12]LogAudioMixer: Display: Initializing audio mixer.
+[2023.06.21-20.44.00:094][ 12]LogAudioMixer: Display: 0: FrontLeft
+[2023.06.21-20.44.00:094][ 12]LogAudioMixer: Display: 1: FrontRight
+[2023.06.21-20.44.00:094][ 12]LogAudioMixer: Display: 2: FrontCenter
+[2023.06.21-20.44.00:094][ 12]LogAudioMixer: Display: 3: LowFrequency
+[2023.06.21-20.44.00:094][ 12]LogAudioMixer: Display: 4: BackLeft
+[2023.06.21-20.44.00:094][ 12]LogAudioMixer: Display: 5: BackRight
+[2023.06.21-20.44.00:094][ 12]LogAudioMixer: Display: 6: SideLeft
+[2023.06.21-20.44.00:094][ 12]LogAudioMixer: Display: 7: SideRight
+[2023.06.21-20.44.00:123][ 12]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek(R) Audio)
+[2023.06.21-20.44.00:124][ 12]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.21-20.44.00:124][ 12]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.21-20.44.00:124][ 12]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.21-20.44.00:124][ 12]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.06.21-20.44.00:124][ 12]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.06.21-20.44.00:124][ 12]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2023.06.21-20.44.00:125][ 12]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.06.21-20.44.00:125][ 12]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.06.21-20.44.00:125][ 12]LogInit: FAudioDevice initialized.
+[2023.06.21-20.44.00:125][ 12]LogAudio: Display: Audio Device (ID: 12) registered with world 'Untitled_1'.
+[2023.06.21-20.44.00:133][ 12]LogLoad: Game class is 'BP_TopDownShooterGameMode_01_C'
+[2023.06.21-20.44.00:134][ 12]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 60) at 2023.06.21-22.44.00
+[2023.06.21-20.44.00:135][ 12]LogWorld: Bringing up level for play took: 0.000395
+[2023.06.21-20.44.00:135][ 12]LogOnline: OSS: Creating online subsystem instance for: :Context_49
+[2023.06.21-20.44.00:137][ 12]PIE: Server logged in
+[2023.06.21-20.44.00:138][ 12]PIE: Play in editor total start time 0,071 seconds.
+[2023.06.21-20.44.13:027][784]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.21-20.44.13:027][784]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2023.06.21-20.44.13:027][784]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2023.06.21-20.44.13:027][784]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.21-20.44.13:035][784]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.21-20.44.13:044][784]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.21-20.44.13:061][784]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.21-20.44.13:061][784]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.21-20.44.13:062][784]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.21-20.44.13:070][784]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.21-20.44.13:072][784]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2023.06.21-20.44.13:109][786]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2023.06.21-20.44.13:976][838]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2023.06.21-20.44.29:378][509]LogSlate: Window 'Save Level As' being destroyed
+[2023.06.21-20.44.30:041][549]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
