@@ -1205,3 +1205,180 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.06.21-14.44.49:755][270]Cmd: MAP CHECKDEP NOCLEARLOG
 [2023.06.21-14.44.49:755][270]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,136ms to complete.
 [2023.06.21-14.44.49:755][270]LogFileHelpers: Loading map 'Template_Default' took 0.714
+[2023.06.21-15.57.36:748][167]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.06.21-15.57.36:764][167]LogContentBrowser: Creating deferred item: NewFolder
+[2023.06.21-15.57.41:068][401]LogContentBrowser: Attempting asset rename: NewFolder -> Main
+[2023.06.21-15.57.41:068][401]LogContentBrowser: End creating deferred item NewFolder
+[2023.06.21-15.57.47:718][771]LogSlate: Window 'Color Picker' being destroyed
+[2023.06.21-16.44.54:659][107]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.06.21-16.44.54:670][107]LogContentBrowser: Creating deferred item: NewFolder
+[2023.06.21-16.45.04:206][680]LogContentBrowser: Attempting asset rename: NewFolder -> Blueprints
+[2023.06.21-16.45.04:207][680]LogContentBrowser: End creating deferred item NewFolder
+[2023.06.21-16.45.33:147][412]LogSlate: Window 'Color Picker' being destroyed
+[2023.06.21-16.46.09:375][ 65]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.06.21-16.46.09:381][ 65]LogContentBrowser: Creating deferred item: NewFolder
+[2023.06.21-16.46.13:211][295]LogContentBrowser: Attempting asset rename: NewFolder -> Pawns
+[2023.06.21-16.46.13:211][295]LogContentBrowser: End creating deferred item NewFolder
+[2023.06.21-16.46.15:957][457]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.06.21-16.46.15:964][457]LogContentBrowser: Creating deferred item: NewFolder
+[2023.06.21-16.46.19:651][679]LogContentBrowser: Attempting asset rename: NewFolder -> Actors
+[2023.06.21-16.46.21:255][679]LogContentBrowser: End creating deferred item NewFolder
+[2023.06.21-16.47.02:022][426]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.06.21-16.47.03:820][426]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.06.21-16.47.05:088][426]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.06.21-16.47.05:093][426]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.06.21-16.47.07:946][588]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Soldier_01
+[2023.06.21-16.47.07:962][588]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.06.21-17.02.40:553][615]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.06.21-17.05.39:625][400]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.06.21-17.05.39:636][400]LogContentBrowser: Creating deferred item: NewFolder
+[2023.06.21-17.05.44:289][680]LogContentBrowser: Attempting asset rename: NewFolder -> GameMode
+[2023.06.21-17.05.44:289][680]LogContentBrowser: End creating deferred item NewFolder
+[2023.06.21-17.05.59:163][962]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.06.21-17.05.59:171][962]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.06.21-17.05.59:179][962]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.06.21-17.06.03:516][223]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_TopDownShooterGameMode_01
+[2023.06.21-17.06.03:519][223]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.06.21-17.06.35:267][522]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/GameMode/BP_TopDownShooterGameMode_01.BP_TopDownShooterGameMode_01
+[2023.06.21-17.06.35:804][522]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0019 seconds. Added 126 classes and 0 folders.
+[2023.06.21-17.06.37:390][523]LogRenderer: Reallocating scene render targets to support 932x664 Format 10 NumSamples 1 (Frame:1).
+[2023.06.21-17.06.39:595][642]LogRenderer: Reallocating scene render targets to support 932x668 Format 10 NumSamples 1 (Frame:117).
+[2023.06.21-17.06.39:646][644]LogRenderer: Reallocating scene render targets to support 1000x680 Format 10 NumSamples 1 (Frame:119).
+[2023.06.21-17.06.39:964][663]LogSlate: Window 'BP_TopDownShooterGameMode_01' being destroyed
+[2023.06.21-17.07.06:352][807]LogSlate: Took 0.000672 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.06.21-17.07.30:686][501]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.06.21-17.07.30:702][501]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.06.21-17.09.14:211][339]BlueprintLog: New page: Compile BP_TopDownShooterGameMode_01
+[2023.06.21-17.09.14:614][339]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2023.06.21-17.09.21:165][555]LogSavePackage: Moving '../../../../NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Saved/BP_TopDownShooterGameMode_01A874C4AD44BA027FBAE5B4897CB37704.tmp' to '../../../../NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Content/Blueprints/GameMode/BP_TopDownShooterGameMode_01.uasset'
+[2023.06.21-17.09.21:185][555]AssetCheck: New page: Asset Save: BP_TopDownShooterGameMode_01
+[2023.06.21-17.09.21:185][555]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/GameMode/BP_TopDownShooterGameMode_01.BP_TopDownShooterGameMode_01
+[2023.06.21-17.09.52:155][901]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2023.06.21-17.10.03:016][179]LogSlate: Window 'Project Settings' being destroyed
+[2023.06.21-17.10.06:818][406]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.06.21-17.10.06:834][406]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.06.21-17.10.53:997][928]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2023.06.21-17.10.53:997][928]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.21-17.11.54:619][594]LogTemp: Repeating last play command: Selected Viewport
+[2023.06.21-17.11.54:626][594]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.21-17.11.54:651][594]PIE: New page: PIE session: Untitled_1 (21 cze 2023, 21:11:54)
+[2023.06.21-17.11.54:653][594]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2023.06.21-17.11.54:669][594]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.06.21-17.11.54:669][594]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2023.06.21-17.11.54:687][594]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017767s)
+[2023.06.21-17.11.54:690][594]LogAIModule: Creating AISystem for world Untitled_1
+[2023.06.21-17.11.54:691][594]LogPlayLevel: PIE: World Init took: (0.003900s)
+[2023.06.21-17.11.54:691][594]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.022336s)
+[2023.06.21-17.11.54:751][594]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2023.06.21-17.11.54:755][594]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.06.21-17.11.54:755][594]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.21-17.11.54:755][594]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.21-17.11.54:755][594]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.21-17.11.54:755][594]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.21-17.11.54:755][594]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.21-17.11.54:755][594]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.06.21-17.11.54:755][594]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.21-17.11.54:755][594]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.21-17.11.54:756][594]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.21-17.11.54:756][594]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.21-17.11.54:756][594]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.21-17.11.54:756][594]LogAudioMixer: Display: Initializing audio mixer.
+[2023.06.21-17.11.54:759][594]LogAudioMixer: Display: 0: FrontLeft
+[2023.06.21-17.11.54:759][594]LogAudioMixer: Display: 1: FrontRight
+[2023.06.21-17.11.54:759][594]LogAudioMixer: Display: 2: FrontCenter
+[2023.06.21-17.11.54:759][594]LogAudioMixer: Display: 3: LowFrequency
+[2023.06.21-17.11.54:759][594]LogAudioMixer: Display: 4: BackLeft
+[2023.06.21-17.11.54:759][594]LogAudioMixer: Display: 5: BackRight
+[2023.06.21-17.11.54:759][594]LogAudioMixer: Display: 6: SideLeft
+[2023.06.21-17.11.54:759][594]LogAudioMixer: Display: 7: SideRight
+[2023.06.21-17.11.54:791][594]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek(R) Audio)
+[2023.06.21-17.11.54:792][594]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.21-17.11.54:792][594]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.21-17.11.54:792][594]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.21-17.11.54:792][594]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.06.21-17.11.54:792][594]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.06.21-17.11.54:792][594]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2023.06.21-17.11.54:793][594]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.06.21-17.11.54:793][594]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.06.21-17.11.54:793][594]LogInit: FAudioDevice initialized.
+[2023.06.21-17.11.54:793][594]LogAudio: Display: Audio Device (ID: 2) registered with world 'Untitled_1'.
+[2023.06.21-17.11.54:807][594]LogLoad: Game class is 'BP_TopDownShooterGameMode_01_C'
+[2023.06.21-17.11.54:855][594]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 60) at 2023.06.21-19.11.54
+[2023.06.21-17.11.54:857][594]LogWorld: Bringing up level for play took: 0.002245
+[2023.06.21-17.11.54:859][594]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2023.06.21-17.11.54:931][594]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2023.06.21-17.11.55:013][594]PIE: Server logged in
+[2023.06.21-17.11.55:017][594]PIE: Play in editor total start time 0,393 seconds.
+[2023.06.21-17.11.59:150][823]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.21-17.11.59:150][823]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2023.06.21-17.11.59:151][823]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2023.06.21-17.11.59:152][823]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.21-17.11.59:161][823]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.21-17.11.59:166][823]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.21-17.11.59:198][823]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.21-17.11.59:199][823]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.21-17.11.59:200][823]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.21-17.11.59:217][823]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.21-17.11.59:263][823]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2023.06.21-17.11.59:277][824]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2023.06.21-17.12.15:824][815]LogTemp: Repeating last play command: Selected Viewport
+[2023.06.21-17.12.15:828][815]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.21-17.12.15:828][815]PIE: New page: PIE session: Untitled_1 (21 cze 2023, 21:12:15)
+[2023.06.21-17.12.15:829][815]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2023.06.21-17.12.15:830][815]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001621s)
+[2023.06.21-17.12.15:831][815]LogAIModule: Creating AISystem for world Untitled_1
+[2023.06.21-17.12.15:832][815]LogPlayLevel: PIE: World Init took: (0.001629s)
+[2023.06.21-17.12.15:832][815]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.003446s)
+[2023.06.21-17.12.15:867][815]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2023.06.21-17.12.15:867][815]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.06.21-17.12.15:867][815]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.21-17.12.15:867][815]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.21-17.12.15:867][815]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.21-17.12.15:867][815]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.21-17.12.15:867][815]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.21-17.12.15:867][815]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.06.21-17.12.15:867][815]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.21-17.12.15:868][815]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.21-17.12.15:868][815]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.21-17.12.15:868][815]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.21-17.12.15:868][815]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.21-17.12.15:868][815]LogAudioMixer: Display: Initializing audio mixer.
+[2023.06.21-17.12.15:870][815]LogAudioMixer: Display: 0: FrontLeft
+[2023.06.21-17.12.15:870][815]LogAudioMixer: Display: 1: FrontRight
+[2023.06.21-17.12.15:870][815]LogAudioMixer: Display: 2: FrontCenter
+[2023.06.21-17.12.15:870][815]LogAudioMixer: Display: 3: LowFrequency
+[2023.06.21-17.12.15:870][815]LogAudioMixer: Display: 4: BackLeft
+[2023.06.21-17.12.15:870][815]LogAudioMixer: Display: 5: BackRight
+[2023.06.21-17.12.15:870][815]LogAudioMixer: Display: 6: SideLeft
+[2023.06.21-17.12.15:870][815]LogAudioMixer: Display: 7: SideRight
+[2023.06.21-17.12.15:901][815]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek(R) Audio)
+[2023.06.21-17.12.15:901][815]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.21-17.12.15:901][815]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.21-17.12.15:901][815]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.21-17.12.15:902][815]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.06.21-17.12.15:902][815]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.06.21-17.12.15:902][815]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2023.06.21-17.12.15:903][815]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.06.21-17.12.15:903][815]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.06.21-17.12.15:903][815]LogInit: FAudioDevice initialized.
+[2023.06.21-17.12.15:903][815]LogAudio: Display: Audio Device (ID: 3) registered with world 'Untitled_1'.
+[2023.06.21-17.12.15:911][815]LogLoad: Game class is 'BP_TopDownShooterGameMode_01_C'
+[2023.06.21-17.12.15:912][815]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 60) at 2023.06.21-19.12.15
+[2023.06.21-17.12.15:912][815]LogWorld: Bringing up level for play took: 0.000365
+[2023.06.21-17.12.15:913][815]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2023.06.21-17.12.15:927][815]PIE: Server logged in
+[2023.06.21-17.12.15:927][815]PIE: Play in editor total start time 0,099 seconds.
+[2023.06.21-17.12.19:736][ 42]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.21-17.12.19:736][ 42]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2023.06.21-17.12.19:736][ 42]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2023.06.21-17.12.19:736][ 42]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.21-17.12.19:741][ 42]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.21-17.12.19:744][ 42]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.21-17.12.19:757][ 42]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.21-17.12.19:757][ 42]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.21-17.12.19:759][ 42]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.21-17.12.19:775][ 42]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.21-17.12.19:778][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2023.06.21-17.12.19:811][ 44]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2023.06.21-17.12.56:811][833]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Pawns/BP_Soldier_01.BP_Soldier_01
+[2023.06.21-17.12.59:496][966]LogSlate: Window 'BP_Soldier_01' being destroyed
