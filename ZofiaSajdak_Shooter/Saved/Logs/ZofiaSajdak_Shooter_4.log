@@ -1,0 +1,1678 @@
+﻿Log file open, 06/22/23 12:04:13
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: ZofiaSajdak_Shooter
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.191025
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line: 
+LogInit: Base Directory: D:/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2023.06.22-10.04.13:995][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2023.06.22-10.04.13:995][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2023.06.22-10.04.13:995][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Saved/Config/Windows/Engine.ini]
+[2023.06.22-10.04.13:995][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2023.06.22-10.04.13:995][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Saved/Config/Windows/Engine.ini]
+[2023.06.22-10.04.13:995][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Saved/Config/Windows/Engine.ini]
+[2023.06.22-10.04.13:995][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2023.06.22-10.04.13:995][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2023.06.22-10.04.13:995][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2023.06.22-10.04.13:995][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2023.06.22-10.04.13:995][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2023.06.22-10.04.13:995][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2023.06.22-10.04.13:995][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2023.06.22-10.04.13:995][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2023.06.22-10.04.13:995][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2023.06.22-10.04.13:995][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2023.06.22-10.04.13:995][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2023.06.22-10.04.13:995][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2023.06.22-10.04.13:995][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2023.06.22-10.04.13:995][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2023.06.22-10.04.13:995][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Saved/Config/Windows/Engine.ini]
+[2023.06.22-10.04.13:995][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2023.06.22-10.04.13:995][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2023.06.22-10.04.13:995][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2023.06.22-10.04.13:995][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2023.06.22-10.04.13:995][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2023.06.22-10.04.13:995][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2023.06.22-10.04.13:995][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2023.06.22-10.04.13:995][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2023.06.22-10.04.13:995][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2023.06.22-10.04.13:995][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2023.06.22-10.04.13:995][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2023.06.22-10.04.13:995][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2023.06.22-10.04.13:995][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2023.06.22-10.04.13:995][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2023.06.22-10.04.13:995][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Saved/Config/Windows/Engine.ini]
+[2023.06.22-10.04.13:995][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Saved/Config/Windows/Engine.ini]
+[2023.06.22-10.04.14:004][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Saved/Config/Windows/Scalability.ini]
+[2023.06.22-10.04.14:004][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.06.22-10.04.14:004][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.06.22-10.04.14:004][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Saved/Config/Windows/Scalability.ini]
+[2023.06.22-10.04.14:004][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.06.22-10.04.14:004][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Saved/Config/Windows/Scalability.ini]
+[2023.06.22-10.04.14:004][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.06.22-10.04.14:004][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.06.22-10.04.14:004][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.06.22-10.04.14:004][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.06.22-10.04.14:004][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.06.22-10.04.14:004][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.06.22-10.04.14:004][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.06.22-10.04.14:004][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.06.22-10.04.14:004][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.06.22-10.04.14:004][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.06.22-10.04.14:004][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.06.22-10.04.14:004][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.06.22-10.04.14:004][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.06.22-10.04.14:004][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.06.22-10.04.14:004][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.06.22-10.04.14:004][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.06.22-10.04.14:004][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.06.22-10.04.14:004][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.06.22-10.04.14:004][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Saved/Config/Windows/Scalability.ini]
+[2023.06.22-10.04.14:004][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.06.22-10.04.14:004][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.06.22-10.04.14:004][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.06.22-10.04.14:004][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.06.22-10.04.14:004][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.06.22-10.04.14:004][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.06.22-10.04.14:004][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.06.22-10.04.14:004][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.06.22-10.04.14:004][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.06.22-10.04.14:004][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.06.22-10.04.14:004][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.06.22-10.04.14:004][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.06.22-10.04.14:004][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.06.22-10.04.14:004][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.06.22-10.04.14:004][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.06.22-10.04.14:004][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.06.22-10.04.14:004][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.06.22-10.04.14:004][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.06.22-10.04.14:004][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.06.22-10.04.14:004][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.06.22-10.04.14:004][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.06.22-10.04.14:004][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.06.22-10.04.14:004][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.06.22-10.04.14:004][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.06.22-10.04.14:004][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.06.22-10.04.14:004][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.06.22-10.04.14:004][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.06.22-10.04.14:004][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.06.22-10.04.14:004][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.06.22-10.04.14:004][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.06.22-10.04.14:004][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Saved/Config/Windows/Scalability.ini]
+[2023.06.22-10.04.14:004][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.06.22-10.04.14:004][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.06.22-10.04.14:004][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.06.22-10.04.14:004][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.06.22-10.04.14:005][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.06.22-10.04.14:005][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.06.22-10.04.14:005][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.06.22-10.04.14:005][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.06.22-10.04.14:005][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.06.22-10.04.14:005][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Saved/Config/Windows/Scalability.ini]
+[2023.06.22-10.04.14:005][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.06.22-10.04.14:005][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.06.22-10.04.14:005][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.06.22-10.04.14:005][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.06.22-10.04.14:005][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.06.22-10.04.14:005][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.06.22-10.04.14:005][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.06.22-10.04.14:005][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.06.22-10.04.14:005][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2023.06.22-10.04.14:005][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.06.22-10.04.14:005][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.06.22-10.04.14:005][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.06.22-10.04.14:005][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2023.06.22-10.04.14:005][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.06.22-10.04.14:005][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.06.22-10.04.14:005][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.06.22-10.04.14:005][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.06.22-10.04.14:005][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2023.06.22-10.04.14:005][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.06.22-10.04.14:005][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.06.22-10.04.14:005][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.06.22-10.04.14:005][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2023.06.22-10.04.14:005][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.06.22-10.04.14:005][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2023.06.22-10.04.14:005][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.06.22-10.04.14:005][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.06.22-10.04.14:005][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.06.22-10.04.14:005][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2023.06.22-10.04.14:005][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Saved/Config/Windows/Scalability.ini]
+[2023.06.22-10.04.14:005][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.06.22-10.04.14:005][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.06.22-10.04.14:005][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Saved/Config/Windows/Scalability.ini]
+[2023.06.22-10.04.14:005][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2023.06.22-10.04.14:005][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2023.06.22-10.04.14:005][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2023.06.22-10.04.14:005][  0]LogInit: Selected Device Profile: [Windows]
+[2023.06.22-10.04.14:005][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2023.06.22-10.04.14:005][  0]LogHAL: Display: Platform has ~ 16 GB [17023209472 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.06.22-10.04.14:005][  0]LogInit: Going up to parent DeviceProfile []
+[2023.06.22-10.04.14:005][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Saved/Config/Windows/Scalability.ini]
+[2023.06.22-10.04.14:005][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.06.22-10.04.14:005][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.06.22-10.04.14:005][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Saved/Config/Windows/Scalability.ini]
+[2023.06.22-10.04.14:005][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.06.22-10.04.14:005][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Saved/Config/Windows/Scalability.ini]
+[2023.06.22-10.04.14:005][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.06.22-10.04.14:005][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.06.22-10.04.14:005][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.06.22-10.04.14:005][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.06.22-10.04.14:005][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.06.22-10.04.14:005][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.06.22-10.04.14:005][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.06.22-10.04.14:005][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.06.22-10.04.14:005][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.06.22-10.04.14:005][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.06.22-10.04.14:005][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.06.22-10.04.14:005][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.06.22-10.04.14:005][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.06.22-10.04.14:005][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.06.22-10.04.14:005][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.06.22-10.04.14:005][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.06.22-10.04.14:005][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.06.22-10.04.14:005][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.06.22-10.04.14:005][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Saved/Config/Windows/Scalability.ini]
+[2023.06.22-10.04.14:005][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.06.22-10.04.14:005][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.06.22-10.04.14:005][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.06.22-10.04.14:005][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.06.22-10.04.14:005][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.06.22-10.04.14:005][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.06.22-10.04.14:005][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.06.22-10.04.14:005][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.06.22-10.04.14:005][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.06.22-10.04.14:005][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.06.22-10.04.14:005][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.06.22-10.04.14:005][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.06.22-10.04.14:005][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.06.22-10.04.14:005][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.06.22-10.04.14:005][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.06.22-10.04.14:005][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.06.22-10.04.14:005][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.06.22-10.04.14:006][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.06.22-10.04.14:006][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.06.22-10.04.14:006][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.06.22-10.04.14:006][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.06.22-10.04.14:006][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.06.22-10.04.14:006][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.06.22-10.04.14:006][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.06.22-10.04.14:006][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.06.22-10.04.14:006][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.06.22-10.04.14:006][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.06.22-10.04.14:006][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.06.22-10.04.14:006][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.06.22-10.04.14:006][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.06.22-10.04.14:006][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Saved/Config/Windows/Scalability.ini]
+[2023.06.22-10.04.14:006][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.06.22-10.04.14:006][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.06.22-10.04.14:006][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.06.22-10.04.14:006][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.06.22-10.04.14:006][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.06.22-10.04.14:006][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.06.22-10.04.14:006][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.06.22-10.04.14:006][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.06.22-10.04.14:006][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.06.22-10.04.14:006][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Saved/Config/Windows/Scalability.ini]
+[2023.06.22-10.04.14:006][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.06.22-10.04.14:006][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.06.22-10.04.14:006][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.06.22-10.04.14:006][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.06.22-10.04.14:006][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.06.22-10.04.14:006][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.06.22-10.04.14:006][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.06.22-10.04.14:006][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.06.22-10.04.14:006][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2023.06.22-10.04.14:006][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.06.22-10.04.14:006][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.06.22-10.04.14:006][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.06.22-10.04.14:006][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2023.06.22-10.04.14:006][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.06.22-10.04.14:006][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.06.22-10.04.14:006][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.06.22-10.04.14:006][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.06.22-10.04.14:006][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2023.06.22-10.04.14:006][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.06.22-10.04.14:006][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.06.22-10.04.14:006][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.06.22-10.04.14:006][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2023.06.22-10.04.14:006][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.06.22-10.04.14:006][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2023.06.22-10.04.14:006][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.06.22-10.04.14:006][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.06.22-10.04.14:006][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.06.22-10.04.14:006][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2023.06.22-10.04.14:006][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Saved/Config/Windows/Scalability.ini]
+[2023.06.22-10.04.14:006][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.06.22-10.04.14:006][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.06.22-10.04.14:006][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Saved/Config/Windows/Scalability.ini]
+[2023.06.22-10.04.14:006][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2023.06.22-10.04.14:006][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2023.06.22-10.04.14:006][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2023.06.22-10.04.14:006][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.06.22-10.04.14:006][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2023.06.22-10.04.14:006][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2023.06.22-10.04.14:006][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2023.06.22-10.04.14:006][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Saved/Config/Windows/Engine.ini]
+[2023.06.22-10.04.14:006][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Saved/Config/Windows/Editor.ini]
+[2023.06.22-10.04.14:006][  0]LogInit: Computer: LAPTOP-K3HRHINV
+[2023.06.22-10.04.14:006][  0]LogInit: User: zofia
+[2023.06.22-10.04.14:006][  0]LogInit: CPU Page size=4096, Cores=6
+[2023.06.22-10.04.14:006][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.06.22-10.04.14:006][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2023.06.22-10.04.14:007][  0]LogMemory: Platform Memory Stats for Windows
+[2023.06.22-10.04.14:007][  0]LogMemory: Process Physical Memory: 145.32 MB used, 145.32 MB peak
+[2023.06.22-10.04.14:007][  0]LogMemory: Process Virtual Memory: 129.91 MB used, 129.91 MB peak
+[2023.06.22-10.04.14:007][  0]LogMemory: Physical Memory: 8353.46 MB used,  7881.14 MB free, 16234.60 MB total
+[2023.06.22-10.04.14:007][  0]LogMemory: Virtual Memory: 134209368.00 MB used,  8361.12 MB free, 134217728.00 MB total
+[2023.06.22-10.04.14:038][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.06.22-10.04.14:061][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2023.06.22-10.04.14:062][  0]LogInit: Using OS detected language (pl-PL).
+[2023.06.22-10.04.14:062][  0]LogInit: Using OS detected locale (pl-PL).
+[2023.06.22-10.04.14:064][  0]LogTextLocalizationManager: No specific localization for 'pl-PL' exists, so the 'pl' localization will be used.
+[2023.06.22-10.04.14:064][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/pl/Editor.locres' could not be opened for reading!
+[2023.06.22-10.04.14:064][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/pl/EditorTutorials.locres' could not be opened for reading!
+[2023.06.22-10.04.14:064][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/pl/Keywords.locres' could not be opened for reading!
+[2023.06.22-10.04.14:064][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/pl/Category.locres' could not be opened for reading!
+[2023.06.22-10.04.14:064][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/pl/ToolTips.locres' could not be opened for reading!
+[2023.06.22-10.04.14:064][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/pl/PropertyNames.locres' could not be opened for reading!
+[2023.06.22-10.04.14:064][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/pl/Engine.locres' could not be opened for reading!
+[2023.06.22-10.04.14:065][  0]LogInit: Setting process to per monitor DPI aware
+[2023.06.22-10.04.14:079][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.06.22-10.04.14:088][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.06.22-10.04.14:088][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.06.22-10.04.15:442][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2023.06.22-10.04.15:709][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2023.06.22-10.04.15:709][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2023.06.22-10.04.15:709][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2023.06.22-10.04.15:709][  0]LogD3D11RHI: D3D11 adapters:
+[2023.06.22-10.04.15:890][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2060' (Feature Level 11_0)
+[2023.06.22-10.04.15:890][  0]LogD3D11RHI:       5980/0/8117 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2023.06.22-10.04.15:923][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2023.06.22-10.04.15:923][  0]LogD3D11RHI:       128/0/8117 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2023.06.22-10.04.15:925][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2023.06.22-10.04.15:925][  0]LogD3D11RHI:       0/0/8117 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2023.06.22-10.04.15:925][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2023.06.22-10.04.15:925][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 2060
+[2023.06.22-10.04.15:925][  0]LogD3D11RHI:     VendorId    : 10de
+[2023.06.22-10.04.15:925][  0]LogD3D11RHI:     DeviceId    : 1f11
+[2023.06.22-10.04.15:925][  0]LogD3D11RHI:     SubSysId    : 1fee1043
+[2023.06.22-10.04.15:925][  0]LogD3D11RHI:     Revision    : 00a1
+[2023.06.22-10.04.15:925][  0]LogD3D11RHI:     DedicatedVideoMemory : 6270484480 bytes
+[2023.06.22-10.04.15:925][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.06.22-10.04.15:925][  0]LogD3D11RHI:     SharedSystemMemory : 8511604736 bytes
+[2023.06.22-10.04.15:925][  0]LogD3D11RHI:     AdapterLuid : 0 65483
+[2023.06.22-10.04.16:141][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2023.06.22-10.04.16:141][  0]LogD3D11RHI:     GPU DeviceId: 0x1f11 (for the marketing name, search the web for "GPU Device Id")
+[2023.06.22-10.04.16:141][  0]LogWindows: EnumDisplayDevices:
+[2023.06.22-10.04.16:141][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2023.06.22-10.04.16:142][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2023.06.22-10.04.16:142][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2023.06.22-10.04.16:143][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2023.06.22-10.04.16:143][  0]LogWindows:    4. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2023.06.22-10.04.16:144][  0]LogWindows:    5. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2023.06.22-10.04.16:144][  0]LogWindows:    6. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2023.06.22-10.04.16:144][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2023.06.22-10.04.16:144][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2060
+[2023.06.22-10.04.16:212][  0]LogD3D11RHI:   Driver Version: 512.78 (internal:30.0.15.1278, unified:512.78)
+[2023.06.22-10.04.16:212][  0]LogD3D11RHI:      Driver Date: 5-5-2022
+[2023.06.22-10.04.16:213][  0]LogRHI: Texture pool is 4186 MB (70% of 5980 MB)
+[2023.06.22-10.04.16:213][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2023.06.22-10.04.16:213][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 2060
+[2023.06.22-10.04.16:213][  0]LogD3D11RHI:     VendorId    : 10de
+[2023.06.22-10.04.16:213][  0]LogD3D11RHI:     DeviceId    : 1f11
+[2023.06.22-10.04.16:213][  0]LogD3D11RHI:     SubSysId    : 1fee1043
+[2023.06.22-10.04.16:213][  0]LogD3D11RHI:     Revision    : 00a1
+[2023.06.22-10.04.16:213][  0]LogD3D11RHI:     DedicatedVideoMemory : 6270484480 bytes
+[2023.06.22-10.04.16:213][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.06.22-10.04.16:213][  0]LogD3D11RHI:     SharedSystemMemory : 8511604736 bytes
+[2023.06.22-10.04.16:213][  0]LogD3D11RHI:     AdapterLuid : 0 65483
+[2023.06.22-10.04.16:455][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2023.06.22-10.04.16:545][  0]LogD3D11RHI: Async texture creation enabled
+[2023.06.22-10.04.16:545][  0]LogD3D11RHI: Array index from any shader is supported
+[2023.06.22-10.04.17:462][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2023.06.22-10.04.18:327][  0]LogRHI: GeForceNow SDK initialized: 1
+[2023.06.22-10.04.19:472][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2023.06.22-10.04.19:562][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.06.22-10.04.19:562][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.06.22-10.04.19:562][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.06.22-10.04.19:562][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.06.22-10.04.19:562][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.06.22-10.04.19:562][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.06.22-10.04.19:562][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.06.22-10.04.19:562][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.06.22-10.04.19:562][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.06.22-10.04.19:562][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.06.22-10.04.20:171][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.06.22-10.04.20:171][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.06.22-10.04.20:193][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.06.22-10.04.20:209][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2023.06.22-10.04.20:224][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.06.22-10.04.20:241][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.06.22-10.04.20:454][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2023.06.22-10.04.21:273][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2023.06.22-10.04.21:679][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2023.06.22-10.04.22:385][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2023.06.22-10.04.22:385][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2023.06.22-10.04.23:059][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2023.06.22-10.04.23:074][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2023.06.22-10.04.23:089][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2023.06.22-10.04.24:004][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2023.06.22-10.04.24:264][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.06.22-10.04.24:264][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.06.22-10.04.25:015][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2023.06.22-10.04.25:035][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.06.22-10.04.25:045][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.06.22-10.04.25:053][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.06.22-10.04.25:053][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2023.06.22-10.04.25:091][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.06.22-10.04.26:338][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2023.06.22-10.04.27:231][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.06.22-10.04.27:329][  0]LogShaderCompilers: Guid format shader working directory is -51 characters bigger than the processId version (../../../../NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Intermediate/Shaders/WorkingDirectory/25160/).
+[2023.06.22-10.04.27:330][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/zofia/AppData/Local/Temp/UnrealShaderWorkingDir/5D49815B49A9648DC056D38589AA70FC/'.
+[2023.06.22-10.04.27:346][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.06.22-10.04.27:346][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2023.06.22-10.04.27:346][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2023.06.22-10.04.34:168][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2023.06.22-10.04.34:277][  0]LogDerivedDataCache: Loaded boot cache 0.09s 94MB C:/Users/zofia/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2023.06.22-10.04.34:277][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/zofia/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2023.06.22-10.04.34:277][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.06.22-10.04.34:277][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2023.06.22-10.04.34:277][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.06.22-10.04.34:277][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2023.06.22-10.04.34:700][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2023.06.22-10.04.34:700][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.06.22-10.04.34:700][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2023.06.22-10.04.34:733][  0]LogDerivedDataCache: Speed tests for C:/Users/zofia/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.03 seconds
+[2023.06.22-10.04.34:733][  0]LogDerivedDataCache: Display: Performance to C:/Users/zofia/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.41ms. RandomReadSpeed=49.45MBs, RandomWriteSpeed=102.39MBs. Assigned SpeedClass 'Local'
+[2023.06.22-10.04.34:734][  0]LogDerivedDataCache: Using Local data cache path C:/Users/zofia/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.06.22-10.04.34:734][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.06.22-10.04.34:734][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2023.06.22-10.04.35:357][  0]LogSlate: Using FreeType 2.10.0
+[2023.06.22-10.04.35:398][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.06.22-10.04.36:407][  0]LogAssetRegistry: FAssetRegistry took 0.0095 seconds to start up
+[2023.06.22-10.04.37:926][  0]LogInit: Selected Device Profile: [Windows]
+[2023.06.22-10.04.37:926][  0]LogInit: Active device profile: [00000222841A3200][0000022282BB5A00 49] Windows
+[2023.06.22-10.04.37:926][  0]LogInit: Profiles: [00000222841A3200][0000022282BB5A00 49] Windows, [0000022284155100][0000022282BBC140 49] WindowsNoEditor, [00000222841A1000][0000022282BC0400 49] WindowsServer, [0000022284157000][0000022282BC46C0 49] WindowsClient, [00000222841A3100][0000022282BC8980 49] IOS, [0000022284155500][0000022282BB8C00 49] iPadAir, [00000222841A1400][0000022282BD6E80 49] iPadAir2, [0000022284110200][0000022282BEF3C0 49] IPadPro, [00000222840FFF00][0000022282BDF400 49] iPadAir3, [00000222841A2B00][0000022282BE76C0 49] iPadAir4, [00000222840FD500][0000022282BE3980 49] iPadMini2, [00000222841A1600][0000022282BEA0C0 49] iPadMini3, [00000222840FEB00][0000022282BF2380 49] iPadMini4, [00000222841A2800][0000022282BF6640 49] iPadMini5, [0000022284156C00][0000022282C0AB80 49] iPhone6, [0000022284156B00][0000022282BFABC0 49] iPodTouch6, [00000222840FC400][0000022283DDF080 49] iPhone7, [00000222840FC300][0000022282BDB0C0 49] iPodTouch7, [0000022284155D00][0000022282C07380 49] iPhone5S, [00000222840FCE00][0000022282BFF640 49] iPhone6Plus, [0000022284154600][0000022283DE3900 49] iPhone6S, [00000222840FF000][0000022283DE7BC0 49] iPhone6SPlus, [0000022284155000][0000022283DEA300 49] iPhone7Plus, [00000222840FDA00][0000022283DEE5C0 49] iPhoneSE, [0000022284156D00][0000022283DF2880 49] iPhone8, [00000222840FD700][0000022283DF6B40 49] iPhone8Plus, [0000022284157C00][0000022283DFAE00 49] iPhoneX, [00000222840FD900][0000022282C03080 49] iPhoneXS, [0000022284154300][0000022283DFF300 49] iPhoneXSMax, [00000222840FD400][0000022283E075C0 49] iPhoneXR, [0000022284155E00][0000022283E0B880 49] iPhone11, [00000222840FFA00][0000022283E0FB40 49] iPhone11Pro, [0000022284156600][0000022283E12280 49] iPhone11ProMax, [00000222840FF800][0000022283E16540 49] iPhoneSE2, [0000022284157F00][0000022283E1A800 49] iPhone12Mini, [00000222840FEE00][0000022283E1EAC0 49] iPhone12, [0000022284154B00][0000022283E22D80 49] iPhone12Pro, [00000222840FF900][0000022283E27040 49] iPhone12ProMax, [0000022284156800][0000022283E032C0 49] iPadPro105, [00000222840FF100][0000022283E2B540 49] iPadPro129, [0000022284156900][0000022283E33800 49] iPadPro97, [00000222840FE600][0000022283E37AC0 49] iPadPro2_129, [0000022284157700][0000022283E3A200 49] iPad5, [00000222840FD100][0000022283E3E4C0 49] iPad6, [0000022284157100][0000022283E42780 49] iPad7, [00000222840FE000][0000022283E46A40 49] iPad8, [0000022284157D00][0000022283E4AD00 49] iPadPro11, [00000222840FD600][0000022283E4EFC0 49] iPadPro2_11, [0000022284155C00][0000022283E53280 49] iPadPro3_129, [00000222840FD000][0000022283E2F500 49] iPadPro4_129, [0000022284156100][0000022283E57780 49] AppleTV, [00000222840FE700][0000022283E5FA40 49] AppleTV4K, [0000022284156500][0000022283E62180 49] TVOS, [00000222840FFC00][0000022283E66440 49] Mac, [0000022284155400][0000022283E6A700 49] MacClient, [00000222840FF500][0000022283E6E9C0 49] MacNoEditor, [00000222841D5800][0000022283E72C80 49] MacServer, [0000022284113300][0000022283E76F40 49] Linux, [00000222841D5300][0000022283E7B200 49] LinuxAArch64, [0000022284110A00][0000022283E7F4C0 49] LinuxNoEditor, [00000222841D4E00][0000022283E5B740 49] LinuxAArch64NoEditor, [0000022284111200][0000022283E839C0 49] LinuxClient, [00000222841D4500][0000022283E8A100 49] LinuxAArch64Client, [0000022284110100][0000022283E8E3C0 49] LinuxServer, [00000222841D5000][0000022283E92680 49] LinuxAArch64Server, [0000022284112300][0000022283E96940 49] Android, [00000222841D4200][0000022283E9AC00 49] Android_Low, [0000022284111900][0000022283E9EEC0 49] Android_Mid, [00000222841D4300][0000022283EA3180 49] Android_High, [0000022284113900][0000022283EA7440 49] Android_Default, [00000222841D4600][0000022283EAB700 49] Android_Adreno4xx, [0000022284113000][0000022283E87980 49] Android_Adreno5xx_Low, [00000222841D4700][0000022283EB20C0 49] Android_Adreno5xx, [0000022284112C00][0000022283EB6380 49] Android_Adreno6xx, [00000222841D4D00][0000022283EBA640 49] Android_Adreno6xx_Vulkan, [0000022284110E00][0000022283EBE900 49] Android_Mali_T6xx, [00000222841D4C00][0000022283EC2BC0 49] Android_Mali_T7xx, [0000022284111A00][0000022283EC6E80 49] Android_Mali_T8xx, [00000222841D4100][0000022283ECB140 49] Android_Mali_G71, [0000022284112F00][0000022283ECF400 49] Android_Mali_G72, [00000222840FCC00][0000022283ED36C0 49] Android_Mali_G72_Vulkan, [0000022284154200][0000022283EAF940 49] Android_Mali_G76, [00000222840FC700][0000022283ED7BC0 49] Android_Mali_G76_Vulkan, [0000022284154C00][0000022283EDE300 49] Android_Mali_G77, [00000222840FD300][0000022283EE25C0 49] Android_Mali_G77_Vulkan, [0000022284157E00][0000022283EE6880 49] Android_Mali_G78, [00000222840FCB00][0000022283EEAB40 49] Android_Mali_G78_Vulkan, [0000022284156000][0000022283EEEE00 49] Android_Mali_G710, [00000222840FDD00][0000022283EF30C0 49] Android_Mali_G710_Vulkan, [0000022284157200][0000022283EF7380 49] Android_Vulkan_SM5, [00000222840FD200][0000022283EFB640 49] Android_PowerVR_G6xxx, [0000022284154800][0000022283EFF900 49] Android_PowerVR_GT7xxx, [00000222840FF400][0000022283EDBB80 49] Android_PowerVR_GE8xxx, [0000022284156200][0000022283F02280 49] Android_PowerVR_GM9xxx, [00000222840FCA00][0000022283F0A540 49] Android_PowerVR_GM9xxx_Vulkan, [0000022284154900][0000022283F0E800 49] Android_TegraK1, [00000222840FEC00][0000022283F12AC0 49] Android_Unknown_Vulkan, [0000022284155700][0000022283F16D80 49] Lumin, [00000222840FED00][0000022283F1B040 49] Lumin_Desktop, [0000022284154A00][0000022283F1F300 49] HoloLens, 
+[2023.06.22-10.04.38:539][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.06.22-10.04.38:539][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.06.22-10.04.38:539][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.06.22-10.04.38:539][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.06.22-10.04.38:539][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.06.22-10.04.38:872][  0]LogNetVersion: ZofiaSajdak_Shooter 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 3301670024)
+[2023.06.22-10.04.41:431][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2023.06.22-10.04.41:660][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2023.06.22-10.04.41:682][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2023.06.22-10.04.41:682][  0]LogUObjectAllocator: 4302048 out of 0 bytes used by permanent object pool.
+[2023.06.22-10.04.41:682][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.06.22-10.04.43:547][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 0FDE6B3D41181AF738711C86D3B19C44 | Instance: 78F033BC4C477AFEF02D80A711D8EBDB (LAPTOP-K3HRHINV-25160).
+[2023.06.22-10.04.43:848][  0]LogPython: Using Python 3.7.7
+[2023.06.22-10.04.45:029][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.06.22-10.04.45:031][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.06.22-10.04.45:402][  0]SourceControl: Source control is disabled
+[2023.06.22-10.04.45:403][  0]SourceControl: Source control is disabled
+[2023.06.22-10.04.45:415][  0]SourceControl: Source control is disabled
+[2023.06.22-10.04.45:432][  0]SourceControl: Source control is disabled
+[2023.06.22-10.04.45:465][  0]SourceControl: Source control is disabled
+[2023.06.22-10.04.45:480][  0]LogUProjectInfo: Found projects:
+[2023.06.22-10.04.46:137][  0]LogOpenImageDenoise: OIDN starting up
+[2023.06.22-10.04.46:238][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.06.22-10.04.46:308][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.06.22-10.04.46:308][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.06.22-10.04.46:842][  0]LogCollectionManager: Loaded 0 collections in 0.000526 seconds
+[2023.06.22-10.04.46:946][  0]LogFileCache: Scanning file cache for directory 'D:/NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Saved/Collections/' took 0.00s
+[2023.06.22-10.04.46:946][  0]LogFileCache: Scanning file cache for directory 'D:/NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Content/Developers/zofia/Collections/' took 0.00s
+[2023.06.22-10.04.46:946][  0]LogFileCache: Scanning file cache for directory 'D:/NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Content/Collections/' took 0.00s
+[2023.06.22-10.04.46:946][  0]LogOcInput: OculusInput pre-init called
+[2023.06.22-10.04.47:481][  0]LogEngine: Initializing Engine...
+[2023.06.22-10.04.47:498][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2023.06.22-10.04.47:499][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2023.06.22-10.04.47:499][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2023.06.22-10.04.47:503][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.002 s
+[2023.06.22-10.04.47:891][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.06.22-10.04.47:965][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.06.22-10.04.47:974][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.06.22-10.04.47:987][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.06.22-10.04.47:988][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.06.22-10.04.47:990][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.06.22-10.04.47:990][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.06.22-10.04.47:991][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.22-10.04.47:991][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.22-10.04.47:991][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.22-10.04.47:991][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.22-10.04.47:991][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.22-10.04.47:991][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.06.22-10.04.47:991][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.22-10.04.47:991][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.22-10.04.47:993][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.22-10.04.47:993][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.22-10.04.47:993][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.22-10.04.47:993][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2023.06.22-10.04.48:415][  0]LogAudioMixer: Display: 0: FrontLeft
+[2023.06.22-10.04.48:415][  0]LogAudioMixer: Display: 1: FrontRight
+[2023.06.22-10.04.48:415][  0]LogAudioMixer: Display: 2: FrontCenter
+[2023.06.22-10.04.48:415][  0]LogAudioMixer: Display: 3: LowFrequency
+[2023.06.22-10.04.48:415][  0]LogAudioMixer: Display: 4: BackLeft
+[2023.06.22-10.04.48:415][  0]LogAudioMixer: Display: 5: BackRight
+[2023.06.22-10.04.48:415][  0]LogAudioMixer: Display: 6: SideLeft
+[2023.06.22-10.04.48:415][  0]LogAudioMixer: Display: 7: SideRight
+[2023.06.22-10.04.48:702][  0]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek(R) Audio)
+[2023.06.22-10.04.48:702][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.22-10.04.48:705][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.22-10.04.48:705][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.22-10.04.48:706][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.06.22-10.04.48:706][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.06.22-10.04.48:706][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2023.06.22-10.04.48:712][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.06.22-10.04.48:712][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.06.22-10.04.48:712][  0]LogInit: FAudioDevice initialized.
+[2023.06.22-10.04.48:713][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.06.22-10.04.48:713][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.06.22-10.04.48:803][  0]LogDerivedDataCache: Saved boot cache 0.09s 94MB C:/Users/zofia/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2023.06.22-10.04.48:803][  0]LogInit: Texture streaming: Enabled
+[2023.06.22-10.04.48:813][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2023.06.22-10.04.48:821][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.06.22-10.04.48:821][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2023.06.22-10.04.48:825][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2023.06.22-10.04.48:919][  0]LogInit: Transaction tracking system initialized
+[2023.06.22-10.04.49:037][  0]BlueprintLog: New page: Editor Load
+[2023.06.22-10.04.49:351][  0]LocalizationService: Localization service is disabled
+[2023.06.22-10.04.49:443][  0]TimingProfiler: Initialize
+[2023.06.22-10.04.49:446][  0]TimingProfiler: OnSessionChanged
+[2023.06.22-10.04.49:446][  0]LoadingProfiler: Initialize
+[2023.06.22-10.04.49:446][  0]LoadingProfiler: OnSessionChanged
+[2023.06.22-10.04.49:447][  0]NetworkingProfiler: Initialize
+[2023.06.22-10.04.49:448][  0]NetworkingProfiler: OnSessionChanged
+[2023.06.22-10.04.49:448][  0]MemoryProfiler: Initialize
+[2023.06.22-10.04.49:448][  0]MemoryProfiler: OnSessionChanged
+[2023.06.22-10.04.49:897][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2023.06.22-10.04.49:897][  0]LogCook: Display: Mobile HDR setting 1
+[2023.06.22-10.04.50:781][  0]LogFileCache: Scanning file cache for directory 'D:/NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Content/' took 0.00s
+[2023.06.22-10.04.51:079][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.06.22-10.04.51:107][  0]SourceControl: Source control is disabled
+[2023.06.22-10.04.51:108][  0]LogUnrealEdMisc: Loading editor; pre map load, took 37.775
+[2023.06.22-10.04.51:124][  0]LightingResults: New page: Lighting Build
+[2023.06.22-10.04.51:142][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.06.22-10.04.51:143][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.22-10.04.51:162][  0]MapCheck: New page: Map Check
+[2023.06.22-10.04.51:162][  0]LightingResults: New page: Lighting Build
+[2023.06.22-10.04.51:175][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.22-10.04.51:192][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2023.06.22-10.04.51:914][  0]LogStaticMesh: Building static mesh Floor_400x400...
+[2023.06.22-10.04.51:951][  0]LogStaticMesh: Built static mesh [0.04s] /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2023.06.22-10.04.51:967][  0]LogDerivedDataCache: C:/Users/zofia/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision, attempt at redundant update, OK C:/Users/zofia/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/9/1/NAVCOLLISION_2983273BE5D6425391E8C0B3D1C0A55D_NAVCOLLISION_X_97CBE4AE4D102990D__B1AB6898E61E38228E1E7376435D7751D4E429EE.udd.
+[2023.06.22-10.04.51:967][  0]LogDerivedDataCache: C:/Users/zofia/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision, attempt at redundant update, OK C:/Users/zofia/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/8/3/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXPC_97CBE4AE4D102990D1E36AB98FE234C__1860E77AEB1D6678B19B3500BEF8ADD1D8E1AC65.udd.
+[2023.06.22-10.04.51:967][  0]LogTexture: Display: Building textures: DeprecatedTextureD6C57B644F03DADF4F2699848FAEA3C3 (BGRA8, 128X128)
+[2023.06.22-10.04.51:972][  0]LogTexture: Display: Building textures: DeprecatedTexture8D91C9AE4C6B8D628CDA3C848426284A (BGRA8, 128X128)
+[2023.06.22-10.04.52:089][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Minimal_Default'.
+[2023.06.22-10.04.52:091][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2023.06.22-10.04.52:111][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.06.22-10.04.52:125][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2023.06.22-10.04.52:127][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.06.22-10.04.52:128][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,421ms to complete.
+[2023.06.22-10.04.52:128][  0]LogFileHelpers: Loading map 'Minimal_Default' took 1.018
+[2023.06.22-10.04.52:185][  0]LogUnrealEdMisc: Total Editor Startup Time, took 38.852
+[2023.06.22-10.04.52:392][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.22-10.04.52:404][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.22-10.04.52:410][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.22-10.04.52:417][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.22-10.04.52:499][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0086 seconds. Added 3822 classes and 928 folders.
+[2023.06.22-10.04.52:523][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2023.06.22-10.04.52:561][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.06.22-10.04.52:561][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.06.22-10.04.52:561][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.06.22-10.04.52:561][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2023.06.22-10.04.52:562][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2023.06.22-10.04.52:562][  0]LogPakFile: OnPakFileMounted2Time == 0.000137
+[2023.06.22-10.04.52:565][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2023.06.22-10.04.52:565][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.06.22-10.04.52:565][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2023.06.22-10.04.52:565][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.06.22-10.04.52:565][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2023.06.22-10.04.52:565][  0]LogPakFile: OnPakFileMounted2Time == 0.000182
+[2023.06.22-10.04.52:567][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2023.06.22-10.04.52:567][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.06.22-10.04.52:567][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2023.06.22-10.04.52:567][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2023.06.22-10.04.52:567][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2023.06.22-10.04.52:567][  0]LogPakFile: OnPakFileMounted2Time == 0.000075
+[2023.06.22-10.04.52:569][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.06.22-10.04.52:569][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.06.22-10.04.52:569][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.06.22-10.04.52:569][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2023.06.22-10.04.52:569][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/StarterContent.upack)
+[2023.06.22-10.04.52:569][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2023.06.22-10.04.52:571][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2023.06.22-10.04.52:571][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.06.22-10.04.52:571][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2023.06.22-10.04.52:571][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2023.06.22-10.04.52:571][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2023.06.22-10.04.52:571][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2023.06.22-10.04.52:573][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2023.06.22-10.04.52:573][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.06.22-10.04.52:573][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2023.06.22-10.04.52:573][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.06.22-10.04.52:573][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2023.06.22-10.04.52:573][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2023.06.22-10.04.52:575][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2023.06.22-10.04.52:575][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.06.22-10.04.52:575][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2023.06.22-10.04.52:575][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2023.06.22-10.04.52:575][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2023.06.22-10.04.52:575][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2023.06.22-10.04.52:577][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2023.06.22-10.04.52:577][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.06.22-10.04.52:577][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2023.06.22-10.04.52:577][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.06.22-10.04.52:577][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2023.06.22-10.04.52:577][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2023.06.22-10.04.52:580][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.06.22-10.04.52:580][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.06.22-10.04.52:580][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.06.22-10.04.52:580][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.06.22-10.04.52:580][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2023.06.22-10.04.52:580][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2023.06.22-10.04.52:587][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2023.06.22-10.04.52:587][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.06.22-10.04.52:587][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2023.06.22-10.04.52:587][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2023.06.22-10.04.52:587][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2023.06.22-10.04.52:587][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2023.06.22-10.04.52:589][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2023.06.22-10.04.52:589][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.06.22-10.04.52:589][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2023.06.22-10.04.52:589][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.06.22-10.04.52:589][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2023.06.22-10.04.52:589][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2023.06.22-10.04.52:592][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.06.22-10.04.52:592][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.06.22-10.04.52:592][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.06.22-10.04.52:592][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2023.06.22-10.04.52:592][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2023.06.22-10.04.52:592][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2023.06.22-10.04.52:595][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.06.22-10.04.52:595][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.06.22-10.04.52:595][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.06.22-10.04.52:595][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.06.22-10.04.52:595][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2023.06.22-10.04.52:595][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2023.06.22-10.04.52:597][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.06.22-10.04.52:597][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.06.22-10.04.52:597][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.06.22-10.04.52:597][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2023.06.22-10.04.52:597][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2023.06.22-10.04.52:597][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2023.06.22-10.04.52:599][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2023.06.22-10.04.52:599][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.06.22-10.04.52:599][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2023.06.22-10.04.52:599][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.06.22-10.04.52:599][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2023.06.22-10.04.52:599][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2023.06.22-10.04.52:616][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.06.22-10.04.52:616][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.06.22-10.04.52:617][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.06.22-10.04.52:617][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2023.06.22-10.04.52:617][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2023.06.22-10.04.52:617][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2023.06.22-10.04.52:621][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2023.06.22-10.04.52:621][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.06.22-10.04.52:621][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2023.06.22-10.04.52:621][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.06.22-10.04.52:621][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2023.06.22-10.04.52:621][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2023.06.22-10.04.52:624][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.06.22-10.04.52:624][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.06.22-10.04.52:624][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.06.22-10.04.52:624][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2023.06.22-10.04.52:624][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2023.06.22-10.04.52:624][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2023.06.22-10.04.52:627][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.06.22-10.04.52:627][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.06.22-10.04.52:627][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.06.22-10.04.52:627][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.06.22-10.04.52:627][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2023.06.22-10.04.52:627][  0]LogPakFile: OnPakFileMounted2Time == 0.000098
+[2023.06.22-10.04.52:630][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.06.22-10.04.52:630][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.06.22-10.04.52:630][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.06.22-10.04.52:630][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2023.06.22-10.04.52:630][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2023.06.22-10.04.52:630][  0]LogPakFile: OnPakFileMounted2Time == 0.000113
+[2023.06.22-10.04.52:633][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.06.22-10.04.52:633][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.06.22-10.04.52:633][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.06.22-10.04.52:633][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.06.22-10.04.52:633][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2023.06.22-10.04.52:633][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2023.06.22-10.04.52:635][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.06.22-10.04.52:635][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.06.22-10.04.52:635][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.06.22-10.04.52:635][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2023.06.22-10.04.52:635][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2023.06.22-10.04.52:635][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2023.06.22-10.04.52:638][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2023.06.22-10.04.52:638][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.06.22-10.04.52:638][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2023.06.22-10.04.52:638][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2023.06.22-10.04.52:638][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2023.06.22-10.04.52:638][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2023.06.22-10.04.52:641][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.06.22-10.04.52:641][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.06.22-10.04.52:641][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.06.22-10.04.52:641][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.06.22-10.04.52:641][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2023.06.22-10.04.52:641][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2023.06.22-10.04.52:645][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.06.22-10.04.52:645][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.06.22-10.04.52:645][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.06.22-10.04.52:645][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.06.22-10.04.52:645][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2023.06.22-10.04.52:645][  0]LogPakFile: OnPakFileMounted2Time == 0.000076
+[2023.06.22-10.04.52:648][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2023.06.22-10.04.52:648][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.06.22-10.04.52:648][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2023.06.22-10.04.52:648][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.06.22-10.04.52:648][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2023.06.22-10.04.52:648][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2023.06.22-10.04.53:401][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2023.06.22-10.04.53:413][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2023.06.22-10.04.53:742][  0]LogSlate: Took 0.003087 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.06.22-10.04.53:746][  0]LogSlate: Took 0.003157 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.06.22-10.04.53:753][  0]LogSlate: Took 0.004037 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.06.22-10.04.54:183][  0]LogRenderer: Reallocating scene render targets to support 932x464 Format 10 NumSamples 1 (Frame:1).
+[2023.06.22-10.04.54:795][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2023.06.22-10.04.54:795][  0]LogLoad: (Engine Initialization) Total time: 41.46 seconds
+[2023.06.22-10.04.54:795][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.06.22-10.04.54:862][  0]LogAssetRegistry: Asset discovery search completed in 18.4551 seconds
+[2023.06.22-10.04.54:879][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2023.06.22-10.04.55:746][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.06.22-10.04.55:890][  2]LogSlate: Took 0.012059 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.06.22-10.04.55:906][  2]LogSlate: Took 0.000095 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.06.22-10.05.02:220][343]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Pawns/BP_Soldier_01.BP_Soldier_01
+[2023.06.22-10.05.02:545][343]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2023.06.22-10.05.03:396][343]LogSlate: Took 0.002055 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.06.22-10.05.03:463][344]LogSlate: Took 0.002487 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.06.22-10.05.28:704][826]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2023.06.22-10.05.28:705][826]Cmd: MAP LOAD FILE="../../../../NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Content/SpaceShooter.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.06.22-10.05.28:724][826]LightingResults: New page: Lighting Build
+[2023.06.22-10.05.28:724][826]LoadErrors: New page: Loading map: SpaceShooter.umap
+[2023.06.22-10.05.28:726][826]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2023.06.22-10.05.28:726][826]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.22-10.05.28:726][826]MapCheck: New page: Map Check
+[2023.06.22-10.05.28:726][826]LightingResults: New page: Lighting Build
+[2023.06.22-10.05.28:742][826]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.22-10.05.28:746][826]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2023.06.22-10.05.28:786][826]LogLinker: Warning: [AssetLog] D:\NAUKA\1ROKstudia\pzp\AmericanSchoolSymulator\ZofiaSajdak_Shooter\ZofiaSajdak_Shooter\Content\SpaceShooter.umap: Failed to load '/Game/SpaceShooter_BuiltData': Can't find file.
+[2023.06.22-10.05.28:786][826]LogLinker: Warning: [AssetLog] D:\NAUKA\1ROKstudia\pzp\AmericanSchoolSymulator\ZofiaSajdak_Shooter\ZofiaSajdak_Shooter\Content\SpaceShooter.umap: Failed to load '/Game/SpaceShooter_BuiltData': Can't find file.
+[2023.06.22-10.05.28:787][826]LogLinker: Warning: [AssetLog] D:\NAUKA\1ROKstudia\pzp\AmericanSchoolSymulator\ZofiaSajdak_Shooter\ZofiaSajdak_Shooter\Content\SpaceShooter.umap: Failed to load '/Game/SpaceShooter_BuiltData': Can't find file.
+[2023.06.22-10.05.28:789][826]LogLinker: Warning: [AssetLog] D:\NAUKA\1ROKstudia\pzp\AmericanSchoolSymulator\ZofiaSajdak_Shooter\ZofiaSajdak_Shooter\Content\SpaceShooter.umap: Failed to load '/Game/SpaceShooter_BuiltData': Can't find file.
+[2023.06.22-10.05.28:789][826]LoadErrors: Failed to load /Game/SpaceShooter_BuiltData.SpaceShooter_BuiltData Referenced by PersistentLevel
+[2023.06.22-10.05.28:794][826]LogAudio: Display: Audio Device (ID: 1) registered with world 'SpaceShooter'.
+[2023.06.22-10.05.28:794][826]LogAIModule: Creating AISystem for world SpaceShooter
+[2023.06.22-10.05.28:818][826]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.06.22-10.05.28:869][826]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2023.06.22-10.05.28:880][826]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.06.22-10.05.28:881][826]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,071ms to complete.
+[2023.06.22-10.05.28:881][826]LogFileHelpers: Loading map 'SpaceShooter' took 0.175
+[2023.06.22-10.05.28:881][826]LogSlate: Window 'Open Level' being destroyed
+[2023.06.22-10.05.28:950][826]LogSlate: Took 0.001604 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.06.22-10.05.33:972][127]LogSlate: Window 'Message Log' being destroyed
+[2023.06.22-10.05.33:978][127]LogSlate: Window 'Message Log' being destroyed
+[2023.06.22-10.06.56:025][719]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.06.22-10.06.56:035][719]LogSavePackage: Moving '../../../../NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Saved/SpaceShooterA8A885364F457B6C059E2D9AC727A65C.tmp' to '../../../../NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Content/SpaceShooter.umap'
+[2023.06.22-10.06.56:061][719]AssetCheck: New page: Asset Save: SpaceShooter
+[2023.06.22-10.06.56:061][719]LogContentValidation: Display: Validating World /Game/SpaceShooter.SpaceShooter
+[2023.06.22-10.07.24:296][893]LogTexture: Display: Building textures: MagGun_Decals (OODLE_AutoDXT, 512X512)
+[2023.06.22-10.07.24:296][893]LogTexture: Display: Building textures: T_PaintedMetal01_N (OODLE_BC5, 2048X2048)
+[2023.06.22-10.07.24:296][893]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.06.22-10.07.24:297][893]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.06.22-10.07.24:297][893]LogTexture: Display: Building textures: MagGun_01_N (OODLE_BC5, 4096X4096)
+[2023.06.22-10.07.24:297][893]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.06.22-10.07.24:297][893]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.06.22-10.07.24:297][893]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.06.22-10.07.24:297][893]LogTexture: Display: Building textures: T_PaintedMetal02 (OODLE_AutoDXT, 2048X2048)
+[2023.06.22-10.07.24:297][893]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.22-10.07.24:297][893]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.22-10.07.24:297][893]LogTexture: Display: Building textures: holo_layer_1_5 (OODLE_AutoDXT, 256X256)
+[2023.06.22-10.07.24:297][893]LogTexture: Display: Building textures: T_Metal_Metal02_D (OODLE_AutoDXT, 2048X2048)
+[2023.06.22-10.07.24:297][893]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.06.22-10.07.24:297][893]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.06.22-10.07.24:297][893]LogTexture: Display: Building textures: T_ExampleLayers_Metal02_N (OODLE_BC5, 2048X2048)
+[2023.06.22-10.07.24:297][893]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.06.22-10.07.24:297][893]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.06.22-10.07.24:297][893]LogTexture: Display: Building textures: SightLens_maskA (OODLE_AutoDXT, 2048X2048)
+[2023.06.22-10.07.24:297][893]LogTexture: Display: Building textures: SightLens_maskB (OODLE_AutoDXT, 2048X2048)
+[2023.06.22-10.07.24:297][893]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.22-10.07.24:297][893]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.22-10.07.24:297][893]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.22-10.07.24:297][893]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.22-10.07.24:297][893]LogTexture: Display: Building textures: MagGun_Display_EM (OODLE_AutoDXT, 2048X2048)
+[2023.06.22-10.07.24:297][893]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.06.22-10.07.24:297][893]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.06.22-10.07.24:297][893]LogTexture: Display: Building textures: MagGunT1_section (OODLE_AutoDXT, 4096X4096)
+[2023.06.22-10.07.24:297][893]LogTexture: Display: Building textures: T_Rubber (OODLE_AutoDXT, 2048X2048)
+[2023.06.22-10.07.24:297][893]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.06.22-10.07.24:297][893]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.06.22-10.07.24:297][893]LogTexture: Display: Building textures: MagGunT2_section (OODLE_AutoDXT, 4096X4096)
+[2023.06.22-10.07.24:297][893]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.06.22-10.07.24:297][893]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.06.22-10.07.24:297][893]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.06.22-10.07.24:297][893]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.06.22-10.07.24:297][893]LogTexture: Display: Building textures: MagGun_02_N (OODLE_BC5, 4096X4096)
+[2023.06.22-10.07.24:297][893]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.06.22-10.07.24:297][893]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.06.22-10.07.24:297][893]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.06.22-10.07.24:297][893]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.06.22-10.07.24:297][893]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.06.22-10.07.24:297][893]LogTexture: Display: Building textures: MagGunT2_shade (OODLE_AutoDXT, 4096X4096)
+[2023.06.22-10.07.24:297][893]LogTexture: Display: Building textures: MagGunT1_shade (OODLE_AutoDXT, 4096X4096)
+[2023.06.22-10.07.24:297][893]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.06.22-10.07.24:297][893]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.06.22-10.07.24:297][893]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.06.22-10.07.24:297][893]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.22-10.07.24:297][893]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.22-10.07.24:297][893]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.22-10.07.24:297][893]LogMaterial: Display: Missing cached shadermap for MagGun_MatA in PCD3D_SM5, Default, SM5 (DDC key hash: 4250EAF28456DA2AD028EEE60E669A98F7EAC8EB), compiling. 
+[2023.06.22-10.07.24:440][893]LogShaderCompilers: Display: Submitted 97 shader compile jobs with 'Low' priority
+[2023.06.22-10.07.24:497][893]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 97
+[2023.06.22-10.07.24:497][893]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 87
+[2023.06.22-10.07.24:497][893]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 77
+[2023.06.22-10.07.24:497][893]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 67
+[2023.06.22-10.07.24:497][893]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 57
+[2023.06.22-10.07.24:497][893]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 47
+[2023.06.22-10.07.24:497][893]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 37
+[2023.06.22-10.07.24:497][893]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 27
+[2023.06.22-10.07.24:497][893]LogShaderCompilers: Display: Started 80 'Local' shader compile jobs with 'Low' priority
+[2023.06.22-10.07.24:497][893]LogSkeletalMesh: Display: [AssetLog] D:\NAUKA\1ROKstudia\pzp\AmericanSchoolSymulator\ZofiaSajdak_Shooter\ZofiaSajdak_Shooter\Content\Weapons\Rifle.uasset: Find and fix some bad tangent! please re-import this skeletal mesh asset to fix the issue. The shading of the skeletal mesh will be bad and faceted.
+[2023.06.22-10.07.24:499][893]LogSkeletalMesh: Building Skeletal Mesh Rifle...
+[2023.06.22-10.07.24:529][893]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/Weapons/Rifle.Rifle
+[2023.06.22-10.07.24:532][893]LogMaterial: Display: Missing cached shadermap for MagGun_MatB in PCD3D_SM5, Default, SM5 (DDC key hash: DFE52A8967D5C33BC29CF86AF69768F1D16CB697), compiling. 
+[2023.06.22-10.07.24:598][893]LogShaderCompilers: Display: Submitted 97 shader compile jobs with 'Low' priority
+[2023.06.22-10.07.24:599][893]LogMaterial: Display: Missing cached shadermap for MagGun_SightLens_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 7FEDC1459145DE9E7C293B003562E4622C822724), compiling. 
+[2023.06.22-10.07.24:621][893]LogShaderCompilers: Display: Submitted 24 shader compile jobs with 'Low' priority
+[2023.06.22-10.07.24:656][893]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Weapons/Rifle.Rifle
+[2023.06.22-10.07.24:684][893]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SkeletonEditor' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2023.06.22-10.07.24:694][893]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1', its maximum texture size has been explicitly set to 512.
+[2023.06.22-10.07.24:875][893]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/SunsetAmbientCubemap.SunsetAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2023.06.22-10.07.24:979][893]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.22-10.07.24:987][893]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PinnedCommandList' in 0.0004 seconds. Added 1 classes and 0 folders.
+[2023.06.22-10.07.26:078][894]LogRenderer: Reallocating scene render targets to support 932x648 Format 10 NumSamples 1 (Frame:1).
+[2023.06.22-10.07.28:669][989]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 9
+[2023.06.22-10.07.28:669][989]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.06.22-10.07.28:799][995]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 7
+[2023.06.22-10.07.28:799][995]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.06.22-10.07.29:218][ 13]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 6
+[2023.06.22-10.07.29:218][ 13]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.06.22-10.07.29:249][ 14]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2023.06.22-10.07.29:249][ 14]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.06.22-10.07.29:422][ 22]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 4
+[2023.06.22-10.07.29:422][ 22]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.06.22-10.07.29:790][ 38]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2023.06.22-10.07.29:790][ 38]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.06.22-10.07.29:833][ 40]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2023.06.22-10.07.29:833][ 40]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.06.22-10.07.29:854][ 41]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1
+[2023.06.22-10.07.29:854][ 41]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.06.22-10.07.29:967][ 46]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 129
+[2023.06.22-10.07.29:968][ 46]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.06.22-10.07.30:286][ 60]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 119
+[2023.06.22-10.07.30:286][ 60]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.06.22-10.07.30:390][ 64]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 109
+[2023.06.22-10.07.30:390][ 64]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.06.22-10.07.30:524][ 69]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 99
+[2023.06.22-10.07.30:524][ 69]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.06.22-10.07.30:557][ 70]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 89
+[2023.06.22-10.07.30:557][ 70]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.06.22-10.07.30:782][ 79]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 79
+[2023.06.22-10.07.30:783][ 79]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.06.22-10.07.31:368][105]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 69
+[2023.06.22-10.07.31:369][105]LogShaderCompilers: Display: Started 9 'Local' shader compile jobs with 'Normal' priority
+[2023.06.22-10.07.31:700][119]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 60
+[2023.06.22-10.07.31:700][119]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2023.06.22-10.07.33:801][207]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 52
+[2023.06.22-10.07.33:801][207]LogShaderCompilers: Display: Started 7 'Local' shader compile jobs with 'Normal' priority
+[2023.06.22-10.07.34:792][247]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 45
+[2023.06.22-10.07.34:793][247]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2023.06.22-10.07.35:873][287]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 39
+[2023.06.22-10.07.35:873][287]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2023.06.22-10.07.36:065][294]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 34
+[2023.06.22-10.07.36:065][294]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2023.06.22-10.07.36:271][301]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 29
+[2023.06.22-10.07.36:271][301]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2023.06.22-10.07.36:395][304]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 25
+[2023.06.22-10.07.36:395][304]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2023.06.22-10.07.36:846][319]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 21
+[2023.06.22-10.07.36:847][319]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2023.06.22-10.07.37:034][325]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 18
+[2023.06.22-10.07.37:034][325]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2023.06.22-10.07.37:515][342]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 15
+[2023.06.22-10.07.37:515][342]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.06.22-10.07.37:515][342]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 13
+[2023.06.22-10.07.37:515][342]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.06.22-10.07.37:648][347]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 11
+[2023.06.22-10.07.37:648][347]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.06.22-10.07.38:288][370]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 9
+[2023.06.22-10.07.38:288][370]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.06.22-10.07.38:345][372]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 7
+[2023.06.22-10.07.38:345][372]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.06.22-10.07.38:461][376]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 6
+[2023.06.22-10.07.38:461][376]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.06.22-10.07.38:529][378]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2023.06.22-10.07.38:529][378]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.06.22-10.07.38:564][379]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2023.06.22-10.07.38:564][379]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.06.22-10.07.38:622][381]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 3
+[2023.06.22-10.07.38:623][381]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.06.22-10.07.38:623][381]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2023.06.22-10.07.38:623][381]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.06.22-10.07.38:799][387]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1
+[2023.06.22-10.07.38:799][387]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.06.22-10.07.53:778][239]LogSlate: Window 'Rifle' being destroyed
+[2023.06.22-10.07.53:783][239]LogSlate: Window 'Rifle' being destroyed
+[2023.06.22-10.07.53:783][239]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2023.06.22-10.07.53:783][239]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.22-10.08.45:989][563]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Weapons/Rifle.Rifle
+[2023.06.22-10.08.45:992][563]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.22-10.08.53:698][  9]LogSlate: Window 'Rifle' being destroyed
+[2023.06.22-10.08.53:704][  9]LogSlate: Window 'Rifle' being destroyed
+[2023.06.22-10.08.53:705][  9]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.06.22-10.08.53:705][  9]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.22-10.09.34:685][ 91]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Weapons/Materials/MagGun_MatB_Inst3.MagGun_MatB_Inst3
+[2023.06.22-10.09.35:360][ 91]LogRenderer: Reallocating scene render targets to support 932x684 Format 10 NumSamples 1 (Frame:1).
+[2023.06.22-10.09.39:532][335]LogRenderer: Reallocating scene render targets to support 932x692 Format 10 NumSamples 1 (Frame:6).
+[2023.06.22-10.09.39:641][338]LogRenderer: Reallocating scene render targets to support 932x704 Format 10 NumSamples 1 (Frame:10).
+[2023.06.22-10.09.39:871][352]LogSlate: Window 'MagGun_MatB_Inst3' being destroyed
+[2023.06.22-10.09.52:912][621]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2023.06.22-10.09.52:912][621]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.22-10.10.14:348][827]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2023.06.22-10.10.14:348][827]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.22-10.10.17:941][ 42]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: EFAD73236C52E17C1C72E1BFAD0102D021008DF9), compiling. 
+[2023.06.22-10.10.17:949][ 43]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.06.22-10.10.17:950][ 43]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2023.06.22-10.10.17:950][ 43]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.06.22-10.10.17:950][ 43]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.06.22-10.10.17:972][ 43]LogShaderCompilers: Display: Submitted 41 shader compile jobs with 'Normal' priority
+[2023.06.22-10.10.17:972][ 43]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 41
+[2023.06.22-10.10.17:972][ 43]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 35
+[2023.06.22-10.10.17:972][ 43]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 29
+[2023.06.22-10.10.17:972][ 43]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 23
+[2023.06.22-10.10.17:972][ 43]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 17
+[2023.06.22-10.10.17:972][ 43]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 11
+[2023.06.22-10.10.17:972][ 43]LogShaderCompilers: Display: Started 36 'Local' shader compile jobs with 'Normal' priority
+[2023.06.22-10.10.17:993][ 43]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 4E62827F0556D6D347F602281FAF21B2CE5BF546), compiling. 
+[2023.06.22-10.10.18:003][ 44]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.06.22-10.10.18:030][ 44]LogShaderCompilers: Display: Submitted 41 shader compile jobs with 'Normal' priority
+[2023.06.22-10.10.18:062][ 44]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 7B94FD48D7DE2B7A38F61ADABB52FA0569766532), compiling. 
+[2023.06.22-10.10.18:071][ 45]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.06.22-10.10.18:098][ 45]LogShaderCompilers: Display: Submitted 41 shader compile jobs with 'Normal' priority
+[2023.06.22-10.10.18:108][ 45]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 3D16865140B8BF1DF76ED81ABAA43F4210FB4891), compiling. 
+[2023.06.22-10.10.18:118][ 46]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.06.22-10.10.18:147][ 46]LogShaderCompilers: Display: Submitted 41 shader compile jobs with 'Normal' priority
+[2023.06.22-10.10.18:160][ 46]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 582D6C270607853B62111D92A80B6DB38D29BD6C), compiling. 
+[2023.06.22-10.10.18:169][ 47]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.06.22-10.10.18:208][ 48]LogShaderCompilers: Display: Submitted 41 shader compile jobs with 'Normal' priority
+[2023.06.22-10.10.18:624][ 70]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2023.06.22-10.10.18:624][ 70]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.06.22-10.10.18:624][ 70]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.06.22-10.10.18:624][ 70]LogShaderCompilers: Display: Total job queries 454, among them cache hits 21 (4.63%)
+[2023.06.22-10.10.18:624][ 70]LogShaderCompilers: Display: Tracking 219 distinct input hashes that result in 160 distinct outputs (73.06%)
+[2023.06.22-10.10.18:624][ 70]LogShaderCompilers: Display: RAM used: 0.95 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.12%
+[2023.06.22-10.10.18:624][ 70]LogShaderCompilers: Display: ================================================
+[2023.06.22-10.10.18:810][ 81]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 6
+[2023.06.22-10.10.18:811][ 81]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.06.22-10.10.19:501][108]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 5
+[2023.06.22-10.10.19:501][108]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.06.22-10.10.19:797][123]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 4
+[2023.06.22-10.10.19:797][123]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.06.22-10.10.19:817][124]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 3
+[2023.06.22-10.10.19:817][124]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.06.22-10.10.20:123][138]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2023.06.22-10.10.20:123][138]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.06.22-10.10.20:166][139]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1
+[2023.06.22-10.10.20:166][139]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.06.22-10.10.20:423][152]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 169
+[2023.06.22-10.10.20:423][152]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.06.22-10.10.20:609][162]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 159
+[2023.06.22-10.10.20:609][162]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.06.22-10.10.20:717][168]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 149
+[2023.06.22-10.10.20:717][168]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.06.22-10.10.20:904][179]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 139
+[2023.06.22-10.10.20:904][179]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.06.22-10.10.21:041][187]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 129
+[2023.06.22-10.10.21:041][187]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.06.22-10.10.21:088][190]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 119
+[2023.06.22-10.10.21:088][190]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.06.22-10.10.21:657][223]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 109
+[2023.06.22-10.10.21:658][223]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.06.22-10.10.22:090][248]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 99
+[2023.06.22-10.10.22:090][248]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.06.22-10.10.24:044][357]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 89
+[2023.06.22-10.10.24:044][357]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.06.22-10.10.24:952][404]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 79
+[2023.06.22-10.10.24:953][404]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.06.22-10.10.25:618][439]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 69
+[2023.06.22-10.10.25:618][439]LogShaderCompilers: Display: Started 9 'Local' shader compile jobs with 'Normal' priority
+[2023.06.22-10.10.25:662][441]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 60
+[2023.06.22-10.10.25:662][441]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2023.06.22-10.10.25:898][454]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 52
+[2023.06.22-10.10.25:898][454]LogShaderCompilers: Display: Started 7 'Local' shader compile jobs with 'Normal' priority
+[2023.06.22-10.10.26:009][460]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 45
+[2023.06.22-10.10.26:010][460]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2023.06.22-10.10.26:653][492]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 39
+[2023.06.22-10.10.26:653][492]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2023.06.22-10.10.27:389][532]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 34
+[2023.06.22-10.10.27:389][532]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2023.06.22-10.10.28:624][597]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 29
+[2023.06.22-10.10.28:624][597]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2023.06.22-10.10.28:818][607]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 25
+[2023.06.22-10.10.28:818][607]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2023.06.22-10.10.28:972][615]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 21
+[2023.06.22-10.10.28:972][615]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2023.06.22-10.10.29:128][624]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 18
+[2023.06.22-10.10.29:128][624]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2023.06.22-10.10.29:175][624]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Weapons/Materials/MagGun_MatA.MagGun_MatA
+[2023.06.22-10.10.29:181][624]LogMaterial: Display: Missing cached shadermap for MagGun_MatA in PCD3D_SM5, Default, SM5 (DDC key hash: 491CECFAEE904BD057229FAE71DF5FBE175B047D), compiling. 
+[2023.06.22-10.10.29:333][624]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 15
+[2023.06.22-10.10.29:334][624]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.06.22-10.10.29:392][624]LogMaterial: Display: Missing cached shadermap for MagGun_MatA in PCD3D_SM5, Default, SM5 (DDC key hash: C3D7376C5D1D6052BB4B563386ACF3EC055AC2D3), compiling. 
+[2023.06.22-10.10.29:403][624]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_10 in PCD3D_SM5, Default, SM5 (DDC key hash: 9FB68E0DABF8AD64919234D339A8C8695E2EDE20), compiling. 
+[2023.06.22-10.10.29:406][624]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 0EF6898BE255CCDD66FDFA2853FE5F69456CCB21), compiling. 
+[2023.06.22-10.10.29:410][624]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionLinearInterpolate_9 in PCD3D_SM5, Default, SM5 (DDC key hash: AE178B3DE22031DF8888D33E01C11DE834D9932D), compiling. 
+[2023.06.22-10.10.29:414][624]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_8 in PCD3D_SM5, Default, SM5 (DDC key hash: 65072CEE4E10FA0ECABDA6ED5BE64EADE31942D4), compiling. 
+[2023.06.22-10.10.29:417][624]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureObject_3 in PCD3D_SM5, Default, SM5 (DDC key hash: A7F17D1674877A9C6D3084F639FDA76BFC765F31), compiling. 
+[2023.06.22-10.10.29:419][624]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_15 in PCD3D_SM5, Default, SM5 (DDC key hash: 20F54CDC066FE7573D94533A6ABBF80A00F5F07F), compiling. 
+[2023.06.22-10.10.29:421][624]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_16 in PCD3D_SM5, Default, SM5 (DDC key hash: 446510F0AF7585816FAE9870D38901402C7689CB), compiling. 
+[2023.06.22-10.10.29:423][624]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 710DC2242487DB5BFB0716221DE4B52E1B90CE78), compiling. 
+[2023.06.22-10.10.29:427][624]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_23 in PCD3D_SM5, Default, SM5 (DDC key hash: 07DC720850731D27FEB775B05F6316F080217DA2), compiling. 
+[2023.06.22-10.10.29:429][624]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_20 in PCD3D_SM5, Default, SM5 (DDC key hash: 836C5EE8B25F5CB2EE95A1F1823C185D26958CB4), compiling. 
+[2023.06.22-10.10.29:456][624]MaterialEditorStats: Texture samplers: 0/16
+[2023.06.22-10.10.29:456][624]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(10)
+[2023.06.22-10.10.29:456][624]MaterialEditorStats: User interpolators: 4/4 Scalars (1/4 Vectors) (TexCoords: 4, Custom: 0)
+[2023.06.22-10.10.29:657][625]MaterialEditorStats: Base pass shader: 236 instructions
+[2023.06.22-10.10.29:657][625]MaterialEditorStats: Base pass shader with Surface Lightmap: 263 instructions
+[2023.06.22-10.10.29:657][625]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 310 instructions
+[2023.06.22-10.10.29:657][625]MaterialEditorStats: Base pass vertex shader: 50 instructions
+[2023.06.22-10.10.29:657][625]MaterialEditorStats: Base pass vertex shader: 158 instructions
+[2023.06.22-10.10.29:657][625]MaterialEditorStats: Texture samplers: 12/16
+[2023.06.22-10.10.29:657][625]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(10)
+[2023.06.22-10.10.29:657][625]MaterialEditorStats: User interpolators: 4/4 Scalars (1/4 Vectors) (TexCoords: 4, Custom: 0)
+[2023.06.22-10.10.29:758][629]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 13
+[2023.06.22-10.10.29:758][629]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.06.22-10.10.30:123][646]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 11
+[2023.06.22-10.10.30:123][646]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.06.22-10.10.30:146][647]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 9
+[2023.06.22-10.10.30:146][647]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.06.22-10.10.30:260][653]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 7
+[2023.06.22-10.10.30:260][653]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.06.22-10.10.30:335][656]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2023.06.22-10.10.30:335][656]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.06.22-10.10.30:528][666]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 5
+[2023.06.22-10.10.30:528][666]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.06.22-10.10.30:528][666]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 4
+[2023.06.22-10.10.30:528][666]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.06.22-10.10.30:675][673]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 3
+[2023.06.22-10.10.30:675][673]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.06.22-10.10.30:726][675]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2023.06.22-10.10.30:726][675]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.06.22-10.10.31:040][689]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.06.22-10.10.31:040][689]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.06.22-10.10.32:584][781]LogSlate: Window 'MagGun_MatA' being destroyed
+[2023.06.22-10.10.32:591][781]LogSlate: Window 'MagGun_MatA' being destroyed
+[2023.06.22-10.10.32:604][781]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2023.06.22-10.10.32:604][781]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.22-10.10.38:463][129]LogContentBrowser: Deferred new asset file creation: MagGun_MatA_Inst
+[2023.06.22-10.10.38:518][129]LogContentBrowser: Creating deferred item: MagGun_MatA_Inst
+[2023.06.22-10.10.44:796][506]LogContentBrowser: Attempting asset rename: MagGun_MatA_Inst -> MagGun_MatA_Inst
+[2023.06.22-10.10.44:802][506]LogContentBrowser: End creating deferred item MagGun_MatA_Inst
+[2023.06.22-10.10.46:671][618]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Weapons/Materials/MagGun_MatA_Inst.MagGun_MatA_Inst
+[2023.06.22-10.10.50:004][807]LogSlate: Window 'MagGun_MatA_Inst' being destroyed
+[2023.06.22-10.10.50:006][807]LogRenderer: Reallocating scene render targets to support 1164x704 Format 10 NumSamples 1 (Frame:8839).
+[2023.06.22-10.11.07:887][874]LogSlate: Window 'Color Picker' being destroyed
+[2023.06.22-10.11.13:911][234]LogSlate: Window 'Color Picker' being destroyed
+[2023.06.22-10.11.14:957][293]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2023.06.22-10.11.15:042][293]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2023.06.22-10.11.15:052][293]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2023.06.22-10.11.15:052][293]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.22-10.11.40:341][806]LogContentBrowser: Attempting asset rename: MagGun_MatA_Inst -> MI_Weapon
+[2023.06.22-10.11.40:390][806]LogSavePackage: Moving '../../../../NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Saved/MI_WeaponA6D1921F4A6B3F0351133B9375B771A1.tmp' to '../../../../NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Content/Weapons/Materials/MI_Weapon.uasset'
+[2023.06.22-10.11.40:454][806]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2023.06.22-10.11.40:476][806]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2023.06.22-10.11.40:488][806]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.06.22-10.11.40:508][806]LogLinker: Warning: Failed to load '/Game/Weapons/Materials/MagGun_MatA_Inst': Can't find file.
+[2023.06.22-10.11.40:508][806]LogLinker: Warning: Failed to load '/Game/Weapons/Materials/MagGun_MatA_Inst': Can't find file.
+[2023.06.22-10.11.40:508][806]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Weapons/Materials/MagGun_MatA_Inst.MagGun_MatA_Inst'
+[2023.06.22-10.11.40:508][806]LogAssetEditorSubsystem: Error: Opening Asset editor failed because of null asset
+[2023.06.22-10.11.40:512][806]AssetCheck: New page: Asset Save: MI_Weapon
+[2023.06.22-10.11.40:512][806]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Weapons/Materials/MI_Weapon.MI_Weapon
+[2023.06.22-10.11.41:940][891]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Weapons/Materials/MI_Weapon.MI_Weapon
+[2023.06.22-10.11.53:187][557]LogSlate: Window 'MI_Weapon' being destroyed
+[2023.06.22-10.11.53:196][557]LogSlate: Window 'MI_Weapon' being destroyed
+[2023.06.22-10.11.53:204][557]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2023.06.22-10.11.53:204][557]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.22-10.12.13:935][881]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Weapons/Materials/MI_Weapon.MI_Weapon
+[2023.06.22-10.12.38:099][316]LogSlate: Window 'MI_Weapon' being destroyed
+[2023.06.22-10.12.54:491][298]LogContentBrowser: Deferred new asset file creation: MagGun_MatB_Inst
+[2023.06.22-10.12.54:506][298]LogContentBrowser: Creating deferred item: MagGun_MatB_Inst
+[2023.06.22-10.13.03:113][815]LogContentBrowser: Attempting asset rename: MagGun_MatB_Inst -> MI_Weapon1
+[2023.06.22-10.13.03:113][815]LogContentBrowser: End creating deferred item MagGun_MatB_Inst
+[2023.06.22-10.13.04:981][926]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Weapons/Materials/MI_Weapon1.MI_Weapon1
+[2023.06.22-10.13.22:203][948]LogSlate: Window 'Color Picker' being destroyed
+[2023.06.22-10.13.25:806][162]LogSlate: Window 'Color Picker' being destroyed
+[2023.06.22-10.13.29:373][374]LogSlate: Window 'Color Picker' being destroyed
+[2023.06.22-10.13.34:411][675]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2023.06.22-10.13.34:468][675]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2023.06.22-10.13.34:481][675]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2023.06.22-10.13.34:481][675]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.22-10.13.39:293][958]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2023.06.22-10.13.41:368][958]LogSlate: Window 'Delete Assets' being destroyed
+[2023.06.22-10.13.41:436][958]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2023.06.22-10.13.54:216][714]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2023.06.22-10.13.54:244][714]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.06.22-10.13.54:256][714]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2023.06.22-10.13.54:256][714]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.22-10.13.58:657][974]LogTemp: Repeating last play command: Selected Viewport
+[2023.06.22-10.13.58:663][974]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.22-10.13.58:663][974]PIE: New page: PIE session: SpaceShooter (22 cze 2023, 14:13:58)
+[2023.06.22-10.13.58:665][974]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2023.06.22-10.13.58:666][974]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.06.22-10.13.58:666][974]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_SpaceShooter
+[2023.06.22-10.13.58:668][974]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001770s)
+[2023.06.22-10.13.58:669][974]LogAIModule: Creating AISystem for world SpaceShooter
+[2023.06.22-10.13.58:670][974]LogPlayLevel: PIE: World Init took: (0.001848s)
+[2023.06.22-10.13.58:670][974]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SpaceShooter.SpaceShooter to /Game/UEDPIE_0_SpaceShooter.SpaceShooter (0.003833s)
+[2023.06.22-10.13.58:688][974]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2023.06.22-10.13.58:689][974]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.06.22-10.13.58:689][974]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.22-10.13.58:689][974]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.22-10.13.58:689][974]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.22-10.13.58:689][974]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.22-10.13.58:689][974]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.22-10.13.58:689][974]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.06.22-10.13.58:689][974]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.22-10.13.58:689][974]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.22-10.13.58:689][974]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.22-10.13.58:689][974]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.22-10.13.58:689][974]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.22-10.13.58:689][974]LogAudioMixer: Display: Initializing audio mixer.
+[2023.06.22-10.13.58:691][974]LogAudioMixer: Display: 0: FrontLeft
+[2023.06.22-10.13.58:691][974]LogAudioMixer: Display: 1: FrontRight
+[2023.06.22-10.13.58:691][974]LogAudioMixer: Display: 2: FrontCenter
+[2023.06.22-10.13.58:691][974]LogAudioMixer: Display: 3: LowFrequency
+[2023.06.22-10.13.58:691][974]LogAudioMixer: Display: 4: BackLeft
+[2023.06.22-10.13.58:691][974]LogAudioMixer: Display: 5: BackRight
+[2023.06.22-10.13.58:691][974]LogAudioMixer: Display: 6: SideLeft
+[2023.06.22-10.13.58:691][974]LogAudioMixer: Display: 7: SideRight
+[2023.06.22-10.13.58:724][974]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek(R) Audio)
+[2023.06.22-10.13.58:724][974]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.22-10.13.58:724][974]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.22-10.13.58:724][974]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.22-10.13.58:724][974]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.06.22-10.13.58:724][974]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.06.22-10.13.58:724][974]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2023.06.22-10.13.58:725][974]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.06.22-10.13.58:725][974]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.06.22-10.13.58:725][974]LogInit: FAudioDevice initialized.
+[2023.06.22-10.13.58:726][974]LogAudio: Display: Audio Device (ID: 2) registered with world 'SpaceShooter'.
+[2023.06.22-10.13.58:733][974]LogLoad: Game class is 'BP_TopDownShooterGameMode_01_C'
+[2023.06.22-10.13.58:734][974]LogWorld: Bringing World /Game/UEDPIE_0_SpaceShooter.SpaceShooter up for play (max tick rate 60) at 2023.06.22-12.13.58
+[2023.06.22-10.13.58:734][974]LogWorld: Bringing up level for play took: 0.000402
+[2023.06.22-10.13.58:735][974]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2023.06.22-10.13.58:741][974]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2023.06.22-10.13.58:746][974]PIE: Server logged in
+[2023.06.22-10.13.58:747][974]PIE: Play in editor total start time 0,085 seconds.
+[2023.06.22-10.14.05:323][351]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.22-10.14.05:323][351]LogWorld: BeginTearingDown for /Game/UEDPIE_0_SpaceShooter
+[2023.06.22-10.14.05:323][351]LogWorld: UWorld::CleanupWorld for SpaceShooter, bSessionEnded=true, bCleanupResources=true
+[2023.06.22-10.14.05:324][351]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.22-10.14.05:334][351]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.22-10.14.05:338][351]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.22-10.14.05:352][351]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.22-10.14.05:353][351]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.22-10.14.05:354][351]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.22-10.14.05:414][351]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2023.06.22-10.14.05:429][352]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2023.06.22-10.14.30:296][ 44]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Characters/Marine/Marine.Marine
+[2023.06.22-10.14.30:299][ 44]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.22-10.14.37:879][486]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2023.06.22-10.14.37:879][486]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.22-10.14.39:441][577]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/Characters/Marine/Marine_Skeleton.Marine_Skeleton
+[2023.06.22-10.14.39:445][577]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.22-10.14.41:132][667]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2023.06.22-10.14.41:132][667]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.22-10.14.46:730][  0]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Pawns/BP_Soldier_01.BP_Soldier_01
+[2023.06.22-10.17.07:786][134]LogEditorTransaction: Undo Modify Component(s)
+[2023.06.22-10.17.48:661][291]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2023.06.22-10.17.48:666][291]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/SpaceShooter' took 0.053
+[2023.06.22-10.17.48:666][291]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Pawns/BP_Soldier_01] ([2] browsable assets)...
+[2023.06.22-10.17.48:696][291]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/Blueprints/Pawns/BP_Soldier_01.BP_Soldier_01_C]
+[2023.06.22-10.17.48:713][291]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Pawns/BP_Soldier_01.BP_Soldier_01]
+[2023.06.22-10.17.48:713][291]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Pawns/BP_Soldier_01]
+[2023.06.22-10.17.48:741][291]LogSavePackage: Moving '../../../../NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Saved/BP_Soldier_01_Auto1076ADF6946D6962097A4F7839D22B616.tmp' to '../../../../NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Saved/Autosaves/Game/Blueprints/Pawns/BP_Soldier_01_Auto1.uasset'
+[2023.06.22-10.17.48:742][291]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Weapons/Materials/MagGun_MatB_Inst3] ([1] browsable assets)...
+[2023.06.22-10.17.48:757][291]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Weapons/Materials/MagGun_MatB_Inst3.MagGun_MatB_Inst3]
+[2023.06.22-10.17.48:757][291]OBJ SavePackage: Finished generating thumbnails for package [/Game/Weapons/Materials/MagGun_MatB_Inst3]
+[2023.06.22-10.17.48:762][291]LogSavePackage: Moving '../../../../NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Saved/MagGun_MatB_Inst3_Auto13FD6FEF146D45D98226C179460F8D53A.tmp' to '../../../../NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Saved/Autosaves/Game/Weapons/Materials/MagGun_MatB_Inst3_Auto1.uasset'
+[2023.06.22-10.17.48:763][291]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Weapons/Materials/MI_Weapon] ([1] browsable assets)...
+[2023.06.22-10.17.48:778][291]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Weapons/Materials/MI_Weapon.MI_Weapon]
+[2023.06.22-10.17.48:778][291]OBJ SavePackage: Finished generating thumbnails for package [/Game/Weapons/Materials/MI_Weapon]
+[2023.06.22-10.17.48:783][291]LogSavePackage: Moving '../../../../NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Saved/MI_Weapon_Auto169B84DC24F0A615AC27ADEAC2AF2A1CF.tmp' to '../../../../NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Saved/Autosaves/Game/Weapons/Materials/MI_Weapon_Auto1.uasset'
+[2023.06.22-10.17.48:783][291]LogFileHelpers: Auto-saving content packages took 0.118
+[2023.06.22-10.19.46:050][220]BlueprintLog: New page: Compile BP_Soldier_01
+[2023.06.22-10.19.46:089][220]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2023.06.22-10.19.46:620][247]LogSavePackage: Moving '../../../../NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Saved/BP_Soldier_01A52AD48B4E36C9D04F3BEEAE34F28ED3.tmp' to '../../../../NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Content/Blueprints/Pawns/BP_Soldier_01.uasset'
+[2023.06.22-10.19.46:629][247]AssetCheck: New page: Asset Save: BP_Soldier_01
+[2023.06.22-10.19.46:629][247]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Pawns/BP_Soldier_01.BP_Soldier_01
+[2023.06.22-10.19.49:068][394]LogTemp: Repeating last play command: Selected Viewport
+[2023.06.22-10.19.49:073][394]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.22-10.19.49:073][394]PIE: New page: PIE session: SpaceShooter (22 cze 2023, 14:19:49)
+[2023.06.22-10.19.49:073][394]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_SpaceShooter
+[2023.06.22-10.19.49:075][394]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001631s)
+[2023.06.22-10.19.49:076][394]LogAIModule: Creating AISystem for world SpaceShooter
+[2023.06.22-10.19.49:077][394]LogPlayLevel: PIE: World Init took: (0.001706s)
+[2023.06.22-10.19.49:077][394]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SpaceShooter.SpaceShooter to /Game/UEDPIE_0_SpaceShooter.SpaceShooter (0.003428s)
+[2023.06.22-10.19.49:095][394]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2023.06.22-10.19.49:096][394]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.06.22-10.19.49:096][394]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.22-10.19.49:096][394]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.22-10.19.49:096][394]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.22-10.19.49:096][394]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.22-10.19.49:096][394]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.22-10.19.49:096][394]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.06.22-10.19.49:096][394]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.22-10.19.49:096][394]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.22-10.19.49:096][394]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.22-10.19.49:096][394]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.22-10.19.49:097][394]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.22-10.19.49:097][394]LogAudioMixer: Display: Initializing audio mixer.
+[2023.06.22-10.19.49:098][394]LogAudioMixer: Display: 0: FrontLeft
+[2023.06.22-10.19.49:098][394]LogAudioMixer: Display: 1: FrontRight
+[2023.06.22-10.19.49:098][394]LogAudioMixer: Display: 2: FrontCenter
+[2023.06.22-10.19.49:098][394]LogAudioMixer: Display: 3: LowFrequency
+[2023.06.22-10.19.49:098][394]LogAudioMixer: Display: 4: BackLeft
+[2023.06.22-10.19.49:098][394]LogAudioMixer: Display: 5: BackRight
+[2023.06.22-10.19.49:098][394]LogAudioMixer: Display: 6: SideLeft
+[2023.06.22-10.19.49:098][394]LogAudioMixer: Display: 7: SideRight
+[2023.06.22-10.19.49:131][394]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek(R) Audio)
+[2023.06.22-10.19.49:131][394]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.22-10.19.49:131][394]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.22-10.19.49:131][394]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.22-10.19.49:131][394]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.06.22-10.19.49:131][394]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.06.22-10.19.49:131][394]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2023.06.22-10.19.49:132][394]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.06.22-10.19.49:132][394]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.06.22-10.19.49:132][394]LogInit: FAudioDevice initialized.
+[2023.06.22-10.19.49:132][394]LogAudio: Display: Audio Device (ID: 3) registered with world 'SpaceShooter'.
+[2023.06.22-10.19.49:137][394]LogLoad: Game class is 'BP_TopDownShooterGameMode_01_C'
+[2023.06.22-10.19.49:138][394]LogWorld: Bringing World /Game/UEDPIE_0_SpaceShooter.SpaceShooter up for play (max tick rate 60) at 2023.06.22-12.19.49
+[2023.06.22-10.19.49:138][394]LogWorld: Bringing up level for play took: 0.000377
+[2023.06.22-10.19.49:138][394]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2023.06.22-10.19.49:141][394]PIE: Server logged in
+[2023.06.22-10.19.49:141][394]PIE: Play in editor total start time 0,068 seconds.
+[2023.06.22-10.20.10:972][702]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.22-10.20.10:973][702]LogWorld: BeginTearingDown for /Game/UEDPIE_0_SpaceShooter
+[2023.06.22-10.20.10:973][702]LogWorld: UWorld::CleanupWorld for SpaceShooter, bSessionEnded=true, bCleanupResources=true
+[2023.06.22-10.20.10:973][702]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.22-10.20.10:979][702]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.22-10.20.10:982][702]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.22-10.20.10:999][702]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.22-10.20.10:999][702]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.22-10.20.11:000][702]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.22-10.20.11:017][702]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2023.06.22-10.20.11:059][704]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2023.06.22-10.20.12:243][775]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2023.06.22-10.20.15:816][987]LogSavePackage: Moving '../../../../NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Saved/BP_Soldier_015B6202FC4BE3992EADAE35830692D2CE.tmp' to '../../../../NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Content/Blueprints/Pawns/BP_Soldier_01.uasset'
+[2023.06.22-10.20.15:827][987]AssetCheck: New page: Asset Save: BP_Soldier_01
+[2023.06.22-10.20.15:827][987]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Pawns/BP_Soldier_01.BP_Soldier_01
+[2023.06.22-10.20.36:945][154]LogEditorTransaction: Undo Replace component used material
+[2023.06.22-10.20.47:110][758]LogSavePackage: Moving '../../../../NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Saved/BP_Soldier_01A4CAFC43451D61E5C8F6E194B22E2BDB.tmp' to '../../../../NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Content/Blueprints/Pawns/BP_Soldier_01.uasset'
+[2023.06.22-10.20.47:122][758]AssetCheck: New page: Asset Save: BP_Soldier_01
+[2023.06.22-10.20.47:122][758]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Pawns/BP_Soldier_01.BP_Soldier_01
+[2023.06.22-10.20.49:910][926]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2023.06.22-10.22.48:847][757]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2023.06.22-10.22.50:140][815]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2023.06.22-10.22.50:140][815]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.22-10.24.16:568][852]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Pawns/BP_Soldier_01.BP_Soldier_01
+[2023.06.22-10.28.11:222][704]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2023.06.22-10.28.11:224][704]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/SpaceShooter' took 0.072
+[2023.06.22-10.28.11:225][704]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Pawns/BP_Soldier_01] ([4] browsable assets)...
+[2023.06.22-10.28.11:244][704]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Pawns/BP_Soldier_01.BP_Soldier_01]
+[2023.06.22-10.28.11:264][704]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Pawns/BP_Soldier_01.BP_Soldier_01]
+[2023.06.22-10.28.11:264][704]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Pawns/BP_Soldier_01]
+[2023.06.22-10.28.11:284][704]LogSavePackage: Moving '../../../../NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Saved/BP_Soldier_01_Auto2D63F06564D302C8DB9A91CA2DA978319.tmp' to '../../../../NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Saved/Autosaves/Game/Blueprints/Pawns/BP_Soldier_01_Auto2.uasset'
+[2023.06.22-10.28.11:284][704]LogFileHelpers: Auto-saving content packages took 0.060
+[2023.06.22-10.31.10:277][102]LogTexture: Display: Building textures: T_muzzle_flashes (OODLE_AutoDXT, 128X256)
+[2023.06.22-10.31.10:277][102]LogTexture: Display: Building textures: T_Lensflare_01 (OODLE_AutoDXT, 512X512)
+[2023.06.22-10.31.10:277][102]LogTexture: Display: Building textures: ThumbnailTexture (OODLE_DXT1, 512X512)
+[2023.06.22-10.31.10:277][102]LogTexture: Display: Building textures: T_SquareMaskTightEdge (OODLE_AutoDXT, 512X512)
+[2023.06.22-10.31.10:277][102]LogMaterial: Display: Missing cached shadermap for M_SoftGradient_Muzzle in PCD3D_SM5, Default, SM5 (DDC key hash: B18353E84A83F551DEF736723A827C603E6538A1), compiling. 
+[2023.06.22-10.31.10:304][102]LogTexture: Display: Building textures: T_SmokeBall_01_8_8 (OODLE_AutoDXT, 1024X1024)
+[2023.06.22-10.31.10:304][102]LogShaderCompilers: Display: Submitted 36 shader compile jobs with 'Low' priority
+[2023.06.22-10.31.10:309][102]LogTexture: Display: Building textures: T_Clouds_01 (OODLE_AutoDXT, 1024X1024)
+[2023.06.22-10.31.10:309][102]LogStaticMesh: Building static mesh SM_MuzzleCone...
+[2023.06.22-10.31.10:309][102]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.06.22-10.31.10:312][102]LogStaticMesh: Built static mesh [0.00s] /Game/Effects/Misc/Meshes/Weapon/SM_MuzzleCone.SM_MuzzleCone
+[2023.06.22-10.31.10:645][102]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 36
+[2023.06.22-10.31.10:645][102]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 31
+[2023.06.22-10.31.10:645][102]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 26
+[2023.06.22-10.31.10:645][102]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 21
+[2023.06.22-10.31.10:645][102]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 16
+[2023.06.22-10.31.10:645][102]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 11
+[2023.06.22-10.31.10:645][102]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2023.06.22-10.31.10:645][102]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2023.06.22-10.31.10:645][102]LogShaderCompilers: Display: Started 36 'Local' shader compile jobs with 'Low' priority
+[2023.06.22-10.31.10:645][102]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.06.22-10.31.10:646][102]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.22-10.31.10:646][102]LogTexture: Display: Building textures: T_TileNoise (OODLE_AutoDXT, 2048X2048)
+[2023.06.22-10.31.10:646][102]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.22-10.31.10:646][102]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.22-10.31.10:646][102]LogMaterial: Display: Missing cached shadermap for M_MuzzleGlow in PCD3D_SM5, Default, SM5 (DDC key hash: 7BB6E4B44411111E46434476504D9D62DDBBA33B), compiling. 
+[2023.06.22-10.31.10:682][102]LogShaderCompilers: Display: Submitted 56 shader compile jobs with 'Low' priority
+[2023.06.22-10.31.10:684][102]LogMaterial: Display: Missing cached shadermap for M_muzzle_flash_subUV in PCD3D_SM5, Default, SM5 (DDC key hash: 1DB232D1D49881183E4ADE40FFB4769CD90AD68D), compiling. 
+[2023.06.22-10.31.10:709][102]LogShaderCompilers: Display: Submitted 36 shader compile jobs with 'Low' priority
+[2023.06.22-10.31.10:711][102]LogMaterial: Display: Missing cached shadermap for M_SmokeBall in PCD3D_SM5, Default, SM5 (DDC key hash: D713785F46A035D5C94FC394E7935CE9B603A44C), compiling. 
+[2023.06.22-10.31.10:746][102]LogShaderCompilers: Display: Submitted 48 shader compile jobs with 'Low' priority
+[2023.06.22-10.31.10:749][102]LogMaterial: Display: Missing cached shadermap for M_ImpactSmoke in PCD3D_SM5, Default, SM5 (DDC key hash: DF5A5F494049BD2BA5477CA3CA5807BF8B59B14C), compiling. 
+[2023.06.22-10.31.10:878][102]LogShaderCompilers: Display: Submitted 128 shader compile jobs with 'Low' priority
+[2023.06.22-10.31.12:471][102]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 268
+[2023.06.22-10.31.12:471][102]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2023.06.22-10.31.12:471][102]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 258
+[2023.06.22-10.31.12:471][102]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2023.06.22-10.31.12:471][102]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 248
+[2023.06.22-10.31.12:471][102]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2023.06.22-10.31.12:471][102]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 238
+[2023.06.22-10.31.12:471][102]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2023.06.22-10.31.12:471][102]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 228
+[2023.06.22-10.31.12:471][102]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2023.06.22-10.31.12:471][102]LogMaterial: Display: Missing cached shadermap for M_Lensflare_01 in PCD3D_SM5, Default, SM5 (DDC key hash: A741E908F281DEA7DA83D6A19A51FD6E91353FFC), compiling. 
+[2023.06.22-10.31.12:500][102]LogShaderCompilers: Display: Submitted 36 shader compile jobs with 'Low' priority
+[2023.06.22-10.31.12:531][103]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.06.22-10.31.12:532][103]LogShaderCompilers: Display: Total job queries 942, among them cache hits 169 (17.94%)
+[2023.06.22-10.31.12:532][103]LogShaderCompilers: Display: Tracking 454 distinct input hashes that result in 265 distinct outputs (58.37%)
+[2023.06.22-10.31.12:532][103]LogShaderCompilers: Display: RAM used: 1.39 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.17%
+[2023.06.22-10.31.12:532][103]LogShaderCompilers: Display: ================================================
+[2023.06.22-10.31.12:589][107]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 254
+[2023.06.22-10.31.12:590][107]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2023.06.22-10.31.12:701][114]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 244
+[2023.06.22-10.31.12:701][114]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2023.06.22-10.31.12:792][119]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 234
+[2023.06.22-10.31.12:792][119]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2023.06.22-10.31.16:562][317]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 14
+[2023.06.22-10.31.16:562][317]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.06.22-10.31.16:904][337]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 12
+[2023.06.22-10.31.16:904][337]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.06.22-10.31.17:251][358]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 10
+[2023.06.22-10.31.17:251][358]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.06.22-10.31.17:308][361]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 8
+[2023.06.22-10.31.17:308][361]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.06.22-10.31.17:338][363]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 6
+[2023.06.22-10.31.17:338][363]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.06.22-10.31.17:598][378]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 5
+[2023.06.22-10.31.17:598][378]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.06.22-10.31.17:618][379]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2023.06.22-10.31.17:618][379]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.06.22-10.31.17:870][393]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2023.06.22-10.31.17:870][393]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.06.22-10.31.18:145][409]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2023.06.22-10.31.18:146][409]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.06.22-10.31.18:146][409]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2023.06.22-10.31.18:146][409]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.06.22-10.31.18:348][420]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 210
+[2023.06.22-10.31.18:348][420]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.06.22-10.31.18:516][430]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 200
+[2023.06.22-10.31.18:516][430]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.06.22-10.31.18:653][438]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 190
+[2023.06.22-10.31.18:653][438]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.06.22-10.31.18:704][441]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 180
+[2023.06.22-10.31.18:704][441]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.06.22-10.31.18:814][447]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 170
+[2023.06.22-10.31.18:814][447]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.06.22-10.31.18:878][448]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 160
+[2023.06.22-10.31.18:878][448]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.06.22-10.31.19:310][463]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 150
+[2023.06.22-10.31.19:310][463]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.06.22-10.31.19:341][464]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 140
+[2023.06.22-10.31.19:341][464]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.06.22-10.31.29:427][799]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 130
+[2023.06.22-10.31.29:427][799]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.06.22-10.31.30:198][823]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 120
+[2023.06.22-10.31.30:198][823]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.06.22-10.31.30:807][843]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 110
+[2023.06.22-10.31.30:808][843]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.06.22-10.31.31:926][876]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 100
+[2023.06.22-10.31.31:926][876]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.06.22-10.31.31:981][878]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 90
+[2023.06.22-10.31.31:981][878]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.06.22-10.31.32:060][880]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 80
+[2023.06.22-10.31.32:060][880]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.06.22-10.31.32:146][882]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 70
+[2023.06.22-10.31.32:146][882]LogShaderCompilers: Display: Started 9 'Local' shader compile jobs with 'Normal' priority
+[2023.06.22-10.31.33:375][918]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 61
+[2023.06.22-10.31.33:375][918]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2023.06.22-10.31.37:141][ 40]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 53
+[2023.06.22-10.31.37:141][ 40]LogShaderCompilers: Display: Started 7 'Local' shader compile jobs with 'Normal' priority
+[2023.06.22-10.31.37:669][ 56]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 46
+[2023.06.22-10.31.37:669][ 56]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2023.06.22-10.31.38:557][ 82]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 40
+[2023.06.22-10.31.38:558][ 82]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2023.06.22-10.31.38:783][ 89]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 34
+[2023.06.22-10.31.38:784][ 89]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2023.06.22-10.31.39:237][103]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 29
+[2023.06.22-10.31.39:238][103]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2023.06.22-10.31.39:441][109]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 25
+[2023.06.22-10.31.39:441][109]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2023.06.22-10.31.39:817][119]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 21
+[2023.06.22-10.31.39:817][119]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2023.06.22-10.31.40:571][144]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 18
+[2023.06.22-10.31.40:572][144]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2023.06.22-10.31.41:444][169]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 15
+[2023.06.22-10.31.41:444][169]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.06.22-10.31.42:110][190]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 13
+[2023.06.22-10.31.42:110][190]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.06.22-10.31.42:388][199]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 11
+[2023.06.22-10.31.42:388][199]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.06.22-10.31.42:429][200]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 9
+[2023.06.22-10.31.42:429][200]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.06.22-10.31.42:622][206]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 7
+[2023.06.22-10.31.42:622][206]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.06.22-10.31.42:658][207]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2023.06.22-10.31.42:658][207]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.06.22-10.31.43:215][224]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 5
+[2023.06.22-10.31.43:215][224]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.06.22-10.31.43:347][228]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2023.06.22-10.31.43:347][228]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.06.22-10.31.43:436][230]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2023.06.22-10.31.43:436][230]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.06.22-10.31.43:512][232]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2023.06.22-10.31.43:512][232]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.06.22-10.31.43:512][232]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1
+[2023.06.22-10.31.43:512][232]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.06.22-10.33.33:640][730]LogEditorTransaction: Undo Add Node
+[2023.06.22-10.35.50:318][860]LogEditorTransaction: Undo Move Node
+[2023.06.22-10.35.50:665][879]LogEditorTransaction: Undo Add Node
+[2023.06.22-10.37.48:773][346]BlueprintLog: New page: Compile BP_Soldier_01
+[2023.06.22-10.37.48:849][346]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2023.06.22-10.37.49:840][399]LogSavePackage: Moving '../../../../NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Saved/BP_Soldier_010DBD7E91475E6EE41049E8B62334ABF4.tmp' to '../../../../NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Content/Blueprints/Pawns/BP_Soldier_01.uasset'
+[2023.06.22-10.37.49:851][399]AssetCheck: New page: Asset Save: BP_Soldier_01
+[2023.06.22-10.37.49:851][399]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Pawns/BP_Soldier_01.BP_Soldier_01
+[2023.06.22-10.37.51:322][488]LogTemp: Repeating last play command: Selected Viewport
+[2023.06.22-10.37.51:327][488]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.22-10.37.51:327][488]PIE: New page: PIE session: SpaceShooter (22 cze 2023, 14:37:51)
+[2023.06.22-10.37.51:328][488]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_SpaceShooter
+[2023.06.22-10.37.51:329][488]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001672s)
+[2023.06.22-10.37.51:331][488]LogAIModule: Creating AISystem for world SpaceShooter
+[2023.06.22-10.37.51:331][488]LogPlayLevel: PIE: World Init took: (0.001942s)
+[2023.06.22-10.37.51:331][488]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SpaceShooter.SpaceShooter to /Game/UEDPIE_0_SpaceShooter.SpaceShooter (0.003744s)
+[2023.06.22-10.37.51:351][488]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2023.06.22-10.37.51:352][488]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2023.06.22-10.37.51:352][488]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.22-10.37.51:352][488]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.22-10.37.51:352][488]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.22-10.37.51:352][488]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.22-10.37.51:352][488]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.22-10.37.51:352][488]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.06.22-10.37.51:352][488]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.22-10.37.51:352][488]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.22-10.37.51:353][488]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.22-10.37.51:353][488]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.22-10.37.51:353][488]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.22-10.37.51:353][488]LogAudioMixer: Display: Initializing audio mixer.
+[2023.06.22-10.37.51:355][488]LogAudioMixer: Display: 0: FrontLeft
+[2023.06.22-10.37.51:355][488]LogAudioMixer: Display: 1: FrontRight
+[2023.06.22-10.37.51:355][488]LogAudioMixer: Display: 2: FrontCenter
+[2023.06.22-10.37.51:355][488]LogAudioMixer: Display: 3: LowFrequency
+[2023.06.22-10.37.51:355][488]LogAudioMixer: Display: 4: BackLeft
+[2023.06.22-10.37.51:355][488]LogAudioMixer: Display: 5: BackRight
+[2023.06.22-10.37.51:355][488]LogAudioMixer: Display: 6: SideLeft
+[2023.06.22-10.37.51:355][488]LogAudioMixer: Display: 7: SideRight
+[2023.06.22-10.37.51:387][488]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek(R) Audio)
+[2023.06.22-10.37.51:387][488]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.22-10.37.51:387][488]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.22-10.37.51:387][488]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.22-10.37.51:387][488]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.06.22-10.37.51:387][488]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.06.22-10.37.51:387][488]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2023.06.22-10.37.51:389][488]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.06.22-10.37.51:389][488]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.06.22-10.37.51:389][488]LogInit: FAudioDevice initialized.
+[2023.06.22-10.37.51:389][488]LogAudio: Display: Audio Device (ID: 4) registered with world 'SpaceShooter'.
+[2023.06.22-10.37.51:395][488]LogLoad: Game class is 'BP_TopDownShooterGameMode_01_C'
+[2023.06.22-10.37.51:396][488]LogWorld: Bringing World /Game/UEDPIE_0_SpaceShooter.SpaceShooter up for play (max tick rate 60) at 2023.06.22-12.37.51
+[2023.06.22-10.37.51:397][488]LogWorld: Bringing up level for play took: 0.000395
+[2023.06.22-10.37.51:397][488]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2023.06.22-10.37.51:399][488]PIE: Server logged in
+[2023.06.22-10.37.51:400][488]PIE: Play in editor total start time 0,073 seconds.
+[2023.06.22-10.37.59:851][991]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.22-10.37.59:851][991]LogWorld: BeginTearingDown for /Game/UEDPIE_0_SpaceShooter
+[2023.06.22-10.37.59:851][991]LogWorld: UWorld::CleanupWorld for SpaceShooter, bSessionEnded=true, bCleanupResources=true
+[2023.06.22-10.37.59:851][991]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.22-10.37.59:862][991]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.22-10.37.59:870][991]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.22-10.37.59:888][991]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.22-10.37.59:888][991]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.22-10.37.59:889][991]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.22-10.37.59:899][991]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.22-10.37.59:901][991]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2023.06.22-10.37.59:943][993]LogPlayLevel: Display: Destroying online subsystem :Context_24
