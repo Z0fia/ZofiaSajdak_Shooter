@@ -2084,3 +2084,531 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.06.22-11.05.09:314][409]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2023.06.22-11.05.09:327][409]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
 [2023.06.22-11.05.09:353][410]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2023.06.22-11.09.15:974][953]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2023.06.22-11.09.15:984][953]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2023.06.22-11.09.17:502][ 44]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> W_PlayerHUD
+[2023.06.22-11.09.17:519][ 44]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2023.06.22-11.09.19:069][136]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/W_PlayerHUD.W_PlayerHUD
+[2023.06.22-11.09.23:053][323]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2023.06.22-11.09.23:053][323]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.22-11.11.47:420][542]LogTexture: Display: Building textures: MarinePortrait (OODLE_AutoDXT, 200X200)
+[2023.06.22-11.12.18:427][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   5.86ms
+[2023.06.22-11.12.18:441][ 61]LogSavePackage: Moving '../../../../NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Saved/SpaceShooter_Auto585772B694B54DE40C5F3E4A8D102021C.tmp' to '../../../../NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Saved/Autosaves/Game/SpaceShooter_Auto5.umap'
+[2023.06.22-11.12.18:442][ 61]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/SpaceShooter' took 0.099
+[2023.06.22-11.12.18:442][ 61]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.099
+[2023.06.22-11.16.18:485][351]LogSlate: Last resort fallback font was requested. Font: '<unknown>', Character: '<unknown>'
+[2023.06.22-11.16.20:131][351]LogSlate: Took 1.643997 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2023.06.22-11.16.21:706][442]LogEditorTransaction: Undo Drag and Drop Widget
+[2023.06.22-11.16.46:478][922]LogEditorTransaction: Undo Edit Right
+[2023.06.22-11.17.34:889][797]LogTexture: Display: Building textures: AttackerPortrait (BGRA8, 150X150)
+[2023.06.22-11.18.00:326][ 71]LogSlate: Window 'Color Picker' being destroyed
+[2023.06.22-11.18.19:742][233]LogSlate: Window 'Color Picker' being destroyed
+[2023.06.22-11.19.15:436][498]LogSlate: Window 'Color Picker' being destroyed
+[2023.06.22-11.20.05:711][503]LogSlate: Window 'Color Picker' being destroyed
+[2023.06.22-11.20.19:835][347]LogSlate: Window 'Color Picker' being destroyed
+[2023.06.22-11.21.43:048][351]LogEditorTransaction: Undo Edit Size
+[2023.06.22-11.22.49:231][270]LogEditorTransaction: Undo Edit Size
+[2023.06.22-11.23.13:353][ 45]BlueprintLog: New page: Compile W_PlayerHUD
+[2023.06.22-11.23.13:387][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2023.06.22-11.23.13:888][ 72]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/W_PlayerHUD" FILE="../../../../NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Content/UI/W_PlayerHUD.uasset" SILENT=true
+[2023.06.22-11.23.13:894][ 72]LogSavePackage: Moving '../../../../NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Saved/W_PlayerHUD846398AA412E4C0DB5BC9498FAF0E469.tmp' to '../../../../NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Content/UI/W_PlayerHUD.uasset'
+[2023.06.22-11.23.13:909][ 72]AssetCheck: New page: Asset Save: W_PlayerHUD
+[2023.06.22-11.23.13:909][ 72]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/W_PlayerHUD.W_PlayerHUD
+[2023.06.22-11.23.27:472][577]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Pawns/BP_Soldier_01.BP_Soldier_01
+[2023.06.22-11.23.35:139][ 12]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2023.06.22-11.23.35:139][ 12]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.22-11.23.35:147][ 12]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2023.06.22-11.23.35:147][ 12]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.22-11.24.26:855][ 46]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.06.22-11.25.21:011][221]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2023.06.22-11.25.21:015][221]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/SpaceShooter' took 0.080
+[2023.06.22-11.25.21:016][221]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Pawns/BP_Soldier_01] ([4] browsable assets)...
+[2023.06.22-11.25.21:039][221]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Pawns/BP_Soldier_01.BP_Soldier_01]
+[2023.06.22-11.25.21:062][221]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Pawns/BP_Soldier_01.BP_Soldier_01]
+[2023.06.22-11.25.21:062][221]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Pawns/BP_Soldier_01]
+[2023.06.22-11.25.21:096][221]LogSavePackage: Moving '../../../../NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Saved/BP_Soldier_01_Auto663EA09864757A26B01344DBD5C7FA967.tmp' to '../../../../NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Saved/Autosaves/Game/Blueprints/Pawns/BP_Soldier_01_Auto6.uasset'
+[2023.06.22-11.25.21:097][221]LogFileHelpers: Auto-saving content packages took 0.082
+[2023.06.22-11.25.33:894][333]BlueprintLog: New page: Compile BP_Soldier_01
+[2023.06.22-11.25.33:965][333]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2023.06.22-11.25.34:521][360]LogSavePackage: Moving '../../../../NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Saved/BP_Soldier_017554CF2D49727BBE3C537EAEA84979F5.tmp' to '../../../../NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Content/Blueprints/Pawns/BP_Soldier_01.uasset'
+[2023.06.22-11.25.34:533][360]AssetCheck: New page: Asset Save: BP_Soldier_01
+[2023.06.22-11.25.34:533][360]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Pawns/BP_Soldier_01.BP_Soldier_01
+[2023.06.22-11.25.35:926][444]LogTemp: Repeating last play command: Selected Viewport
+[2023.06.22-11.25.35:931][444]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.22-11.25.35:931][444]PIE: New page: PIE session: SpaceShooter (22 cze 2023, 15:25:35)
+[2023.06.22-11.25.35:955][444]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_SpaceShooter
+[2023.06.22-11.25.35:957][444]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001669s)
+[2023.06.22-11.25.35:959][444]LogAIModule: Creating AISystem for world SpaceShooter
+[2023.06.22-11.25.35:959][444]LogPlayLevel: PIE: World Init took: (0.001902s)
+[2023.06.22-11.25.35:959][444]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SpaceShooter.SpaceShooter to /Game/UEDPIE_0_SpaceShooter.SpaceShooter (0.003708s)
+[2023.06.22-11.25.35:979][444]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2023.06.22-11.25.35:980][444]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2023.06.22-11.25.35:980][444]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.22-11.25.35:980][444]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.22-11.25.35:980][444]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.22-11.25.35:980][444]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.22-11.25.35:980][444]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.22-11.25.35:980][444]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.06.22-11.25.35:980][444]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.22-11.25.35:980][444]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.22-11.25.35:980][444]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.22-11.25.35:980][444]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.22-11.25.35:980][444]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.22-11.25.35:980][444]LogAudioMixer: Display: Initializing audio mixer.
+[2023.06.22-11.25.35:982][444]LogAudioMixer: Display: 0: FrontLeft
+[2023.06.22-11.25.35:982][444]LogAudioMixer: Display: 1: FrontRight
+[2023.06.22-11.25.35:982][444]LogAudioMixer: Display: 2: FrontCenter
+[2023.06.22-11.25.35:982][444]LogAudioMixer: Display: 3: LowFrequency
+[2023.06.22-11.25.35:982][444]LogAudioMixer: Display: 4: BackLeft
+[2023.06.22-11.25.35:982][444]LogAudioMixer: Display: 5: BackRight
+[2023.06.22-11.25.35:982][444]LogAudioMixer: Display: 6: SideLeft
+[2023.06.22-11.25.35:982][444]LogAudioMixer: Display: 7: SideRight
+[2023.06.22-11.25.36:013][444]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek(R) Audio)
+[2023.06.22-11.25.36:014][444]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.22-11.25.36:014][444]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.22-11.25.36:014][444]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.22-11.25.36:014][444]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.06.22-11.25.36:014][444]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.06.22-11.25.36:014][444]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2023.06.22-11.25.36:015][444]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.06.22-11.25.36:015][444]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.06.22-11.25.36:015][444]LogInit: FAudioDevice initialized.
+[2023.06.22-11.25.36:015][444]LogAudio: Display: Audio Device (ID: 9) registered with world 'SpaceShooter'.
+[2023.06.22-11.25.36:024][444]LogLoad: Game class is 'BP_TopDownShooterGameMode_01_C'
+[2023.06.22-11.25.36:025][444]LogWorld: Bringing World /Game/UEDPIE_0_SpaceShooter.SpaceShooter up for play (max tick rate 60) at 2023.06.22-13.25.36
+[2023.06.22-11.25.36:025][444]LogWorld: Bringing up level for play took: 0.000498
+[2023.06.22-11.25.36:026][444]LogOnline: OSS: Creating online subsystem instance for: :Context_33
+[2023.06.22-11.25.36:028][444]PIE: Server logged in
+[2023.06.22-11.25.36:029][444]PIE: Play in editor total start time 0,098 seconds.
+[2023.06.22-11.25.59:756][865]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.22-11.25.59:756][865]LogWorld: BeginTearingDown for /Game/UEDPIE_0_SpaceShooter
+[2023.06.22-11.25.59:756][865]LogWorld: UWorld::CleanupWorld for SpaceShooter, bSessionEnded=true, bCleanupResources=true
+[2023.06.22-11.25.59:757][865]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.22-11.25.59:763][865]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.22-11.25.59:771][865]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.22-11.25.59:788][865]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.22-11.25.59:788][865]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.22-11.25.59:789][865]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.22-11.25.59:801][865]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.22-11.25.59:804][865]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2023.06.22-11.25.59:829][866]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2023.06.22-11.28.18:052][ 60]LogAudioMixer: Resetting audio stream to device id 
+[2023.06.22-11.28.18:114][ 60]LogAudioMixer: Display: 0: FrontLeft
+[2023.06.22-11.28.18:114][ 60]LogAudioMixer: Display: 1: FrontRight
+[2023.06.22-11.28.18:114][ 60]LogAudioMixer: Display: 2: FrontCenter
+[2023.06.22-11.28.18:114][ 60]LogAudioMixer: Display: 3: LowFrequency
+[2023.06.22-11.28.18:114][ 60]LogAudioMixer: Display: 4: BackLeft
+[2023.06.22-11.28.18:114][ 60]LogAudioMixer: Display: 5: BackRight
+[2023.06.22-11.28.18:114][ 60]LogAudioMixer: Display: 6: SideLeft
+[2023.06.22-11.28.18:114][ 60]LogAudioMixer: Display: 7: SideRight
+[2023.06.22-14.01.54:371][ 70]LogAudioMixer: Resetting audio stream to device id 
+[2023.06.22-14.01.54:410][ 70]LogAudioMixer: Display: 0: FrontLeft
+[2023.06.22-14.01.54:410][ 70]LogAudioMixer: Display: 1: FrontRight
+[2023.06.22-14.01.54:410][ 70]LogAudioMixer: Display: 2: FrontCenter
+[2023.06.22-14.01.54:410][ 70]LogAudioMixer: Display: 3: LowFrequency
+[2023.06.22-14.01.54:410][ 70]LogAudioMixer: Display: 4: BackLeft
+[2023.06.22-14.01.54:410][ 70]LogAudioMixer: Display: 5: BackRight
+[2023.06.22-14.01.54:410][ 70]LogAudioMixer: Display: 6: SideLeft
+[2023.06.22-14.01.54:410][ 70]LogAudioMixer: Display: 7: SideRight
+[2023.06.22-14.02.13:742][126]LogHttp: Warning: 000002239E4FDD00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B15687F87-4DBE-8FD7-178D-D583FB01EB26%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=0c0eb945476226dfe06f73b93c2cc87a%7C78a625bfcaa24327bd21ef1aff0b3c38%7Caea17bc2-ff0b-4349-b410-40e2d53b7bec&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.06.22-14.02.13:743][126]LogHttp: Warning: 000002239E4FDD00: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2023.06.22-14.02.13:743][126]LogHttp: Warning: 000002239E4FDD00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x222e6c27eb0 [can pipeline])
+[2023.06.22-14.02.13:743][126]LogHttp: Warning: 000002239E4FDD00: libcurl info message cache 1 (Re-using existing connection! (#1) with host datarouter.ol.epicgames.com)
+[2023.06.22-14.02.13:743][126]LogHttp: Warning: 000002239E4FDD00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.174.73.52) port 443 (#1))
+[2023.06.22-14.02.13:743][126]LogHttp: Warning: 000002239E4FDD00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2023.06.22-14.02.13:743][126]LogHttp: Warning: 000002239E4FDD00: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2023.06.22-14.02.13:743][126]LogHttp: Warning: 000002239E4FDD00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2023.06.22-14.02.13:743][126]LogHttp: Warning: 000002239E4FDD00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2023.06.22-14.02.13:743][126]LogHttp: Warning: 000002239E4FDD00: libcurl info message cache 7 (Closing connection 1)
+[2023.06.22-14.02.13:743][126]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B15687F87-4DBE-8FD7-178D-D583FB01EB26%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=0c0eb945476226dfe06f73b93c2cc87a%7C78a625bfcaa24327bd21ef1aff0b3c38%7Caea17bc2-ff0b-4349-b410-40e2d53b7bec&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.06.22-14.07.15:983][154]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/W_PlayerHUD.W_PlayerHUD
+[2023.06.22-14.09.56:459][882]LogSlate: Took 0.010566 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2023.06.22-14.10.50:721][202]BlueprintLog: New page: Compile W_PlayerHUD
+[2023.06.22-14.10.50:750][202]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2023.06.22-14.11.15:843][494]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2023.06.22-14.11.15:843][494]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/SpaceShooter' took 0.022
+[2023.06.22-14.11.15:843][494]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/W_PlayerHUD] ([2] browsable assets)...
+[2023.06.22-14.11.15:843][494]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/W_PlayerHUD]
+[2023.06.22-14.11.17:418][494]LogSavePackage: Moving '../../../../NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Saved/W_PlayerHUD_Auto7051EEE104879C938F42CC4BEA807FD42.tmp' to '../../../../NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Saved/Autosaves/Game/UI/W_PlayerHUD_Auto7.uasset'
+[2023.06.22-14.11.17:418][494]LogFileHelpers: Auto-saving content packages took 1.575
+[2023.06.22-14.11.48:356][202]BlueprintLog: New page: Compile W_PlayerHUD
+[2023.06.22-14.11.48:380][202]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2023.06.22-14.14.01:175][402]LogEditorTransaction: Undo Add Node
+[2023.06.22-14.16.05:496][469]LogEditorTransaction: Undo Rename Variable
+[2023.06.22-14.16.05:896][483]LogEditorTransaction: Undo Add Variable
+[2023.06.22-14.16.06:997][549]LogEditorTransaction: Undo Refresh Node(s)
+[2023.06.22-14.16.08:613][645]LogEditorTransaction: Undo Remove Variable
+[2023.06.22-14.16.12:160][847]LogEditorTransaction: Redo Remove Variable
+[2023.06.22-14.16.12:431][857]LogEditorTransaction: Redo Refresh Node(s)
+[2023.06.22-14.16.38:696][402]BlueprintLog: New page: Compile W_PlayerHUD
+[2023.06.22-14.16.38:726][402]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2023.06.22-14.16.47:733][930]BlueprintLog: New page: Compile BP_Soldier_01
+[2023.06.22-14.16.47:778][930]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2023.06.22-14.19.31:421][791]BlueprintLog: New page: Compile BP_Soldier_01
+[2023.06.22-14.19.31:471][791]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2023.06.22-14.19.38:054][178]BlueprintLog: New page: Compile BP_Soldier_01
+[2023.06.22-14.19.38:102][178]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2023.06.22-14.21.17:819][962]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2023.06.22-14.21.17:820][962]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/SpaceShooter' took 0.024
+[2023.06.22-14.21.17:820][962]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Pawns/BP_Soldier_01] ([4] browsable assets)...
+[2023.06.22-14.21.17:831][962]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Pawns/BP_Soldier_01.BP_Soldier_01]
+[2023.06.22-14.21.17:839][962]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Pawns/BP_Soldier_01.BP_Soldier_01]
+[2023.06.22-14.21.17:839][962]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Pawns/BP_Soldier_01]
+[2023.06.22-14.21.17:863][962]LogSavePackage: Moving '../../../../NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Saved/BP_Soldier_01_Auto8FF6C7C924D5868F38417148BD0F10092.tmp' to '../../../../NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Saved/Autosaves/Game/Blueprints/Pawns/BP_Soldier_01_Auto8.uasset'
+[2023.06.22-14.21.17:864][962]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/W_PlayerHUD] ([4] browsable assets)...
+[2023.06.22-14.21.17:864][962]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/W_PlayerHUD]
+[2023.06.22-14.21.17:867][962]LogSavePackage: Moving '../../../../NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Saved/W_PlayerHUD_Auto8FB3C61DD403C4BF9A3A2AAB2F53C5944.tmp' to '../../../../NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Saved/Autosaves/Game/UI/W_PlayerHUD_Auto8.uasset'
+[2023.06.22-14.21.17:867][962]LogFileHelpers: Auto-saving content packages took 0.048
+[2023.06.22-14.22.18:959][466]BlueprintLog: New page: Compile W_PlayerHUD
+[2023.06.22-14.22.18:992][466]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2023.06.22-14.28.04:854][ 83]BlueprintLog: New page: Compile W_PlayerHUD
+[2023.06.22-14.28.04:890][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2023.06.22-14.28.05:538][118]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/W_PlayerHUD" FILE="../../../../NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Content/UI/W_PlayerHUD.uasset" SILENT=true
+[2023.06.22-14.28.05:547][118]LogSavePackage: Moving '../../../../NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Saved/W_PlayerHUD0B45655B479BB8AAA074B59562FCC515.tmp' to '../../../../NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Content/UI/W_PlayerHUD.uasset'
+[2023.06.22-14.28.05:559][118]AssetCheck: New page: Asset Save: W_PlayerHUD
+[2023.06.22-14.28.05:559][118]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/W_PlayerHUD.W_PlayerHUD
+[2023.06.22-14.28.39:639][576]LogTemp: Repeating last play command: Selected Viewport
+[2023.06.22-14.28.39:644][576]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.22-14.28.39:644][576]PIE: New page: PIE session: SpaceShooter (22 cze 2023, 18:28:39)
+[2023.06.22-14.28.39:644][576]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_SpaceShooter
+[2023.06.22-14.28.39:646][576]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001762s)
+[2023.06.22-14.28.39:648][576]LogAIModule: Creating AISystem for world SpaceShooter
+[2023.06.22-14.28.39:648][576]LogPlayLevel: PIE: World Init took: (0.001675s)
+[2023.06.22-14.28.39:648][576]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SpaceShooter.SpaceShooter to /Game/UEDPIE_0_SpaceShooter.SpaceShooter (0.003561s)
+[2023.06.22-14.28.39:672][576]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2023.06.22-14.28.39:673][576]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2023.06.22-14.28.39:673][576]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.22-14.28.39:673][576]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.22-14.28.39:673][576]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.22-14.28.39:673][576]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.22-14.28.39:673][576]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.22-14.28.39:673][576]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.06.22-14.28.39:673][576]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.22-14.28.39:673][576]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.22-14.28.39:674][576]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.22-14.28.39:674][576]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.22-14.28.39:674][576]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.22-14.28.39:674][576]LogAudioMixer: Display: Initializing audio mixer.
+[2023.06.22-14.28.39:676][576]LogAudioMixer: Display: 0: FrontLeft
+[2023.06.22-14.28.39:676][576]LogAudioMixer: Display: 1: FrontRight
+[2023.06.22-14.28.39:676][576]LogAudioMixer: Display: 2: FrontCenter
+[2023.06.22-14.28.39:676][576]LogAudioMixer: Display: 3: LowFrequency
+[2023.06.22-14.28.39:676][576]LogAudioMixer: Display: 4: BackLeft
+[2023.06.22-14.28.39:676][576]LogAudioMixer: Display: 5: BackRight
+[2023.06.22-14.28.39:676][576]LogAudioMixer: Display: 6: SideLeft
+[2023.06.22-14.28.39:676][576]LogAudioMixer: Display: 7: SideRight
+[2023.06.22-14.28.39:711][576]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek(R) Audio)
+[2023.06.22-14.28.39:711][576]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.22-14.28.39:711][576]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.22-14.28.39:711][576]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.22-14.28.39:711][576]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.06.22-14.28.39:711][576]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.06.22-14.28.39:712][576]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2023.06.22-14.28.39:712][576]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.06.22-14.28.39:712][576]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.06.22-14.28.39:712][576]LogInit: FAudioDevice initialized.
+[2023.06.22-14.28.39:712][576]LogAudio: Display: Audio Device (ID: 10) registered with world 'SpaceShooter'.
+[2023.06.22-14.28.39:720][576]LogLoad: Game class is 'BP_TopDownShooterGameMode_01_C'
+[2023.06.22-14.28.39:721][576]LogWorld: Bringing World /Game/UEDPIE_0_SpaceShooter.SpaceShooter up for play (max tick rate 60) at 2023.06.22-16.28.39
+[2023.06.22-14.28.39:721][576]LogWorld: Bringing up level for play took: 0.000389
+[2023.06.22-14.28.39:721][576]LogOnline: OSS: Creating online subsystem instance for: :Context_36
+[2023.06.22-14.28.39:742][576]PIE: Server logged in
+[2023.06.22-14.28.39:742][576]PIE: Play in editor total start time 0,098 seconds.
+[2023.06.22-14.31.36:975][396]LogSlate: Window 'Color Picker' being destroyed
+[2023.06.22-14.31.39:955][560]Cmd: TRANSACTION UNDO
+[2023.06.22-14.31.39:955][560]LogEditorTransaction: Undo Drag and Drop Widget
+[2023.06.22-14.31.46:230][900]Cmd: TRANSACTION UNDO
+[2023.06.22-14.31.46:230][900]LogEditorTransaction: Undo Drag and Drop Widget
+[2023.06.22-14.31.52:858][281]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/W_PlayerHUD" FILE="../../../../NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Content/UI/W_PlayerHUD.uasset" SILENT=true
+[2023.06.22-14.31.52:867][281]LogSavePackage: Moving '../../../../NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Saved/W_PlayerHUDF9BC37854A2E7323B8FEE79B0B033248.tmp' to '../../../../NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Content/UI/W_PlayerHUD.uasset'
+[2023.06.22-14.31.52:872][281]AssetCheck: New page: Asset Save: W_PlayerHUD
+[2023.06.22-14.31.52:872][281]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/W_PlayerHUD.W_PlayerHUD
+[2023.06.22-14.31.56:427][493]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.22-14.31.56:427][493]LogWorld: BeginTearingDown for /Game/UEDPIE_0_SpaceShooter
+[2023.06.22-14.31.56:428][493]LogWorld: UWorld::CleanupWorld for SpaceShooter, bSessionEnded=true, bCleanupResources=true
+[2023.06.22-14.31.56:428][493]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.22-14.31.56:433][493]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.22-14.31.56:441][493]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.22-14.31.56:463][493]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.22-14.31.56:464][493]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.22-14.31.56:465][493]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.22-14.31.56:488][493]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.22-14.31.56:493][493]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2023.06.22-14.31.56:519][494]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2023.06.22-14.31.58:542][611]BlueprintLog: New page: Compile W_PlayerHUD
+[2023.06.22-14.31.58:569][611]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2023.06.22-14.32.00:162][702]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/W_PlayerHUD" FILE="../../../../NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Content/UI/W_PlayerHUD.uasset" SILENT=true
+[2023.06.22-14.32.00:171][702]LogSavePackage: Moving '../../../../NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Saved/W_PlayerHUD133700A841CD212310E818BBB1DFB34F.tmp' to '../../../../NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Content/UI/W_PlayerHUD.uasset'
+[2023.06.22-14.32.00:181][702]AssetCheck: New page: Asset Save: W_PlayerHUD
+[2023.06.22-14.32.00:181][702]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/W_PlayerHUD.W_PlayerHUD
+[2023.06.22-14.32.03:081][876]LogTemp: Repeating last play command: Selected Viewport
+[2023.06.22-14.32.03:085][876]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.22-14.32.03:085][876]PIE: New page: PIE session: SpaceShooter (22 cze 2023, 18:32:03)
+[2023.06.22-14.32.03:107][876]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_SpaceShooter
+[2023.06.22-14.32.03:108][876]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001675s)
+[2023.06.22-14.32.03:110][876]LogAIModule: Creating AISystem for world SpaceShooter
+[2023.06.22-14.32.03:110][876]LogPlayLevel: PIE: World Init took: (0.001702s)
+[2023.06.22-14.32.03:110][876]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SpaceShooter.SpaceShooter to /Game/UEDPIE_0_SpaceShooter.SpaceShooter (0.003589s)
+[2023.06.22-14.32.03:133][876]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2023.06.22-14.32.03:134][876]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2023.06.22-14.32.03:134][876]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.22-14.32.03:134][876]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.22-14.32.03:134][876]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.22-14.32.03:134][876]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.22-14.32.03:134][876]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.22-14.32.03:134][876]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.06.22-14.32.03:134][876]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.22-14.32.03:134][876]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.22-14.32.03:135][876]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.22-14.32.03:135][876]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.22-14.32.03:135][876]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.22-14.32.03:135][876]LogAudioMixer: Display: Initializing audio mixer.
+[2023.06.22-14.32.03:136][876]LogAudioMixer: Display: 0: FrontLeft
+[2023.06.22-14.32.03:136][876]LogAudioMixer: Display: 1: FrontRight
+[2023.06.22-14.32.03:136][876]LogAudioMixer: Display: 2: FrontCenter
+[2023.06.22-14.32.03:136][876]LogAudioMixer: Display: 3: LowFrequency
+[2023.06.22-14.32.03:136][876]LogAudioMixer: Display: 4: BackLeft
+[2023.06.22-14.32.03:136][876]LogAudioMixer: Display: 5: BackRight
+[2023.06.22-14.32.03:136][876]LogAudioMixer: Display: 6: SideLeft
+[2023.06.22-14.32.03:136][876]LogAudioMixer: Display: 7: SideRight
+[2023.06.22-14.32.03:168][876]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek(R) Audio)
+[2023.06.22-14.32.03:168][876]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.22-14.32.03:168][876]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.22-14.32.03:168][876]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.22-14.32.03:168][876]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.06.22-14.32.03:168][876]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.06.22-14.32.03:168][876]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2023.06.22-14.32.03:169][876]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.06.22-14.32.03:169][876]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.06.22-14.32.03:169][876]LogInit: FAudioDevice initialized.
+[2023.06.22-14.32.03:169][876]LogAudio: Display: Audio Device (ID: 11) registered with world 'SpaceShooter'.
+[2023.06.22-14.32.03:179][876]LogLoad: Game class is 'BP_TopDownShooterGameMode_01_C'
+[2023.06.22-14.32.03:180][876]LogWorld: Bringing World /Game/UEDPIE_0_SpaceShooter.SpaceShooter up for play (max tick rate 60) at 2023.06.22-16.32.03
+[2023.06.22-14.32.03:180][876]LogWorld: Bringing up level for play took: 0.000379
+[2023.06.22-14.32.03:181][876]LogOnline: OSS: Creating online subsystem instance for: :Context_37
+[2023.06.22-14.32.03:183][876]PIE: Server logged in
+[2023.06.22-14.32.03:184][876]PIE: Play in editor total start time 0,099 seconds.
+[2023.06.22-14.32.12:818][453]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.22-14.32.12:818][453]LogWorld: BeginTearingDown for /Game/UEDPIE_0_SpaceShooter
+[2023.06.22-14.32.12:819][453]LogWorld: UWorld::CleanupWorld for SpaceShooter, bSessionEnded=true, bCleanupResources=true
+[2023.06.22-14.32.12:819][453]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.22-14.32.12:829][453]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.22-14.32.12:837][453]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.22-14.32.12:857][453]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.22-14.32.12:857][453]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.22-14.32.12:858][453]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.22-14.32.12:868][453]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.22-14.32.12:871][453]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2023.06.22-14.32.12:897][454]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2023.06.22-14.32.28:059][358]LogSlate: Window 'Color Picker' being destroyed
+[2023.06.22-14.32.29:778][460]BlueprintLog: New page: Compile W_PlayerHUD
+[2023.06.22-14.32.29:807][460]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2023.06.22-14.32.30:281][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/W_PlayerHUD" FILE="../../../../NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Content/UI/W_PlayerHUD.uasset" SILENT=true
+[2023.06.22-14.32.30:290][483]LogSavePackage: Moving '../../../../NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Saved/W_PlayerHUDD344114A4951CF09F3E4BC8F1797D9E4.tmp' to '../../../../NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Content/UI/W_PlayerHUD.uasset'
+[2023.06.22-14.32.30:298][483]AssetCheck: New page: Asset Save: W_PlayerHUD
+[2023.06.22-14.32.30:298][483]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/W_PlayerHUD.W_PlayerHUD
+[2023.06.22-14.32.31:626][563]LogTemp: Repeating last play command: Selected Viewport
+[2023.06.22-14.32.31:631][563]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.22-14.32.31:631][563]PIE: New page: PIE session: SpaceShooter (22 cze 2023, 18:32:31)
+[2023.06.22-14.32.31:631][563]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_SpaceShooter
+[2023.06.22-14.32.31:632][563]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001579s)
+[2023.06.22-14.32.31:633][563]LogAIModule: Creating AISystem for world SpaceShooter
+[2023.06.22-14.32.31:634][563]LogPlayLevel: PIE: World Init took: (0.001517s)
+[2023.06.22-14.32.31:634][563]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SpaceShooter.SpaceShooter to /Game/UEDPIE_0_SpaceShooter.SpaceShooter (0.003200s)
+[2023.06.22-14.32.31:656][563]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2023.06.22-14.32.31:657][563]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2023.06.22-14.32.31:657][563]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.22-14.32.31:657][563]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.22-14.32.31:657][563]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.22-14.32.31:657][563]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.22-14.32.31:657][563]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.22-14.32.31:657][563]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.06.22-14.32.31:657][563]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.22-14.32.31:657][563]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.22-14.32.31:658][563]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.22-14.32.31:658][563]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.22-14.32.31:658][563]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.22-14.32.31:658][563]LogAudioMixer: Display: Initializing audio mixer.
+[2023.06.22-14.32.31:659][563]LogAudioMixer: Display: 0: FrontLeft
+[2023.06.22-14.32.31:659][563]LogAudioMixer: Display: 1: FrontRight
+[2023.06.22-14.32.31:659][563]LogAudioMixer: Display: 2: FrontCenter
+[2023.06.22-14.32.31:659][563]LogAudioMixer: Display: 3: LowFrequency
+[2023.06.22-14.32.31:659][563]LogAudioMixer: Display: 4: BackLeft
+[2023.06.22-14.32.31:660][563]LogAudioMixer: Display: 5: BackRight
+[2023.06.22-14.32.31:660][563]LogAudioMixer: Display: 6: SideLeft
+[2023.06.22-14.32.31:660][563]LogAudioMixer: Display: 7: SideRight
+[2023.06.22-14.32.31:690][563]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek(R) Audio)
+[2023.06.22-14.32.31:690][563]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.22-14.32.31:690][563]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.22-14.32.31:690][563]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.22-14.32.31:690][563]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.06.22-14.32.31:690][563]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.06.22-14.32.31:690][563]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2023.06.22-14.32.31:691][563]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.06.22-14.32.31:691][563]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.06.22-14.32.31:691][563]LogInit: FAudioDevice initialized.
+[2023.06.22-14.32.31:691][563]LogAudio: Display: Audio Device (ID: 12) registered with world 'SpaceShooter'.
+[2023.06.22-14.32.31:702][563]LogLoad: Game class is 'BP_TopDownShooterGameMode_01_C'
+[2023.06.22-14.32.31:704][563]LogWorld: Bringing World /Game/UEDPIE_0_SpaceShooter.SpaceShooter up for play (max tick rate 60) at 2023.06.22-16.32.31
+[2023.06.22-14.32.31:704][563]LogWorld: Bringing up level for play took: 0.000388
+[2023.06.22-14.32.31:704][563]LogOnline: OSS: Creating online subsystem instance for: :Context_38
+[2023.06.22-14.32.31:707][563]PIE: Server logged in
+[2023.06.22-14.32.31:707][563]PIE: Play in editor total start time 0,077 seconds.
+[2023.06.22-14.32.39:228][ 12]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.22-14.32.39:228][ 12]LogWorld: BeginTearingDown for /Game/UEDPIE_0_SpaceShooter
+[2023.06.22-14.32.39:228][ 12]LogWorld: UWorld::CleanupWorld for SpaceShooter, bSessionEnded=true, bCleanupResources=true
+[2023.06.22-14.32.39:229][ 12]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.22-14.32.39:235][ 12]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.22-14.32.39:243][ 12]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.22-14.32.39:261][ 12]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.22-14.32.39:262][ 12]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.22-14.32.39:263][ 12]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.22-14.32.39:298][ 12]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.22-14.32.39:301][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2023.06.22-14.32.39:325][ 13]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2023.06.22-14.32.50:231][656]LogSlate: Window 'Color Picker' being destroyed
+[2023.06.22-14.32.52:512][791]BlueprintLog: New page: Compile W_PlayerHUD
+[2023.06.22-14.32.52:538][791]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2023.06.22-14.32.52:930][809]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/W_PlayerHUD" FILE="../../../../NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Content/UI/W_PlayerHUD.uasset" SILENT=true
+[2023.06.22-14.32.52:941][809]LogSavePackage: Moving '../../../../NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Saved/W_PlayerHUDD3EB1CB847917DD6B613B297D8CDEF4D.tmp' to '../../../../NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Content/UI/W_PlayerHUD.uasset'
+[2023.06.22-14.32.52:951][809]AssetCheck: New page: Asset Save: W_PlayerHUD
+[2023.06.22-14.32.52:951][809]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/W_PlayerHUD.W_PlayerHUD
+[2023.06.22-14.32.54:014][873]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2023.06.22-14.32.54:092][877]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (SkySphereMesh)
+[2023.06.22-14.32.55:183][941]LogTemp: Repeating last play command: Selected Viewport
+[2023.06.22-14.32.55:188][941]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.22-14.32.55:188][941]PIE: New page: PIE session: SpaceShooter (22 cze 2023, 18:32:55)
+[2023.06.22-14.32.55:188][941]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_SpaceShooter
+[2023.06.22-14.32.55:190][941]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001867s)
+[2023.06.22-14.32.55:192][941]LogAIModule: Creating AISystem for world SpaceShooter
+[2023.06.22-14.32.55:193][941]LogPlayLevel: PIE: World Init took: (0.002292s)
+[2023.06.22-14.32.55:193][941]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SpaceShooter.SpaceShooter to /Game/UEDPIE_0_SpaceShooter.SpaceShooter (0.004320s)
+[2023.06.22-14.32.55:215][941]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2023.06.22-14.32.55:217][941]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2023.06.22-14.32.55:217][941]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.22-14.32.55:217][941]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.22-14.32.55:217][941]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.22-14.32.55:217][941]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.22-14.32.55:217][941]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.22-14.32.55:217][941]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.06.22-14.32.55:217][941]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.22-14.32.55:217][941]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.22-14.32.55:217][941]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.22-14.32.55:217][941]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.22-14.32.55:217][941]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.22-14.32.55:217][941]LogAudioMixer: Display: Initializing audio mixer.
+[2023.06.22-14.32.55:219][941]LogAudioMixer: Display: 0: FrontLeft
+[2023.06.22-14.32.55:219][941]LogAudioMixer: Display: 1: FrontRight
+[2023.06.22-14.32.55:219][941]LogAudioMixer: Display: 2: FrontCenter
+[2023.06.22-14.32.55:219][941]LogAudioMixer: Display: 3: LowFrequency
+[2023.06.22-14.32.55:219][941]LogAudioMixer: Display: 4: BackLeft
+[2023.06.22-14.32.55:219][941]LogAudioMixer: Display: 5: BackRight
+[2023.06.22-14.32.55:219][941]LogAudioMixer: Display: 6: SideLeft
+[2023.06.22-14.32.55:219][941]LogAudioMixer: Display: 7: SideRight
+[2023.06.22-14.32.55:250][941]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek(R) Audio)
+[2023.06.22-14.32.55:251][941]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.22-14.32.55:251][941]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.22-14.32.55:251][941]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.22-14.32.55:251][941]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.06.22-14.32.55:251][941]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.06.22-14.32.55:251][941]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2023.06.22-14.32.55:252][941]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.06.22-14.32.55:252][941]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.06.22-14.32.55:252][941]LogInit: FAudioDevice initialized.
+[2023.06.22-14.32.55:252][941]LogAudio: Display: Audio Device (ID: 13) registered with world 'SpaceShooter'.
+[2023.06.22-14.32.55:258][941]LogLoad: Game class is 'BP_TopDownShooterGameMode_01_C'
+[2023.06.22-14.32.55:259][941]LogWorld: Bringing World /Game/UEDPIE_0_SpaceShooter.SpaceShooter up for play (max tick rate 60) at 2023.06.22-16.32.55
+[2023.06.22-14.32.55:259][941]LogWorld: Bringing up level for play took: 0.000390
+[2023.06.22-14.32.55:260][941]LogOnline: OSS: Creating online subsystem instance for: :Context_40
+[2023.06.22-14.32.55:262][941]PIE: Server logged in
+[2023.06.22-14.32.55:263][941]PIE: Play in editor total start time 0,075 seconds.
+[2023.06.22-14.33.14:087][ 68]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.22-14.33.14:087][ 68]LogWorld: BeginTearingDown for /Game/UEDPIE_0_SpaceShooter
+[2023.06.22-14.33.14:087][ 68]LogWorld: UWorld::CleanupWorld for SpaceShooter, bSessionEnded=true, bCleanupResources=true
+[2023.06.22-14.33.14:088][ 68]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.22-14.33.14:099][ 68]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.22-14.33.14:107][ 68]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.22-14.33.14:126][ 68]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.22-14.33.14:126][ 68]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.22-14.33.14:127][ 68]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.22-14.33.14:149][ 68]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.22-14.33.14:151][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2023.06.22-14.33.14:176][ 69]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2023.06.22-14.33.30:149][ 22]LogSlate: Window 'Color Picker' being destroyed
+[2023.06.22-14.33.32:330][151]BlueprintLog: New page: Compile W_PlayerHUD
+[2023.06.22-14.33.32:356][151]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2023.06.22-14.33.32:798][172]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/W_PlayerHUD" FILE="../../../../NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Content/UI/W_PlayerHUD.uasset" SILENT=true
+[2023.06.22-14.33.32:807][172]LogSavePackage: Moving '../../../../NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Saved/W_PlayerHUDF7F605E14172A253E46B448BF1CC7B08.tmp' to '../../../../NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Content/UI/W_PlayerHUD.uasset'
+[2023.06.22-14.33.32:817][172]AssetCheck: New page: Asset Save: W_PlayerHUD
+[2023.06.22-14.33.32:817][172]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/W_PlayerHUD.W_PlayerHUD
+[2023.06.22-14.33.43:228][797]LogTemp: Repeating last play command: Selected Viewport
+[2023.06.22-14.33.43:233][797]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.22-14.33.43:233][797]PIE: New page: PIE session: SpaceShooter (22 cze 2023, 18:33:43)
+[2023.06.22-14.33.43:233][797]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_SpaceShooter
+[2023.06.22-14.33.43:235][797]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001603s)
+[2023.06.22-14.33.43:236][797]LogAIModule: Creating AISystem for world SpaceShooter
+[2023.06.22-14.33.43:236][797]LogPlayLevel: PIE: World Init took: (0.001212s)
+[2023.06.22-14.33.43:236][797]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SpaceShooter.SpaceShooter to /Game/UEDPIE_0_SpaceShooter.SpaceShooter (0.002945s)
+[2023.06.22-14.33.43:259][797]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2023.06.22-14.33.43:260][797]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2023.06.22-14.33.43:260][797]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.22-14.33.43:260][797]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.22-14.33.43:260][797]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.22-14.33.43:260][797]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.22-14.33.43:260][797]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.22-14.33.43:260][797]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.06.22-14.33.43:260][797]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.22-14.33.43:260][797]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.22-14.33.43:261][797]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.22-14.33.43:261][797]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.22-14.33.43:261][797]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.22-14.33.43:261][797]LogAudioMixer: Display: Initializing audio mixer.
+[2023.06.22-14.33.43:263][797]LogAudioMixer: Display: 0: FrontLeft
+[2023.06.22-14.33.43:263][797]LogAudioMixer: Display: 1: FrontRight
+[2023.06.22-14.33.43:263][797]LogAudioMixer: Display: 2: FrontCenter
+[2023.06.22-14.33.43:263][797]LogAudioMixer: Display: 3: LowFrequency
+[2023.06.22-14.33.43:263][797]LogAudioMixer: Display: 4: BackLeft
+[2023.06.22-14.33.43:263][797]LogAudioMixer: Display: 5: BackRight
+[2023.06.22-14.33.43:263][797]LogAudioMixer: Display: 6: SideLeft
+[2023.06.22-14.33.43:263][797]LogAudioMixer: Display: 7: SideRight
+[2023.06.22-14.33.43:291][797]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek(R) Audio)
+[2023.06.22-14.33.43:292][797]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.22-14.33.43:292][797]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.22-14.33.43:292][797]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.22-14.33.43:292][797]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.06.22-14.33.43:292][797]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.06.22-14.33.43:292][797]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2023.06.22-14.33.43:293][797]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.06.22-14.33.43:293][797]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.06.22-14.33.43:293][797]LogInit: FAudioDevice initialized.
+[2023.06.22-14.33.43:293][797]LogAudio: Display: Audio Device (ID: 14) registered with world 'SpaceShooter'.
+[2023.06.22-14.33.43:297][797]LogLoad: Game class is 'BP_TopDownShooterGameMode_01_C'
+[2023.06.22-14.33.43:299][797]LogWorld: Bringing World /Game/UEDPIE_0_SpaceShooter.SpaceShooter up for play (max tick rate 60) at 2023.06.22-16.33.43
+[2023.06.22-14.33.43:299][797]LogWorld: Bringing up level for play took: 0.000398
+[2023.06.22-14.33.43:299][797]LogOnline: OSS: Creating online subsystem instance for: :Context_41
+[2023.06.22-14.33.43:302][797]PIE: Server logged in
+[2023.06.22-14.33.43:302][797]PIE: Play in editor total start time 0,07 seconds.
+[2023.06.22-14.33.51:248][272]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.22-14.33.51:248][272]LogWorld: BeginTearingDown for /Game/UEDPIE_0_SpaceShooter
+[2023.06.22-14.33.51:248][272]LogWorld: UWorld::CleanupWorld for SpaceShooter, bSessionEnded=true, bCleanupResources=true
+[2023.06.22-14.33.51:248][272]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.22-14.33.51:255][272]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.22-14.33.51:264][272]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.22-14.33.51:284][272]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.22-14.33.51:285][272]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.22-14.33.51:286][272]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.22-14.33.51:298][272]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.22-14.33.51:301][272]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2023.06.22-14.33.51:325][273]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2023.06.22-14.33.54:486][460]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2023.06.22-14.33.54:493][460]LogSavePackage: Moving '../../../../NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Saved/SpaceShooterA715D1764DB7FD41310C36B220A87B48.tmp' to '../../../../NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Content/SpaceShooter.umap'
+[2023.06.22-14.33.54:514][460]LogSavePackage: Moving '../../../../NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Saved/SpaceShooter_BuiltDataA92E9A9A4E0AE043FF31FAA2AE6E48FB.tmp' to '../../../../NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Content/SpaceShooter_BuiltData.uasset'
+[2023.06.22-14.33.54:526][460]AssetCheck: New page: Asset Save: multiple assets
+[2023.06.22-14.33.54:526][460]LogContentValidation: Display: Validating World /Game/SpaceShooter.SpaceShooter
+[2023.06.22-14.33.54:527][460]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/SpaceShooter_BuiltData.SpaceShooter_BuiltData
+[2023.06.22-14.33.56:639][585]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2023.06.22-14.33.56:645][585]LogSavePackage: Moving '../../../../NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Saved/SpaceShooter72C30D6441BE46DA53654D86C88B701E.tmp' to '../../../../NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Content/SpaceShooter.umap'
+[2023.06.22-14.33.56:664][585]LogSavePackage: Moving '../../../../NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Saved/SpaceShooter_BuiltData1C1D7C5A4486969961A103B475822FC8.tmp' to '../../../../NAUKA/1ROKstudia/pzp/AmericanSchoolSymulator/ZofiaSajdak_Shooter/ZofiaSajdak_Shooter/Content/SpaceShooter_BuiltData.uasset'
+[2023.06.22-14.33.56:678][585]AssetCheck: New page: Asset Save: multiple assets
+[2023.06.22-14.33.56:678][585]LogContentValidation: Display: Validating World /Game/SpaceShooter.SpaceShooter
+[2023.06.22-14.33.56:678][585]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/SpaceShooter_BuiltData.SpaceShooter_BuiltData
